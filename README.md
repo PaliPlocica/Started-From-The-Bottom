@@ -9,5 +9,5 @@
 
 ### <a name="1">1. hodina</a>
 
-- inštalácia Sublime Text3
+- inštalácia Sublime Text </br>
 <a name="http://www.sublimetext.com/3">http://www.sublimetext.com/3</a>
