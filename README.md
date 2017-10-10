@@ -9,7 +9,7 @@
 
 ### <a name="1">1. hodina</a>
 
-- inštalácia SublimeText</br>
+inštalácia SublimeText</br>
 linka kde si stiahnete editor SublimeText je:<a name="http://www.sublimetext.com/3">http://www.sublimetext.com/3</a></br>
 stiahnite si inštaláciu podľa vášho operačného systému, keď to budete mať je potrebne si to spustiť a urobiť pár magických krokov
 keď máme spustený Sublime Text stlačte najpoužívanejšiu skratku na vyhľadávanie všetkého ctrl+shift+p
