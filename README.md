@@ -19,7 +19,7 @@ malo by vám vyskočiť takéto parádne okno</br>
 napíšeme package user a klikneme na Preferences: Package Control Settings - User potom sa nám zobrazí súbor s baličkovými nastaveniami kde potrebujeme zistiť jeho path cestu kde sa nachádza aby sme tam mohli uspešne preniesť moje nastavenia... takže skopírjte si cestu kliknutim pravým tlačidlom myši a zobrazí sa vam menu v ktorom vyberte Copy File Path</br>
 ![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/2.png)
 
-potom si otvorte folder a do cesty skopirujete path vymazte si vsetko z prava po User takto a stlacte enter: vypnite SublimeText a vymazte všetko čo máte v tom foldri</br>
+potom si otvorte folder a do cesty skopirujete path vymazte si vsetko z prava po User takto a stlacte enter: vypnite SublimeText a vymazte všetko čo máte v tom subore</br>
 ![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/3.png)
 
 potom si stiahnite môj config zoznam baličkov, ktoré potrebuje váš editor <a name="https://github.com/frantallukas10/Sublime-editor-config">https://github.com/frantallukas10/Sublime-editor-config</a></br>
