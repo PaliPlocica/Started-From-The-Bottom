@@ -45,3 +45,19 @@ ak chcete zobraziť bočný panel ako mám ja tak tu je návod:
 zaregistrujeme sa do github aby sme mali svoju vlastnu krabicku, kde si budeme odkladat kazdy svoju pracu na čom majstroval v priebehu learn2code a tiež aby sa mohol chváliť aký je skvelý a firmy sa o neho mohli pobiť <a name="https://github.com/join">https://github.com/join</a></br>
 vyplnte udaje a klik Create an account, kedže nechcete platiť 7dugatov mesačne a mať sukromne krabičky a repositáre tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vás...
 verifikujte si účet, na email vam prišlo info
+prejde na vytvorenie vášho prvého repa alias krabičky čiže poďme najprv na githube na váš profil
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/11.png)
+kliknime na tlačidlo aby sme vytvorili našu prvu mega super duper krabičku
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/12.png)
+vyplníme info o krabičke
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/13.png)
+skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/14.png)
+otvorme si nainštalovaný gitkraken a poďme si vyklonovať teda skopirovať a nalinkovať náš repo alias krabičku, najprv klinime na ikonku sem
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/15.png)
+potom vyberme clone
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/16.png)
+vyberme si kde chceme mať krabičku v našom počítači a zadajme našu skopírovanu url adresu krabičky z githubu
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/17.png)
+nejako takto
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/18.png)
