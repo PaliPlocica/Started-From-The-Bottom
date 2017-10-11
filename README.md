@@ -38,3 +38,10 @@ ak chcete zobraziť bočný panel ako mám ja tak tu je návod:
 ![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/9.png)
 ![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/10.png)
 
+#### inštalacia gitKraken</br>
+<a name="https://www.gitkraken.com/">https://www.gitkraken.com/</a></br>
+
+#### registracia github a vytvorenie repositara alias krabičky</br>
+zaregistrujeme sa do github aby sme mali svoju vlastnu krabicku, kde si budeme odkladat kazdy svoju pracu na čom majstroval v priebehu learn2code a tiež aby sa mohol chváliť aký je skvelý a firmy sa o neho mohli pobiť <a name="https://github.com/join">https://github.com/join</a></br>
+vyplnte udaje a klik Create an account, kedže nechcete platiť 7dugatov mesačne a mať sukromne krabičky a repositáre tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vás...
+verifikujte si účet, na email vam prišlo info
