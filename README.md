@@ -14,6 +14,7 @@ linka kde si stiahnete editor SublimeText je:<a name="http://www.sublimetext.com
 stiahnite si inštaláciu podľa vášho operačného systému, keď to budete mať je potrebne si to spustiť a urobiť pár magických krokov
 keď máme spustený Sublime Text stlačte najpoužívanejšiu skratku na vyhľadávanie všetkého ctrl+shift+p
 malo by vám vyskočiť takéto parádne okno</br> 
+![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/1.png)
 
 napíšeme package user a klikneme na Preferences: Package Control Settings - User potom sa nám zobrazí súbor s baličkovými nastaveniami kde potrebujeme zistiť jeho path cestu kde sa nachádza aby sme tam mohli uspešne preniesť moje nastavenia... takže skopírjte si cestu kliknutim pravým tlačidlom myši a zobrazí sa vam menu v ktorom vyberte Copy File Path</br>
 
