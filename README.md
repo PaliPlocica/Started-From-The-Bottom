@@ -63,3 +63,24 @@ vyberme si kde chceme mať krabičku v našom počítači a zadajme našu skopí
 nejako takto
 ![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/18.png)
 
+
+### <a name="2">2. hodina</a>
+#### Štruktúra webstránky a info o html tagoch:</br>
+- [vsetky html tagy po kope](http://overapi.com/html)
+- [skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)
+- [zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+- [zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+
+- [info o pisani html tagoch pre vzhlad stranok](https://www.w3schools.com/html/html_layout.asp)
+- [vsetky html tagy po kope](https://www.w3schools.com/html/html_basic.asp)
+- [zakladne info o html tagoch](http://overapi.com/html)
+
+- [zakladne info o elementoch](https://www.w3schools.com/html/html_elements.asp)
+- [zakladne info o atributoch](https://www.w3schools.com/html/html_attributes.asp)
+- [zakladne info o hlavičkových tágoch h1,h2,...,h6](https://www.w3schools.com/html/html_headings.asp)
+- [zakladne info o paragraphs html tagoch pre, br, pre](https://www.w3schools.com/html/html_paragraphs.asp)
+- [html tagy na formatovanie textu](https://www.w3schools.com/html/html_formatting.asp)
+- [citacie pomocou html tagov](https://www.w3schools.com/html/html_paragraphs.asp)
+- [zakladne info tabuľkách](https://www.w3schools.com/html/html_tables.asp)
+- [zakladne info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)
+- [zakladne info o iframoch](https://www.w3schools.com/html/html_iframe.asp)
