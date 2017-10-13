@@ -75,7 +75,6 @@ nejako takto
 - [zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)</br>
 
 #### info o html tagoch a atributoch:</br>
-- [vsetky html tagy po kope](https://www.w3schools.com/html/html_basic.asp)</br>
 - [zakladne info o html tagoch](http://overapi.com/html)</br>
 - [zakladne info o elementoch](https://www.w3schools.com/html/html_elements.asp)</br>
 - [zakladne info o atributoch](https://www.w3schools.com/html/html_attributes.asp)</br>
