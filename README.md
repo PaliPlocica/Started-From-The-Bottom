@@ -68,7 +68,8 @@ nejako takto
 ### <a name="2">2. hodina</a>
 ([prvahodina](/prvahodina)):
 #### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
-- [info o pisani html tagoch pre vzhlad stranok](https://www.w3schools.com/html/html_layout.asp)</br>
+- [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)</br>
+- [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)</br>
 - [vsetky html tagy po kope](http://overapi.com/html)</br>
 - [skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)</br>
 - [zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)</br>
