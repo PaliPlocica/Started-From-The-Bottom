@@ -88,6 +88,6 @@ nejako takto
 - [zakladne info o iframoch](https://www.w3schools.com/html/html_iframe.asp)</br>
 
 #### Homework/Domáca úloha</br>
-vytvorte vo vašom repositári folder s nazvom prvadomacauloha a do neho si vytvorte file index.html v ktorom sa pokúste napisať text a obaliť ho html tagmi tak aby ste docielili rovnaky výsledok v prehliadači ako je na tomto obrázku ak to budete mať nezabudnite tuto vec preniesť do vášho repositara na githube...
-![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/2/1.png)
-([riešenie pre vlastné svedomie až keď to máte hotove](/prvadomacauloha)):
+vytvorte vo vašom repositári folder s nazvom prvadomacauloha a do neho si vytvorte file index.html v ktorom sa pokúste napisať text a obaliť ho html tagmi tak aby ste docielili rovnaky výsledok v prehliadači ako je na tomto obrázku ak to budete mať nezabudnite tuto vec preniesť do vášho repositara na githube...<br>
+![alt text](/2/1.png)<br>
+([riešenie pre vlastné svedomie až keď to máte hotove](/2/1.png)):<br>
