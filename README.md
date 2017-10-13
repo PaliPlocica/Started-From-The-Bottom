@@ -63,6 +63,7 @@ vyberme si kde chceme mať krabičku v našom počítači a zadajme našu skopí
 nejako takto
 ![alt text](https://github.com/frantallukas10/learn2codeNew/blob/master/1/18.png)
 
+## Modul 2: Štruktúra webstránky a info o skratkach pre sublimetext, info o html tagoch a atributoch
 
 ### <a name="2">2. hodina</a>
 #### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
