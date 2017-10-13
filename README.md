@@ -90,4 +90,4 @@ nejako takto
 #### Homework/Domáca úloha</br>
 vytvorte vo vašom repositári folder s nazvom prvadomacauloha a do neho si vytvorte file index.html v ktorom sa pokúste napisať text a obaliť ho html tagmi tak aby ste docielili rovnaky výsledok v prehliadači ako je na tomto obrázku ak to budete mať nezabudnite tuto vec preniesť do vášho repositara na githube...<br>
 ![alt text](/2/1.png)<br>
-([riešenie pre vlastné svedomie až keď to máte hotove](/2/1.png)):<br>
+([riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/2/1.png)):<br>
