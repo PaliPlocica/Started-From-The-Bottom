@@ -70,11 +70,10 @@ nejako takto
 - [skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)
 - [zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 - [zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
-
+<hr>
 - [info o pisani html tagoch pre vzhlad stranok](https://www.w3schools.com/html/html_layout.asp)
 - [vsetky html tagy po kope](https://www.w3schools.com/html/html_basic.asp)
 - [zakladne info o html tagoch](http://overapi.com/html)
-
 - [zakladne info o elementoch](https://www.w3schools.com/html/html_elements.asp)
 - [zakladne info o atributoch](https://www.w3schools.com/html/html_attributes.asp)
 - [zakladne info o hlavičkových tágoch h1,h2,...,h6](https://www.w3schools.com/html/html_headings.asp)
