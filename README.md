@@ -66,7 +66,7 @@ nejako takto
 ## Modul 2: Štruktúra webstránky a info o skratkach pre sublimetext, info o html tagoch a atributoch
 
 ### <a name="2">2. hodina</a>
-([prvahodina](/prvahodina.zip)):
+([prvahodina](/prvahodina)):
 #### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
 - [info o pisani html tagoch pre vzhlad stranok](https://www.w3schools.com/html/html_layout.asp)</br>
 - [vsetky html tagy po kope](http://overapi.com/html)</br>
