@@ -65,13 +65,14 @@ nejako takto
 
 
 ### <a name="2">2. hodina</a>
-#### Štruktúra webstránky a info o html tagoch:</br>
+#### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
+- [info o pisani html tagoch pre vzhlad stranok](https://www.w3schools.com/html/html_layout.asp)</br>
 - [vsetky html tagy po kope](http://overapi.com/html)</br>
 - [skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)</br>
 - [zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)</br>
 - [zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)</br>
 <hr>
-- [info o pisani html tagoch pre vzhlad stranok](https://www.w3schools.com/html/html_layout.asp)</br>
+#### info o html tagoch a atributoch:</br>
 - [vsetky html tagy po kope](https://www.w3schools.com/html/html_basic.asp)</br>
 - [zakladne info o html tagoch](http://overapi.com/html)</br>
 - [zakladne info o elementoch](https://www.w3schools.com/html/html_elements.asp)</br>
