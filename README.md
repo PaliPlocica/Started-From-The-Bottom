@@ -71,7 +71,7 @@ nejako takto
 - [skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)</br>
 - [zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)</br>
 - [zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)</br>
-<hr>
+
 #### info o html tagoch a atributoch:</br>
 - [vsetky html tagy po kope](https://www.w3schools.com/html/html_basic.asp)</br>
 - [zakladne info o html tagoch](http://overapi.com/html)</br>
