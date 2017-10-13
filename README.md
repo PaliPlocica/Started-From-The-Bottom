@@ -65,21 +65,21 @@ nejako takto
 
 ### <a name="2">2. hodina</a>
 #### Štruktúra webstránky:</br>
--<a name="http://overapi.com/html">vsetky html tagy po kope</a></br>
--<a name="https://docs.emmet.io/cheat-sheet">skratky pre sublimetext ktore mozte pouzivat cez tab</a></br>
--<a name="http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html">zakladne skratky v sublime pre windows</a></br>
--<a name="http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html">zakladne skratky v sublime pre mac</a></br>
+- <a name="http://overapi.com/html">vsetky html tagy po kope</a></br>
+- <a name="https://docs.emmet.io/cheat-sheet">skratky pre sublimetext ktore mozte pouzivat cez tab</a></br>
+- <a name="http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html">zakladne skratky v sublime pre windows</a></br>
+- <a name="http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html">zakladne skratky v sublime pre mac</a></br>
 
 <hr>
--<a name="https://www.w3schools.com/html/html_layout.asp">info o pisani html tagoch pre vzhlad stranok</a></br>
--<a name="https://www.w3schools.com/html/html_basic.asp">zakladne info o html tagoch</a></br>
--<a name="https://www.w3schools.com/html/html_elements.asp">zakladne info o elementoch</a></br>
--<a name="https://www.w3schools.com/html/html_attributes.asp">zakladne info o atributoch</a></br>
--<a name="https://www.w3schools.com/html/html_headings.asp">zakladne info o hlavičkových tágoch h1,h2,...,h6</a></br>
--<a name="https://www.w3schools.com/html/html_paragraphs.asp">zakladne info o paragraphs html tagoch pre, br, pre</a></br>
--<a name="https://www.w3schools.com/html/html_formatting.asp">html tagy na formatovanie textu</a></br>
--<a name="https://www.w3schools.com/html/html_quotation_elements.asp">zakladne info o paragraphs html tagoch pre, br, pre</a></br>
--<a name="https://www.w3schools.com/html/html_paragraphs.asp">citacie pomocou html tagov</a></br>
--<a name="https://www.w3schools.com/html/html_tables.asp">zakladne info tabuľkách</a></br>
--<a name="https://www.w3schools.com/html/html_lists.asp">zakladne info o zoznamoch</a></br>
--<a name="https://www.w3schools.com/html/html_iframe.asp">zakladne info o iframoch</a></br>
+- <a name="https://www.w3schools.com/html/html_layout.asp">info o pisani html tagoch pre vzhlad stranok</a></br>
+- <a name="https://www.w3schools.com/html/html_basic.asp">zakladne info o html tagoch</a></br>
+- <a name="https://www.w3schools.com/html/html_elements.asp">zakladne info o elementoch</a></br>
+- <a name="https://www.w3schools.com/html/html_attributes.asp">zakladne info o atributoch</a></br>
+- <a name="https://www.w3schools.com/html/html_headings.asp">zakladne info o hlavičkových tágoch h1,h2,...,h6</a></br>
+- <a name="https://www.w3schools.com/html/html_paragraphs.asp">zakladne info o paragraphs html tagoch pre, br, pre</a></br>
+- <a name="https://www.w3schools.com/html/html_formatting.asp">html tagy na formatovanie textu</a></br>
+- <a name="https://www.w3schools.com/html/html_quotation_elements.asp">zakladne info o paragraphs html tagoch pre, br, pre</a></br>
+- <a name="https://www.w3schools.com/html/html_paragraphs.asp">citacie pomocou html tagov</a></br>
+- <a name="https://www.w3schools.com/html/html_tables.asp">zakladne info tabuľkách</a></br>
+- <a name="https://www.w3schools.com/html/html_lists.asp">zakladne info o zoznamoch</a></br>
+- <a name="https://www.w3schools.com/html/html_iframe.asp">zakladne info o iframoch</a></br>
