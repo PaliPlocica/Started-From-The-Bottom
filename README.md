@@ -99,17 +99,17 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 ### <a name="3">3. hodina</a>
 ([prvahodina](/druhahodina)):
 #### mazanie repozitara</br>
-![alt text](/2/1.png)
-![alt text](/2/2.png)
-![alt text](/2/3.png)
-![alt text](/2/4.png)
-![alt text](/2/5.png)
-![alt text](/2/6.png)
-![alt text](/2/7.png)
-![alt text](/2/8.png)
+![alt text](/3/1.png)
+![alt text](/3/2.png)
+![alt text](/3/3.png)
+![alt text](/3/4.png)
+![alt text](/3/5.png)
+![alt text](/3/6.png)
+![alt text](/3/7.png)
+![alt text](/3/8.png)
 
 #### Vase zakladne index.html ktore si mate vzdy kopirovať</br>
-[index.html](/default/index.html))
+[index.html](/default/index.html)
 
 #### Homework/Domáca úloha</br>
 
