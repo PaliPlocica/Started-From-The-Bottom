@@ -98,7 +98,7 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 
 ### <a name="3">3. hodina</a>
 ([prvahodina](/druhahodina)):
-#### mazanie repozitara</br>
+#### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](/3/1.png)
 ![alt text](/3/2.png)
 ![alt text](/3/3.png)
@@ -112,5 +112,7 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 [index.html](/default/index.html)
 
 #### Homework/Domáca úloha</br>
+vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
+[prva domaca uloha](/3/secondhomework.png)<br>
 
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/3/solution.html)<br>
