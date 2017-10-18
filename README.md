@@ -5,6 +5,7 @@
 
 - [1. hodina](#1) &#10004;
 - [2. hodina](#2) &#10004;
+- [3. hodina](#3) &#10004;
 
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 
@@ -92,3 +93,16 @@ vytvorte vo vašom repositári folder s nazvom prvadomacauloha a do neho si vytv
 toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/2/solution.html)<br>
+
+## Modul 3: Opakovanie HTML tagov a mazanie existujuceho repozitara
+
+### <a name="3">3. hodina</a>
+([prvahodina](/druhahodina)):
+#### mazanie repozitara</br>
+
+#### Vase zakladne index.html ktore si mate vzdy kopirovať</br>
+[index.html](/default/index.html))
+
+#### Homework/Domáca úloha</br>
+
+[riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/3/solution.html)<br>
