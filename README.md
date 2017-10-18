@@ -5,7 +5,9 @@
 
 - [1. hodina](#1) &#10004;
 - [2. hodina](#2) &#10004;
+[prva domaca uloha](/2/firsthomework.png)<br>
 - [3. hodina](#3) &#10004;
+[druha domaca uloha](/3/secondhomework.png)<br>
 
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 
@@ -113,6 +115,6 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 
 #### Homework/Domáca úloha</br>
 vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
-[prva domaca uloha](/3/secondhomework.png)<br>
+[druha domaca uloha](/3/secondhomework.png)<br>
 
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/3/solution.html)<br>
