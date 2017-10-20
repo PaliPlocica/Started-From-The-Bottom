@@ -4,7 +4,7 @@
 #### 
 
 ### vas zakladny index.html na kopirovanie</br>
-[index.html](/default/index.html)
+[zakladna kostra webky](/default)
 
 - [1. hodina](#1) &#10004;
 - [2. hodina](#2) &#10004;
@@ -104,7 +104,7 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 ## Modul 3: Opakovanie HTML tagov a mazanie existujuceho repozitara
 
 ### <a name="3">3. hodina</a>
-([prvahodina](/druhahodina)):
+([druhahodina](/druhahodina)):
 #### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](/3/1.png)
 ![alt text](/3/2.png)
@@ -122,7 +122,7 @@ vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali n
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/3/solution.html)<br>
 
 ### <a name="4">4. hodina</a>
-([prvahodina](/tretiahodina)):
+([tretiahodina](/tretiahodina)):
 #### Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti</br>
 
 #### info o html tagoch div a span:</br>
@@ -133,7 +133,8 @@ vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali n
 - [zakladne info o css selektoroch](https://www.w3schools.com/cssref/css_selectors.asp)</br>
 
 #### Homework/Domáca úloha</br>
-asdflkjaskfdj
+vytvor si folder s nazvom aky chces ide o domacu kludne domaca uloha cislo potom do neho si skopiruj toto [zakladna kostra webky](/default) ak si nechcete vytvarať index.html a do neho skopirovať ten zaklad potom si vytvoriť css folder do neho reset.css file do neho skopirovať [css reset](https://meyerweb.com/eric/tools/css/reset/) potom vytvoriť ďalši file s nazvom style.css ktori sa ma tiez nachadzať v foldri css a potom to nalinkovať v index.html, tak tuto pasaž môžte preskošiť... takže sp5 k domacej úlohe vytvorte si 
+
 [druha domaca uloha](/4/2.png)<br>
 
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/4/homework)<br>
