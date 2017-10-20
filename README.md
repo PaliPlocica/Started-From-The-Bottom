@@ -1,11 +1,18 @@
 # OSNOVA 3-mesačného kurzu WEB DESIGNER
 
 ### Obsah
-#### Nastavenie SublimeText, github a gitkraken
+#### 
+
+### vas zakladny index.html na kopirovanie</br>
+[index.html](/default/index.html)
 
 - [1. hodina](#1) &#10004;
 - [2. hodina](#2) &#10004;
+[prva domaca uloha](/2/firsthomework.png)<br>
 - [3. hodina](#3) &#10004;
+[druha domaca uloha](/3/secondhomework.png)<br>
+- [4. hodina](#4) &#10004;
+[tretia domaca uloha](/4/thirdhomework.png)<br>
 
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 
@@ -98,7 +105,7 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 
 ### <a name="3">3. hodina</a>
 ([prvahodina](/druhahodina)):
-#### mazanie repozitara</br>
+#### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](/3/1.png)
 ![alt text](/3/2.png)
 ![alt text](/3/3.png)
@@ -108,9 +115,25 @@ toto sa pokuste napadobniť: [prva domaca uloha](/2/firsthomework.png)<br>
 ![alt text](/3/7.png)
 ![alt text](/3/8.png)
 
-#### Vase zakladne index.html ktore si mate vzdy kopirovať</br>
-[index.html](/default/index.html)
-
 #### Homework/Domáca úloha</br>
+vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
+[druha domaca uloha](/3/secondhomework.png)<br>
 
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/3/solution.html)<br>
+
+### <a name="4">4. hodina</a>
+([prvahodina](/druhahodina)):
+#### Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti</br>
+
+#### info o html tagoch div a span:</br>
+- [zakladne info o div elemente](https://www.w3schools.com/tags/tag_div.asp)</br>
+- [zakladne info o span elemente](https://www.w3schools.com/tags/tag_span.asp)</br>
+
+#### info o css selektoroch:</br>
+- [zakladne info o css selektoroch](https://www.w3schools.com/cssref/css_selectors.asp)</br>
+
+#### Homework/Domáca úloha</br>
+asdflkjaskfdj
+[druha domaca uloha](/4/thirdhomework.png)<br>
+
+[riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/4/solution.html)<br>
