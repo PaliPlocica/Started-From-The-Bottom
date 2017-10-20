@@ -20,7 +20,7 @@
 	<!-- 	Týmto sa upraví pohľad na vašu webovú aplikáciu v zariadeniach iOS, pričom necháte užívateľovi škálovať obsah (na ktorý sme zvyknutí v programe Safari pomocou prstov na zväčšenie a zmenšenie) a nastaví šírku -->
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<!-- pridate obrazok do prehliadaca vedla nazvu vasej stranky-->
-	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+	<link rel="icon" type="image/png" href="images/superman.png">
 	<!-- http://meyerweb.com/eric/tools/css/reset/ zabezpecime ze css bude rovnake na kazdom prehliadaci -->
 	<link rel="stylesheet" type="text/css" href="css/reset.css">
 	<!-- rel atribut definuje o aky file ide, stylesheet sa da prelozit ako zoznam kaskadovych stilov a cle je to obalene tagom link ktory hovori ze ide o linku teda linkujem css file do HTMLka -->
@@ -40,5 +40,24 @@
 </head>
 <!-- do body pisete kostru stranky -->
 <body>
+	<h1>selektni html tag h1 a daj mu background-color: red;</h1>
+
+	<div class="intro">
+	  <p>My name is Donald.</p>
+	  <p>I live in Duckburg.</p>
+	</div>
+
+	<p>My best friend is Mickey.</p>
+	<hr>
+	<p>My name is Donald.</p>
+	<p class="hometown">I live in Ducksburg.</p>
+	<p>My name is Dolly.</p>
+	<p class="hometown">I also live in Ducksburg.</p>
+	<hr>
+	<h1 class="center">This heading will not be affected</h1>
+	<p class="center">This paragraph will be red and center-aligned.</p>
+	<p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p>
+	<hr>
+	<a href="#" title="super duper text" class="link">super duper text</a>
 </body>
 </html>
