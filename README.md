@@ -122,7 +122,7 @@ vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali n
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/3/solution.html)<br>
 
 ### <a name="4">4. hodina</a>
-([prvahodina](/druhahodina)):
+([prvahodina](/tretiahodina)):
 #### Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti</br>
 
 #### info o html tagoch div a span:</br>
