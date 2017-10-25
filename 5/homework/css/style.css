@@ -1,0 +1,9 @@
+html, 
+body { 
+  height: 100%; 
+} 
+
+.main-content {
+  background-color: red;
+  max-width: 900px;
+}
