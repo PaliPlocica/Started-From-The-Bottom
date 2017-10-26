@@ -10,7 +10,7 @@
 - [zakladne info o css selektoroch](https://www.w3schools.com/cssref/css_selectors.asp)</br>
 
 #### Homework/Domáca úloha</br>
-vytvor si folder s nazvom aky chces ide o domacu kludne domaca uloha cislo potom do neho si skopiruj toto [zakladna kostra webky](./default) ak si nechcete vytvarať index.html a do neho skopirovať ten zaklad potom si vytvoriť css folder do neho reset.css file do neho skopirovať [css reset](https://meyerweb.com/eric/tools/css/reset/) potom vytvoriť ďalši file s nazvom style.css ktori sa ma tiez nachadzať v foldri css a potom to nalinkovať v index.html, tak tuto pasaž môžte preskošiť... takže sp5 k domacej úlohe vytvorte si do index.html kostru stránky na základe tohto obrázka [druha domaca uloha](homework/homework.png), keď to budete mať začíname písať css style do súboru style.css:
+vytvor si folder s nazvom aky chces ide o domacu kludne domaca uloha cislo potom do neho si skopiruj toto [zakladna kostra webky](../default) ak si nechcete vytvarať index.html a do neho skopirovať ten zaklad potom si vytvoriť css folder do neho reset.css file do neho skopirovať [css reset](https://meyerweb.com/eric/tools/css/reset/) potom vytvoriť ďalši file s nazvom style.css ktori sa ma tiez nachadzať v foldri css a potom to nalinkovať v index.html, tak tuto pasaž môžte preskošiť... takže sp5 k domacej úlohe vytvorte si do index.html kostru stránky na základe tohto obrázka [druha domaca uloha](homework/homework.png), keď to budete mať začíname písať css style do súboru style.css:
 - selektnite si h1 tag a pridajte mu farbu pozadia červenu</br>
 - selektnite si h1 a div tag naraz cez ciarku a pridajte im hrubku pisma bold</br>
 - selektnite vsetky p html tagy ktore su obalene div html tagom a dajte im ramcek 1px solid zelena</br>
