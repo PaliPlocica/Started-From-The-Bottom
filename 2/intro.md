@@ -1,4 +1,4 @@
-([späť na hlavnú časť](../README.md)):
+&#129188;](../README.md)
 
 ## Modul 2: Štruktúra webstránky a info o skratkach pre sublimetext, info o html tagoch a atributoch
 

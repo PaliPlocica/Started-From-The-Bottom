@@ -1,4 +1,5 @@
-([späť na hlavnú časť](../README.md)):
+&#129188;](../README.md)
+
 ## Modul 5: intro do css colors HEX a RGB a RGBA, čo robí css padding, margin, width, height, max-width, max-height, min-width, min-height
 
 ### 5. hodina

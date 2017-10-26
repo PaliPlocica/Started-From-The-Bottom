@@ -1,4 +1,4 @@
-([späť na hlavnú časť](../README.md)):
+&#129188;](../README.md)
 
 ## Modul 3: Opakovanie HTML tagov a mazanie existujuceho repozitara
 
