@@ -1,6 +1,8 @@
+([späť na hlavnú časť](../README.md)):
+## Modul 5: intro do css colors HEX a RGB a RGBA, čo robí css padding, margin, width, height, max-width, max-height, min-width, min-height
+
 ### 5. hodina
 ([piata hodina](lessons)):
-#### intro do css colors HEX a RGB a RGBA, čo robí css padding, margin, width, height, max-width, max-height, min-width, min-height</br>
 
 #### intro do css colors HEX a RGB a RGBA:</br>
 - [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)

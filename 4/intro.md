@@ -1,3 +1,5 @@
+([späť na hlavnú časť](../README.md)):
+
 ## Modul 4: Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti
 
 ### 4. hodina

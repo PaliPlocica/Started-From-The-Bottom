@@ -1,6 +1,8 @@
+([späť na hlavnú časť](../README.md)):
+
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 
-### <a name="1">1. hodina</a>
+### 1. hodina
 
 #### inštalácia SublimeText</br>
 linka kde si stiahnete editor SublimeText: <a name="http://www.sublimetext.com/3">http://www.sublimetext.com/3</a></br>

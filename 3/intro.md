@@ -1,3 +1,4 @@
+([späť na hlavnú časť](../README.md)):
 
 ## Modul 3: Opakovanie HTML tagov a mazanie existujuceho repozitara
 
