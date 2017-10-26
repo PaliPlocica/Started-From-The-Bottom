@@ -1,4 +1,4 @@
-&#129188;](../README.md)
+[&#129188; späť](../README.md)
 
 ## Modul 5: intro do css colors HEX a RGB a RGBA, čo robí css padding, margin, width, height, max-width, max-height, min-width, min-height
 
