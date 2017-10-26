@@ -14,7 +14,6 @@
 - [4. hodina](#4) &#10004;
 [tretia domaca uloha](/4/2.png)<br>
 - [5. hodina](#5) &#10004;
-// [stvrta domaca uloha](/5/3.png)<br>
 
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 
@@ -197,5 +196,3 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zak
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder pridáme ramcek 1px solid black [takto](/5/10.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first pridáme šírku a výšku 100px [takto](/5/11.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-holder-first a pridajme tam padding priestor ktori element bude zaberat 20px na vsetky jeho strany a vysku 58px [takto](/5/12.png)
-
-
