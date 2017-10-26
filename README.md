@@ -3,8 +3,7 @@
 ### Obsah
 #### 
 
-### vas zakladny index.html na kopirovanie</br>
-[zakladna kostra webky](default)
+[základ na kopírovanie pre všetky hodiny](default)
 
 - [1. hodina](1/intro.md) &#10004;
 - [2. hodina](2/intro.md) &#10004;
