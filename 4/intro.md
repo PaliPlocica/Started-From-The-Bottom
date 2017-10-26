@@ -1,6 +1,7 @@
-### <a name="4">4. hodina</a>
-([štvrtá hodina](/tretiahodina)):
-#### Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti</br>
+## Modul 4: Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti
+
+### 4. hodina
+([štvrtá hodina](lessons)):
 
 #### info o html tagoch div a span:</br>
 - [zakladne info o div elemente](https://www.w3schools.com/tags/tag_div.asp)</br>
