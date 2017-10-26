@@ -180,18 +180,23 @@ vytvor si folder s nazvom aky chces ide o domacu kludne domaca uloha cislo potom
 vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zakladna kostra webky](/default) vytvorte si do index.html kostru stránky nasledovne:
 - vytvor h1 element s atributom class s nazvom title-big a do neho vloz text padding
 - vytvor div lement s atributom class do neho vloz dve classy jedna bude mat nazov box-holder a druhá box-holder-first
-[takto](/5/1.png)<br>
-- potom do neho si vytvor ďalšie div s atributom class s nazvom box-wrapper-padding [takto](/5/2.png)<br>
-- selektnite si teda označte cele obidve divka a skopitujte si ich pod seba dva krát [takto](/5/3.png)<br>
+[takto](/5/1.png)
+- potom do neho si vytvor ďalšie div s atributom class s nazvom box-wrapper-padding [takto](/5/2.png)
+- selektnite si teda označte cele obidve divka a skopitujte si ich pod seba dva krát [takto](/5/3.png)
 - pod to vytvorte hr element ktorí vytvorí čiaru
-- selektnite si teda označte všetko čo mate vo vnútri v body okrem hr html tagu a vložte to pod hr [takto](/5/4.png)<br>
+- selektnite si teda označte všetko čo mate vo vnútri v body okrem hr html tagu a vložte to pod hr [takto](/5/4.png)
 - do druhého h1 elementu prepíšte margin
-- potom všetko čo máte v body obalte novym div elementom s atributom class s nazvom main-content [takto](/5/5.png)<br>
-- prepíšte posledné tri nazvy class box-wrapper-padding na box-wrapper-margin pomocou klavesovej skratky ctrl+d kde si len označíme niečo čo chcem viac krát označiť a kolko krát stlačite ctrl+d toľko krát vam selektne existujúce slovo a stači už len písať... mali by ste docieliť [toto](/5/6.png)<br>
-- najdite druhu classu v poradí od vrchu nadol s nazvom box-holder-first a premenujte ju na box-holder-second a tiež premenujte aj druhú classu od spodu s nazvom box-holder-first a tiež ju premenujte na box-holder-second vpodstate chcem prvé tri divka nazvať podľa ich poradia a to isté chcem spraviť aj pre ďalšie tri čo nasleduju po hr html tagu [takto](/5/7.png)<br>
+- potom všetko čo máte v body obalte novym div elementom s atributom class s nazvom main-content [takto](/5/5.png)
+- prepíšte posledné tri nazvy class box-wrapper-padding na box-wrapper-margin pomocou klavesovej skratky ctrl+d kde si len označíme niečo čo chcem viac krát označiť a kolko krát stlačite ctrl+d toľko krát vam selektne existujúce slovo a stači už len písať... mali by ste docieliť [toto](/5/6.png)
+- najdite druhu classu v poradí od vrchu nadol s nazvom box-holder-first a premenujte ju na box-holder-second a tiež premenujte aj druhú classu od spodu s nazvom box-holder-first a tiež ju premenujte na box-holder-second vpodstate chcem prvé tri divka nazvať podľa ich poradia a to isté chcem spraviť aj pre ďalšie tri čo nasleduju po hr html tagu [takto](/5/7.png)
 - super duper kostru web stránky niečo už máme
 - teraz css prejdime do file style.css ktory sa nachadza v nasom skopirovanom foldri s nazvom css
 - selektnime si element ktory obsahuje atribut class s nazvom main-content pridáme farbu pozadia red a maximálnu šírku 900px
-[takto](/5/8.png)<br>
+[takto](/5/8.png)
+- selektnime si element ktory obsahuje atribut class s nazvom title-big pridáme hrubku písma bold a veľkosť písma 24px [takto](/5/9.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder pridáme ramcek 1px solid black [takto](/5/10.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-first pridáme šírku a výšku 100px [takto](/5/11.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-holder-first a pridajme tam padding priestor ktori element bude zaberat 20px na vsetky jeho strany a vysku 58px[takto](/5/12.png)
+
 
 [riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](/4/homework)<br>
