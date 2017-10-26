@@ -60,7 +60,7 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zak
 
 - selektnime si element ktory obsahuje atribut class s nazvom box-wrapper-margin pridáme farbu pozadia modra a ramcek 1px solid žltá [takto](homework/steps/17.png)
 
-- selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin 20px z každej strany a výšku cez funkciu calc(100% - 40px); a tiež šírku calc(100% - 40px); [takto](homework/steps/18.png)
-- selektnime si element ktory obsahuje atribut class s nazvom box-holder-second a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin z hora a z dola 20px, z ľava a prava 30px a šírku calc(100% - 60px); a výšku 56px [takto](homework/steps/19.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin 20px z každej strany a výšku cez funkciu calc(100% - 38px); [takto](homework/steps/18.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-second a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin z hora a z dola 20px, z ľava a prava 30px; a výšku 58px; [takto](homework/steps/19.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-third a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin z hora 20px, z prava 30px, z dola 40px, z ľava 50px; a minimalnu výšku 38px  [takto](homework/steps/20.png)
 
