@@ -194,5 +194,9 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zak
 [takto](/5/8.png)
 - selektnime si element ktory obsahuje atribut class s nazvom title-big pridáme hrubku písma bold a veľkosť písma 24px [takto](/5/9.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder pridáme ramcek 1px solid black [takto](/5/10.png)
+
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first pridáme šírku a výšku 100px [takto](/5/11.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-holder-first a pridajme tam padding priestor ktori element bude zaberat 20px na vsetky jeho strany a vysku 58px [takto](/5/12.png)
+
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-second pridáme maximalnu šírku a maximalnu výšku 100px [takto](/5/13.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-second a hned jeho element vo vnútri cez class atribut s nazvom box-holder-first a pridajme tam padding priestor ktori element bude zaberat 20px z hora a z dola a z lava a prava 30px teda kedže sa niektoré hodnoty opakujú nemusime ich zapisovať padding: 20px 30px 20px 30px ale padding: 20px 30px; potom pridajme vyšku 56px [takto](/5/14.png)
