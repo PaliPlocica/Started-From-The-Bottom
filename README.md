@@ -3,7 +3,7 @@
 ### Obsah
 #### 
 
-[základ na kopírovanie pre všetky hodiny](default)
+[základ na kopírovanie pre všetky hodiny](default.zip)
 
 - [1. hodina](1/intro.md) &#10004;
 - [2. hodina](2/intro.md) &#10004;
