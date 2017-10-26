@@ -14,7 +14,7 @@
 - [4. hodina](#4) &#10004;
 [tretia domaca uloha](/4/2.png)<br>
 - [5. hodina](#5) &#10004;
-[tretia domaca uloha](/5/3.png)<br>
+[stvrta domaca uloha](/5/3.png)<br>
 
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 
