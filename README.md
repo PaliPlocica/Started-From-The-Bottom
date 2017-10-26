@@ -198,6 +198,8 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zak
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first pridáme šírku a výšku 100px [takto](/5/11.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-padding a pridajme tam padding priestor ktori element bude zaberat 20px na vsetky jeho strany a vysku 58px [takto](/5/12.png)
 
-- selektnime si element ktory obsahuje atribut class s nazvom box-holder-second pridáme minimalnu šírku a minimalnu výšku 100px [takto](/5/13.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-second pridáme maximalnu šírku a maximalnu výšku 100px [takto](/5/13.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-second a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-padding a pridajme tam padding priestor ktori element bude zaberat 20px z hora a z dola a z lava a prava 30px teda kedže sa niektoré hodnoty opakujú nemusime ich zapisovať padding: 20px 30px 20px 30px ale padding: 20px 30px; potom pridajme vyšku 56px [takto](/5/14.png)
 
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-third pridáme minimalnu šírku a minimalnu výšku 100px a dame mu display: inline-block zaberaj len tolko kolko potrebujes [takto](/5/15.png)
+- selektnime si element ktory obsahuje atribut class s nazvom box-holder-third a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-padding a pridajme tam padding priestor ktori element bude zaberat zhora bude 20px, z prava 30px, z dola 40px a z ľava 50px potom pridajme vyšku 38px [takto](/5/16.png)
