@@ -35,8 +35,8 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základn�
 - vytvor si html tag div a pridaj mu atribut class s nazvom main-content
 ```
 <body>
-		<div class="main-content">
-		</div>
+	<div class="main-content">
+	</div>
 </body>
 ```
 - potom do vnútra toho vytvoreneho div elementu vytvor h1 html tag s atributom class s nazvom title-big a do neho vloz text padding 
