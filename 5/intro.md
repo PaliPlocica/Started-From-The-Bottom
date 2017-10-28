@@ -42,215 +42,215 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základn�
 - potom do vnútra toho vytvoreneho div elementu vytvor h1 html tag s atributom class s nazvom title-big a do neho vloz text padding 
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-		</div>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+	</div>
 </body>
 ```
 - potom pod h1 element vytvor div html tag ktorí bude mať atribut class ktorý budem obsahovať dva názvy box-holder box-holder-first 
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
 			<div class="box-holder box-holder-first">
-			</div>
 		</div>
+	</div>
 </body>
 ```
 - následne do tohto vytvoreného div elementu vytvoríme ďalšie div s atributom class s názvom box-wrapper-padding
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+	</div>
 </body>
 ```
 - teraz ideme použiť magic touch editora ctrl+shift+d čiže označme si čo chceme aby sa skopirovalo pomocu tejto skratky čiže my chcem označiť celý div element ktorí sa nachádza pod h1 elementom, keď to zvládnete stlačíte ctrl+shift+d a magic touch dokonaný stlačte znova ctrl+shift+d 
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+	</div>
 </body>
 ```
 - toto by ste mali docieliť
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
+		</div>
+	</div>
 </body>
 ```
 - premenujme druhu classu s nazvom box-holder-first na box-holder-second a hneď aj tu pod ňou na box-holder-third
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-padding"></div>
+		</div>
+	</div>
 </body>
 ```
 - pridajme hr html tag pod element box-holder-third
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<hr>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<hr>
+	</div>
 </body>
 ```
 - aby sme veľa nepísali zase použijeme magic touch ctrl-shift-d označme si všetko čo je v elemente div s classov main-content a použijme raz tu skratku, toto by ste mali docieliť
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<hr>
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<hr>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<hr>
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<hr>
+	</div>
 </body>
 ```
 - prepíšte posledné tri nazvy class box-wrapper-padding na box-wrapper-margin pomocou klavesovej skratky ctrl+d kde si len označíme niečo čo chceme naraz prepísať a kolko krát stlačite ctrl+d toľko krát vam selektne označené slovo a stači už len písať... mali by ste docieliť toto
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<hr>
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<hr>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<hr>
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<hr>
+	</div>
 </body>
 ```
 - premenujte text v druhom h1 elemente z padding na margin
 - pod posledné hr vložte a html tag a pridajte mu class atribut s názvom wrapper-link
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<hr>
-			<h1 class="title-big">margin</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<hr>
-			<a href="#" class="wrapper-link">
-			</a>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-padding"></div>
+		</div>
+		<hr>
+		<h1 class="title-big">margin</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<hr>
+		<a href="#" class="wrapper-link">
+		</a>
+	</div>
 </body>
 ```
 - do vnútra a html tagu vložíme img html tag pridajme mu classu s názvom wrapper-link-img stiahnime si nejaky obrazok z netu a pridajme ho do foldra images a nalinkujme si ho cez atribut src a do atributu nezabudnite napísať text o tom čo obsahuje váš obrázok takto
 ```
 <body>
-		<div class="main-content">
-			<h1 class="title-big">padding</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-padding"></div>
-			</div>
-			<hr>
-			<h1 class="title-big">margin</h1>
-			<div class="box-holder box-holder-first">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<div class="box-holder box-holder-second">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<div class="box-holder box-holder-third">
-				<div class="box-wrapper-margin"></div>
-			</div>
-			<hr>
-			<a href="#" class="wrapper-link">
-				<img src="images/kacicka.jpg" alt="kačička" class="wrapper-link-img">
-			</a>
+	<div class="main-content">
+		<h1 class="title-big">padding</h1>
+		<div class="box-holder box-holder-first">
+			<div class="box-wrapper-padding"></div>
 		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-padding"></div>
+		</div>
+			<div class="box-holder box-holder-third">
+		<div class="box-wrapper-padding"></div>
+			</div>
+		<hr>
+		<h1 class="title-big">margin</h1>
+		<div class="box-holder box-holder-first">
+		<div class="box-wrapper-margin"></div>
+		</div>
+		<div class="box-holder box-holder-second">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<div class="box-holder box-holder-third">
+			<div class="box-wrapper-margin"></div>
+		</div>
+		<hr>
+		<a href="#" class="wrapper-link">
+			<img src="images/kacicka.jpg" alt="kačička" class="wrapper-link-img">
+		</a>
+	</div>
 </body>
 ```
 - super duper kostru web stránky už máme hotovú teraz sa presuňme do file style.css
@@ -371,12 +371,10 @@ body, html {
 - nato aby váš obrazok nevytekal seleknime si ho cez class wrapper-link-img a pridajme mu display block a tiež šírku a výšku sto percent
 ```
 .wrapper-link-img {
-	display: block;
+  display: block;
   width: 100%;
   height: 100%;
 }
 ```
 
 [tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
-
-
