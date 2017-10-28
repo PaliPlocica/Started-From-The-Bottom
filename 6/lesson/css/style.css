@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+}
+
+.title-center {
+  text-align: center;
+}
+
+/*defaultne*/
+/*.title-left {
+  text-align: left;
+}*/
+
+.title-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.box-holder {
+  display: table;
+  height: 100px;
+  width: 100%;
+}
+
+.box-holder-text {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.text-wrapper {
+  word-wrap: break-word;
+  word-break: break-word;
+}

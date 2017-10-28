@@ -18,19 +18,9 @@ body, html {
   border: 1px solid black;
 }
 
-.box-wrapper-padding {
-  background-color: green;
-  border: 1px solid yellow;
-}
-
 .box-holder-first {
   width: 100px;
   height: 100px;
-}
-
-.box-holder-first .box-wrapper-padding {
-  padding: 20px;
-  height: 58px;
 }
 
 .box-holder-second {
@@ -38,15 +28,25 @@ body, html {
   max-height: 100px;
 }
 
-.box-holder-second .box-wrapper-padding {
-  padding: 20px 30px;
-  height: 56px;
-}
-
 .box-holder-third {
   display: inline-block;
   min-width: 100px;
   min-height: 100px;
+}
+
+.box-wrapper-padding {
+  background-color: green;
+  border: 1px solid yellow;
+}
+
+.box-holder-first .box-wrapper-padding {
+  padding: 20px;
+  height: calc(100% - 42px);
+}
+
+.box-holder-second .box-wrapper-padding {
+  padding: 20px 30px;
+  height: 58px;
 }
 
 .box-holder-third .box-wrapper-padding {
@@ -61,17 +61,17 @@ body, html {
 
 .box-holder-first .box-wrapper-margin {
   margin: 20px;
-  height: calc(100% - 40px);
+  height: calc(100% - 42px);
 }
 
 .box-holder-second .box-wrapper-margin {
   margin: 20px 30px;
-  height: 56px;
+  height: 58px;
 }
 
 .box-holder-third .box-wrapper-margin {
   margin: 20px 30px 40px 50px;
-  min-height: 38px;
+  height: 38px;
 }
 
 .wrapper-link {
