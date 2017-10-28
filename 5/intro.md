@@ -20,6 +20,7 @@
 #### info o šírkach a výškach:</br>
 - [zakladne info width](https://www.w3schools.com/cssref/pr_dim_width.asp)</br>
 - [zakladne info height](https://www.w3schools.com/cssref/pr_dim_height.asp)</br>
+- [zakladne info o funkcii calc()](https://www.w3schools.com/cssref/func_calc.asp)</br>
 - [zakladne info max-width](https://www.w3schools.com/cssref/pr_dim_max-width.asp)</br>
 - [zakladne info max-height](https://www.w3schools.com/cssref/pr_dim_max-height.asp)</br>
 - [zakladne info min-width](https://www.w3schools.com/cssref/pr_dim_min-width.asp)</br>
