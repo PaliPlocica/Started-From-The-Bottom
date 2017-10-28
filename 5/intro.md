@@ -30,7 +30,7 @@
 - [zakladne info margin](https://www.w3schools.com/css/css_margin.asp)</br>
 
 #### Homework/Domáca úloha</br>
-vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zakladna kostra webky](../default) vytvorte si do index.html kostru stránky nasledovne:
+vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zakladna kostra webky](../default.rar) vytvorte si do index.html kostru stránky nasledovne:
 - vytvor h1 element s atributom class s nazvom title-big a do neho vloz text padding
 - vytvor div lement s atributom class do neho vloz dve classy jedna bude mat nazov box-holder a druhá box-holder-first
 [takto](homework/steps/1.png)
