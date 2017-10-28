@@ -3,7 +3,8 @@
 ## Modul 2: Štruktúra webstránky a info o skratkach pre sublimetext, info o html tagoch a atributoch
 
 ### 2. hodina
-([druha hodina](lessons)):
+([druha hodina](lesson)):
+
 #### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
 - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)</br>
 - [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)</br>
@@ -26,6 +27,6 @@
 
 #### Homework/Domáca úloha</br>
 vytvorte vo vašom repositári folder s nazvom prvadomacauloha a do neho si vytvorte file index.html v ktorom sa pokúste napisať text a obaliť ho html tagmi tak aby ste docielili rovnaky výsledok v prehliadači ako je na tomto obrázku ak to budete mať nezabudnite tuto vec preniesť do vášho repositara na githube...<br>
-toto sa pokuste napadobniť: [prva domaca uloha](homework/homework.png)<br>
+toto sa pokuste napadobniť: [domaca uloha](homework/homework.png)<br>
 
 [tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution.html)<br>

@@ -2,8 +2,9 @@
 
 ## Modul 3: Opakovanie HTML tagov a mazanie existujuceho repozitara
 
-### <a name="3">3. hodina</a>
-([tretia hodina](/druhahodina)):
+### 3. hodina
+([tretia hodina](lesson)):
+
 #### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](images/1.png)
 ![alt text](images/2.png)
@@ -16,6 +17,6 @@
 
 #### Homework/Domáca úloha</br>
 vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
-[druha domaca uloha](homework.png)<br>
+[domaca uloha](homework/homework.png)<br>
 
-[riešenie, ktoré si pozrite až keď budete mať hotové a sami si potom svoje projekty popíšete na hodine nech viete kde robíte chyby](homework/solution.html)<br>
+[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution.html)<br>

@@ -21,10 +21,6 @@ body, html {
   background-color: rgba(0, 0, 255, .5);
 }
 
-.color-opacity50 {
-  /*opacity: .5;*/
-}
-
 .holder-box {
   border: 1px solid red;
   width: 50px;

@@ -3,7 +3,7 @@
 ## Modul 5: intro do css colors HEX a RGB a RGBA, čo robí css padding, margin, width, height, max-width, max-height, min-width, min-height
 
 ### 5. hodina
-([piata hodina](lessons)):
+([piata hodina](lesson)):
 
 #### intro do css colors HEX a RGB a RGBA:</br>
 - [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)
@@ -31,12 +31,18 @@
 - [zakladne info margin](https://www.w3schools.com/css/css_margin.asp)</br>
 
 #### Homework/Domáca úloha</br>
-vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zakladna kostra webky](../default.rar) vytvorte si do index.html kostru stránky nasledovne:
-- vytvor h1 element s atributom class s nazvom title-big a do neho vloz text padding
-- vytvor div lement s atributom class do neho vloz dve classy jedna bude mat nazov box-holder a druhá box-holder-first
-[takto](homework/steps/1.png)
-- potom do neho si vytvor ďalšie div s atributom class s nazvom box-wrapper-padding [takto](homework/steps/2.png)
-- selektnite si teda označte cele obidve divka a skopitujte si ich pod seba dva krát [takto](homework/steps/3.png)
+vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú ktoru ktorú stále používame a vymazujeme všetko čo je v body a v file style.css ak nemáš tu si to vieš štiahnuť nezabudni to cele odrarovať [zakladna kostra webky](../default.rar) vytvorte si do index.html body kostru stránky nasledovne:
+- vytvor si html tag div a pridaj mu atribut class s nazvom main-content
+```
+<body>
+		<div class="main-content">
+		</div>
+</body>
+```
+- potom do vnútra toho vytvoreneho div elementu vytvor h1 html tag s atributom class s nazvom title-big a do neho vloz text padding [takto](homework/steps/2.png)
+- potom pod h1 element vytvor div html tag ktorí bude mať atribut class ktorý budem obsahovať dva názvy box-holder box-holder-first [takto](homework/steps/3.png) 
+- následne do tohto vytvoreného div elementu vytvoríme ďalšie div s atributom class s názvom box-wrapper-padding [takto](homework/steps/4.png)
+- teraz ideme použiť skratku ctrl+shift+d [takto](homework/steps/3.png)
 - pod to vytvorte hr element ktorí vytvorí čiaru
 - selektnite si teda označte všetko čo mate vo vnútri v body okrem hr html tagu a vložte to pod hr [takto](homework/steps/4.png)
 - do druhého h1 elementu prepíšte margin
@@ -64,4 +70,5 @@ vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj toto [zak
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-first a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin 20px z každej strany a výšku cez funkciu calc(100% - 38px); [takto](homework/steps/18.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-second a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin z hora a z dola 20px, z ľava a prava 30px; a výšku 58px; [takto](homework/steps/19.png)
 - selektnime si element ktory obsahuje atribut class s nazvom box-holder-third a hned jeho element vo vnútri cez class atribut s nazvom box-wrapper-margin a pridajme tam margin z hora 20px, z prava 30px, z dola 40px, z ľava 50px; a minimalnu výšku 38px  [takto](homework/steps/20.png)
+
 
