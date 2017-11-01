@@ -3,6 +3,9 @@
 ### Obsah
 #### 
 
+[Handbook html css](HTML-CSS-RWD-final.pdf)
+[Handbook js jquery](JS-jQuery-Handbook-final.pdf)
+
 [základ na kopírovanie pre všetky hodiny](default.rar)
 
 [CSS almanac](https://css-tricks.com/almanac/)
