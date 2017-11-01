@@ -3,8 +3,8 @@
 ### Obsah
 #### 
 
-[Handbook html css](HTML-CSS-RWD-final.pdf)<br>
-[Handbook js jquery](JS-jQuery-Handbook-final.pdf)<br>
+[Handbook html css](html-css-handbook.pdf)<br>
+[Handbook js jquery](jquery-handbook.pdf)<br>
 
 [základ na kopírovanie pre všetky hodiny](default.rar)<br>
 
@@ -20,3 +20,4 @@
 - [4. hodina](4/intro.md) &#10004;
 - [5. hodina](5/intro.md) &#10004;
 - [6. hodina](6/intro.md) &#10004;
+- [7. hodina](7/intro.md) &#10004;

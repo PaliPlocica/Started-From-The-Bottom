@@ -1,0 +1,151 @@
+body {
+ background-color: black;
+}
+
+hr {
+  color: white;
+}
+
+.holder-content {
+  position: relative;
+}
+
+.wrapper-content {
+  padding: 100px 200px 70px 250px;
+}
+
+.content {
+  border: 5px solid white;
+}
+
+.title-heading {
+  text-align: center;
+  color: white;
+  font-size: 26px;
+  padding: 20px;
+  border: 3px solid yellow;
+}
+
+.link {
+  display: block;
+  color: white;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: black;
+  background-color: white;
+}
+
+.list-flex {
+  display: flex;
+}
+
+.list-text {
+  padding: 20px 0;
+}
+
+.list-text-li {
+  padding-left: 40px;
+}
+
+.list-text .list-text-li:first-child {
+  padding-left: 0;
+}
+
+.list-text-li p {
+  color: yellow;
+  font-size: 40px;
+}
+
+.title-heading-medium {
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  padding: 20px;
+  border: 3px solid yellow;
+  margin-bottom: 20px;
+}
+
+.box-red {
+  background-color: red;
+  padding: 20px;
+}
+
+.box-blue {
+  background-color: blue;
+  padding: 40px;
+}
+
+.box-green {
+  background-color: green;
+  padding: 60;
+}
+
+.list-float-li {
+	float: left;
+  width: calc(100% / 3);
+}
+
+.box p {
+  font-weight: bold;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.wrapper-box {
+  display: flex;
+}
+
+.wrapper-box.center {
+  align-items: center;
+  text-align: center;
+}
+
+.wrapper-box.end {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.wrapper-box .box{
+  flex: 1;
+}
+
+
+
+
+
+.title-hint {
+  position: absolute;
+  color: white;
+  font-size: 35px;
+  opacity: .7;
+}
+
+.title-hint.top,
+.title-hint.bottom {
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.title-hint.right,
+.title-hint.left {
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.title-hint.bottom {
+  top: auto;
+  bottom: 10px;
+}
+
+.title-hint.left {
+  right: auto;
+  left: 10px;
+}
+
