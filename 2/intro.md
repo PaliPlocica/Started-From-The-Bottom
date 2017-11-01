@@ -1,9 +1,9 @@
-[&#129188; späť](../README.md)
+[&#129188; späť](../README.md)</br>
 
 ## Modul 2: Štruktúra webstránky a info o skratkach pre sublimetext, info o html tagoch a atributoch
 
 ### 2. hodina
-([druha hodina](lesson)):
+([druha hodina](lesson)):</br>
 
 #### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
 - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)</br>

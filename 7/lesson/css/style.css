@@ -18,10 +18,10 @@ hr {
   border: 5px solid white;
 }
 
-.title-heading {
+.title-heading-big {
   text-align: center;
   color: white;
-  font-size: 26px;
+  font-size: 22px;
   padding: 20px;
   border: 3px solid yellow;
 }
@@ -29,7 +29,7 @@ hr {
 .link {
   display: block;
   color: white;
-  font-size: 40px;
+  font-size: 18px;
   padding: 20px;
 }
 
@@ -41,6 +41,28 @@ hr {
 
 .list-flex {
   display: flex;
+}
+
+.list-flex-start {
+  align-items: flex-start;
+}
+
+.list-flex-center {
+  align-items: center;
+}
+
+.list-flex-end {
+  align-items: flex-end;
+}
+
+.list-flex-li {
+  flex: 1;
+}
+
+.list-float-li {
+  float: left;
+  width: calc(100% / 3);
+  padding: 20px;
 }
 
 .list-text {
@@ -57,16 +79,24 @@ hr {
 
 .list-text-li p {
   color: yellow;
-  font-size: 40px;
+  font-size: 18px;
+}
+
+.wrapper-list {
+  clear: both;
 }
 
 .title-heading-medium {
   text-align: center;
   color: white;
-  font-size: 22px;
-  padding: 20px;
+  font-size: 18px;
+  padding: 10px;
   border: 3px solid yellow;
-  margin-bottom: 20px;
+}
+
+.list-box p {
+  background-color: white;
+  padding: 5px;
 }
 
 .box-red {
@@ -81,42 +111,8 @@ hr {
 
 .box-green {
   background-color: green;
-  padding: 60;
+  padding: 60px;
 }
-
-.list-float-li {
-	float: left;
-  width: calc(100% / 3);
-}
-
-.box p {
-  font-weight: bold;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
-
-.wrapper-box {
-  display: flex;
-}
-
-.wrapper-box.center {
-  align-items: center;
-  text-align: center;
-}
-
-.wrapper-box.end {
-  align-items: flex-end;
-  text-align: right;
-}
-
-.wrapper-box .box{
-  flex: 1;
-}
-
-
-
-
 
 .title-hint {
   position: absolute;

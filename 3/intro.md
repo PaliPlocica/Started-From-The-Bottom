@@ -1,9 +1,9 @@
-[&#129188; späť](../README.md)
+[&#129188; späť](../README.md)</br>
 
 ## Modul 3: Opakovanie HTML tagov a mazanie existujuceho repozitara
 
 ### 3. hodina
-([tretia hodina](lesson)):
+([tretia hodina](lesson)):</br>
 
 #### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](images/1.png)

@@ -1,17 +1,17 @@
-[&#129188; späť](../README.md)
+[&#129188; späť](../README.md)</br>
 
 ## Modul 6: rozoberanie domácej úlohy a opakovanie, zarovnávanie textu
 
 ### 6. hodina
-([šiesta hodina](lesson)):
+([šiesta hodina](lesson)):</br>
 
 #### zaujímavé linky
 - [generator nahodneho textu](http://www.blindtextgenerator.com/lorem-ipsum)</br>
 
 #### linky o css styloch:</br>
-- [zakladne info o zarovnávanie textu](https://css-tricks.com/almanac/properties/t/text-align/)
+- [zakladne info o zarovnávanie textu](https://css-tricks.com/almanac/properties/t/text-align)</br>
 - [zakladne info o zarovnávanie textu](https://www.w3schools.com/cssref/pr_text_text-align.asp)</br>
-- [zakladne info o dipaly](https://css-tricks.com/almanac/properties/d/display/)</br>
+- [zakladne info o dipaly](https://css-tricks.com/almanac/properties/d/display)</br>
 - [zakladne info o font-size](https://www.w3schools.com/cssref/pr_font_font-size.asp)</br>
 
 #### Homework/Domáca úloha</br>

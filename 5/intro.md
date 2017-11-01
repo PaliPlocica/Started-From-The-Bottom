@@ -1,21 +1,21 @@
-[&#129188; späť](../README.md)
+[&#129188; späť](../README.md)</br>
 
 ## Modul 5: intro do css colors HEX a RGB a RGBA, čo robí css padding, margin, width, height, max-width, max-height, min-width, min-height
 
 ### 5. hodina
-([piata hodina](lesson)):
+([piata hodina](lesson)):</br>
 
 #### intro do css colors HEX a RGB a RGBA:</br>
-- [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)
+- [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)</br>
 - [zakladne info o RGB](https://www.w3schools.com/colors/colors_rgb.asp)</br>
 - [zakladne info o HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp)</br>
 
 #### zaujímavé linky o farbách
-- [farba roku 2017](https://www.pantone.com/color-of-the-year-2017)
-- [color wheel adobe](https://color.adobe.com/create/color-wheel)
-- [nieco o tom farebnom kolese v adobe](https://www.w3schools.com/colors/colors_wheels.asp)
-- [generator farbie na klik](https://color.hailpixel.com)
-- [generator odtieňov farieb](http://www.0to255.com)
+- [farba roku 2017](https://www.pantone.com/color-of-the-year-2017)</br>
+- [color wheel adobe](https://color.adobe.com/create/color-wheel)</br>
+- [nieco o tom farebnom kolese v adobe](https://www.w3schools.com/colors/colors_wheels.asp)</br>
+- [generator farbie na klik](https://color.hailpixel.com)</br>
+- [generator odtieňov farieb](http://www.0to255.com)</br>
 
 #### info o šírkach a výškach:</br>
 - [zakladne info width](https://www.w3schools.com/cssref/pr_dim_width.asp)</br>

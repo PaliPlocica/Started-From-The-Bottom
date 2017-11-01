@@ -1,4 +1,4 @@
-[&#129188; späť](../README.md)
+[&#129188; späť](../README.md)</br>
 
 ## Modul 1: Nastavenie SublimeText, github a gitkraken
 

@@ -1,0 +1,47 @@
+.main-content {
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.image-wrapper {
+  width: 170px;
+  border: 1px solid black;
+}
+
+.image-wrapper-right {
+  float: right;
+  margin: 15px 0 15px 15px;
+}
+
+.image-wrapper-left {
+  float: left;
+  margin: 15px 15px 15px 0;
+}
+
+.header, 
+.footer {
+  background-color: grey;
+  color: white;
+  padding: 15px;
+}
+
+.float-left {
+  float: left;
+  padding: 15px;
+}
+
+.menu {
+  width: 25%;
+}
+
+.content {
+  width: 75%;
+}
+
+.list-li {
+  padding: 8px;
+  margin-bottom: 8px;
+  background-color: red;
+  color: white;
+}
