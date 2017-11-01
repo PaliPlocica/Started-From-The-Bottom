@@ -1,18 +1,18 @@
 [&#129188; späť](../README.md)</br>
 
-## Modul 7: float left vs display flex
+## Modul 7: float left a clearfix vs display flex
 
 ### 7. hodina
 ([siedma hodina](lesson)):</br>
 
 #### zaujímavé linky
-- [info o clearfix](https://css-tricks.com/snippets/css/clear-fix/)</br>
-
-#### linky o css styloch:</br>
+- [zakladne info o clearfixe](https://css-tricks.com/snippets/css/clear-fix/)</br>
 - [zakladne info o CSS Layout float and clear](https://www.w3schools.com/css/css_float.asp)</br>
-- [zakladne info o float left, right a clear both](https://css-tricks.com/almanac/properties/f/float/)</br>
+- [zakladne info o float left, right a clear both](https://css-tricks.com/almanac/properties/f/float)</br>
 
-- [zakladne info o display flexu](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)</br>
+- [zakladne info o display flexu1](http://jonibologna.com/flexbox-cheatsheet)
+- [zakladne info o display flexu2](https://css-tricks.com/snippets/css/a-guide-to-flexbox)</br>
+- [zakladne info o display flexu3](https://www.w3schools.com/css/css3_flexbox.asp)</br>
 
 #### Homework/Domáca úloha</br>
 vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru ktoru si stiahneš [zakladna kostra webky](../default.rar) nezabudni to cele odrarovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým svoje vlastné css stale budete písať do filu style.css... vytvorte si do index.html body kostru stránky nasledovne:
