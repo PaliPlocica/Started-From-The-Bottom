@@ -3,16 +3,16 @@
 ### Obsah
 #### 
 
-[Handbook html css](HTML-CSS-RWD-final.pdf)
-[Handbook js jquery](JS-jQuery-Handbook-final.pdf)
+[Handbook html css](HTML-CSS-RWD-final.pdf)<br>
+[Handbook js jquery](JS-jQuery-Handbook-final.pdf)<br>
 
-[základ na kopírovanie pre všetky hodiny](default.rar)
+[základ na kopírovanie pre všetky hodiny](default.rar)<br>
 
-[CSS almanac](https://css-tricks.com/almanac/)
+[CSS almanac](https://css-tricks.com/almanac/)<br>
 
-[skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)
-[zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
-[zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+[skratky pre sublimetext ktore mozte pouzivat cez tab](https://docs.emmet.io/cheat-sheet)<br>
+[zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)<br>
+[zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)<br>
 
 - [1. hodina](1/intro.md) &#10004;
 - [2. hodina](2/intro.md) &#10004;
