@@ -6,7 +6,8 @@
 [Handbook html css](html-css-handbook.pdf)<br>
 [Handbook js jquery](jquery-handbook.pdf)<br>
 
-[základ na kopírovanie pre všetky hodiny](default.rar)<br>
+[základ na kopírovanie pre všetky hodiny v rar](default.rar)<br>
+[základ na kopírovanie pre všetky hodiny v zip](default.zip)<br>
 
 [CSS almanac](https://css-tricks.com/almanac/)<br>
 
