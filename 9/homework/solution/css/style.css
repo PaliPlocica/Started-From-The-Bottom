@@ -1,0 +1,53 @@
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.shaddow-first {
+  text-shadow: 2px 2px red;
+}
+
+.shaddow-second {
+  text-shadow: -2px -2px red;
+}
+
+.shaddow-third {
+  text-shadow: 2px 2px 5px blue;
+}
+
+.text-overline {
+  text-decoration: overline;
+}
+
+.text-line-through {
+  text-decoration: line-through;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.grad1 {
+  height: 100px;
+  background: linear-gradient(red, yellow);
+}
+
+.box-shaddow {
+  width: 100px;
+  height: 100px;
+}
+
+.box-shaddow-first {
+  box-shadow: 10px 10px 5px 0px red;
+}
+
+.box-shaddow-second {
+  box-shadow: inset 10px 10px 5px 0px green;
+}
