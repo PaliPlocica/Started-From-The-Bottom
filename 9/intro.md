@@ -10,7 +10,6 @@
 - [zakladne info o position](https://www.w3schools.com/css/css_positioning.asp)</br>
 - [ďalšie info o position](https://css-tricks.com/almanac/properties/p/position)</br>
 
-
 - [zakladne info o transform 2D](https://www.w3schools.com/css/css3_2dtransforms.asp)</br>
 - [zakladne info o transform 3D](https://www.w3schools.com/css/css3_3dtransforms.asp)</br>
 - [ďalšie infom o transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)</br>
