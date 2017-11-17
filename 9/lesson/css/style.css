@@ -29,7 +29,7 @@
 }
 
 .light-blue {
-  z-index: 2;
+  z-index: 3;
   background-color: #7092BF;
   width: 150px;
   height: 150px;
@@ -38,7 +38,7 @@
 }
 
 .blue {
-  z-index: 2;
+  z-index: 4;
   background-color: #00A3E8;
   width: 150px;
   height: 150px;
@@ -47,7 +47,7 @@
 }
 
 .pink {
-  z-index: 3;
+  z-index: 5;
   background-color: #FEAEC9;
   width: 150px;
   height: 150px;
@@ -56,7 +56,7 @@
 }
 
 .yellow {
-  z-index: 3;
+  z-index: 6;
   background-color: #FEF200;
   width: 150px;
   height: 150px;
@@ -66,14 +66,14 @@
 
 .green {
   position: fixed;
-  z-index: 2;
+  z-index: 7;
   background-color: #23B14D;
   width: 150px;
   height: 150px;
   left: 100px;
   top: 100px;
-  /* right: 0;
-  bottom: 0; */
+  right: 0;
+  bottom: 0;
 }
 
 .box:hover {

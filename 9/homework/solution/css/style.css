@@ -1,53 +1,46 @@
-.uppercase {
-  text-transform: uppercase;
+.wrap {
+  background: #5C5C5C;
+  width: 700px;
+  margin: 0 auto;
 }
 
-.lowercase {
-  text-transform: lowercase;
+.title-center {
+  text-align: center;
 }
 
-.capitalize {
-  text-transform: capitalize;
+.example_1 {
+  position: absolute;
+  background-color: #D8F5FF;
+  width: 200px;
+  height: 200px;
+  left: 20px;
+  top: 20px;
 }
 
-.shaddow-first {
-  text-shadow: 2px 2px red;
+.example_2 {
+  position: fixed;
+  background-color: #C1FFDB;
+  width: 200px;
+  height: 200px;
+  top: 0;
+  right: 0;
+  z-index: 10;
 }
 
-.shaddow-second {
-  text-shadow: -2px -2px red;
+.example_3 {
+  position: relative;
+  background-color: #FFD7C2;
+  width: 600px;
+  height: 400px;
+  top: 20px;
+  left: 20px;
 }
 
-.shaddow-third {
-  text-shadow: 2px 2px 5px blue;
-}
-
-.text-overline {
-  text-decoration: overline;
-}
-
-.text-line-through {
-  text-decoration: line-through;
-}
-
-.text-underline {
-  text-decoration: underline;
-}
-
-.grad1 {
-  height: 100px;
-  background: linear-gradient(red, yellow);
-}
-
-.box-shaddow {
-  width: 100px;
-  height: 100px;
-}
-
-.box-shaddow-first {
-  box-shadow: 10px 10px 5px 0px red;
-}
-
-.box-shaddow-second {
-  box-shadow: inset 10px 10px 5px 0px green;
+.example_4 {
+  position: absolute;
+  background-color: #FFC7E4;
+  width: 200px;
+  height: 200px;
+  bottom: 10px;
+  right: 20px;
 }

@@ -23,3 +23,4 @@
 - [6. hodina](6/intro.md) &#10004;
 - [7. hodina](7/intro.md) &#10004;
 - [8. hodina](8/intro.md) &#10004;
+- [8. hodina](9/intro.md) &#10004;

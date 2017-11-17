@@ -15,7 +15,7 @@
 - [zakladne info o display flexu3](https://www.w3schools.com/css/css3_flexbox.asp)</br>
 
 #### Homework/Domáca úloha</br>
-vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru ktoru si stiahneš [zakladna kostra webky](../default.rar) nezabudni to cele odrarovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým svoje vlastné css stale budete písať do filu style.css... vytvorte si do index.html body kostru stránky nasledovne:
+vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru ktoru si stiahneš [zakladna kostra webky](../default.rar) nezabudni to cele odrarovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... vytvorte si do index.html body kostru stránky nasledovne:
 - vytvorte div html tag a pridajte mu atribut class s názvom main-content
 ```
 <body>

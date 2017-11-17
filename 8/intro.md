@@ -4,7 +4,6 @@
 
 ### 8. hodina
 ôsma hodina
-<!-- ([ôsma hodina](lesson)):</br> -->
 
 #### zaujímavé linky
 - [zakladne info o text tranform](https://css-tricks.com/almanac/properties/t/text-transform)</br>
@@ -20,7 +19,7 @@
 - [generator box-shaddow](https://www.cssmatic.com/box-shadow)</br>
 
 #### Homework/Domáca úloha</br>
-vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru ktoru si stiahneš [zakladna kostra webky](../default.rar) nezabudni to cele odrarovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým svoje vlastné css stale budete písať do filu style.css... vytvorte si do index.html body kostru stránky nasledovne:
+vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru ktoru si stiahneš [zakladna kostra webky](../default.rar) nezabudni to cele odrarovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... vytvorte si do index.html body kostru stránky nasledovne:
 - vytvorte si tri p html tagy a vložte do nich nejaky text a vytvorte pre nich atribut class nasledovne prve p bude mat classu s nazvom uppercase ďalšie lowercase a posledné capitalize a pod posledne p vytvorte hr element
 ```
 	<p class="uppercase">This is some text.</p>
