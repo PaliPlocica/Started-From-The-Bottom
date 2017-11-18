@@ -27,7 +27,7 @@
 
 #### Homework/Domáca úloha</br>
 vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru, ktoru si stiahneš [zakladna kostra webky](../default.zip) nezabudni to cele odzipovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... 
-- 1.časť na základe tohto obrázka sa pokúste vytvorit html kostru a nastylovat jednotlivé krabičky podľa [tohto obrázka](homework1/homework.png)
+- 1.časť na základe tohto obrázka sa pokúste vytvorit html kostru a nastylovat jednotlivé krabičky podľa [tohto obrázka](homework/homework.png)
 
 [tu je riešenie, ktoré si pozrite až keď budete mať dokončenú túto domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
 
