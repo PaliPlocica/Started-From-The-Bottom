@@ -15,7 +15,6 @@
 [zakladne skratky v sublime pre windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)<br>
 [zakladne skratky v sublime pre mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)<br>
 
-
 - [1. hodina](1/intro.md) &#10004;
 - [2. hodina](2/intro.md) &#10004;
 - [3. hodina](3/intro.md) &#10004;
