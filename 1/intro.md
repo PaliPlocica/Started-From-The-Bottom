@@ -40,36 +40,49 @@ ako si otvorit nastavenia v editore
 kam si skopirovat nastavenia
 ![alt text](images/11.png)</br>
 ```
-{
-    "workbench.startupEditor": "newUntitledFile",
-    "atomKeymap.promptV3Features": true,
-    "workbench.colorTheme": "Atom One Dark",
-    "explorer.confirmDelete": false,
-    "git.confirmSync": false,
-    "window.zoomLevel": -1,
-    "html.format.wrapLineLength": 60,
-    "files.autoSave": "onFocusChange",
-    "editor.tabSize": 2,
-    "editor.matchBrackets": false,
-    "highlight-matching-tag.enabled": true,
-    "highlight-matching-tag.highlightSelfClosing": true,
-    "highlight-matching-tag.leftStyle": {
-        "borderWidth": "0",
-        "borderStyle": "solid",
-        "borderColor": "transparent",
-        "borderRadius": "0"
-    },
-    "highlight-matching-tag.rightStyle": {
-        "borderWidth": "0",
-        "borderStyle": "solid",
-        "borderColor": "transparent",
-        "borderRadius": "0"
-    },
-    "highlight-matching-tag.style": {
-        "textDecoration": "underline"
-    }
-}
+  "workbench.startupEditor": "newUntitledFile",
+  "atomKeymap.promptV3Features": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "explorer.confirmDelete": false,
+  "git.confirmSync": false,
+  "window.zoomLevel": -1,
+  "html.format.wrapLineLength": 60,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.matchBrackets": false,
+  "highlight-matching-tag.enabled": true,
+  "highlight-matching-tag.highlightSelfClosing": true,
+  "highlight-matching-tag.leftStyle": {
+      "borderWidth": "0",
+      "borderStyle": "solid",
+      "borderColor": "transparent",
+      "borderRadius": "0"
+  },
+  "highlight-matching-tag.rightStyle": {
+      "borderWidth": "0",
+      "borderStyle": "solid",
+      "borderColor": "transparent",
+      "borderRadius": "0"
+  },
+  "highlight-matching-tag.style": {
+      "textDecoration": "underline"
+  }
 ```
+#### nastavenia skratiek v editore</br>
+```
+  {
+    "key": "ctrl+alt+l",
+    "command": "HookyQR.beautify",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+alt+k",
+    "command": "blankLine.process",
+    "when": "editorFocus"
+  }
+```
+
+
 #### inštalacia gitKraken</br>
 <https://www.gitkraken.com/></br>
 
