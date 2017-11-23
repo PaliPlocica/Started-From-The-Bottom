@@ -17,7 +17,6 @@ inštalácia prebieha nasledovne</br>
 ![alt text](images/5.png)</br>
 ![alt text](images/6.png)</br>
 ![alt text](images/7.png)</br>
-![alt text](images/8.png)</br>
 
 #### inštalácia doplnkov do editora</br>
 otvorte si folder a vlozte do vnútra toto na základe toho aký operačný systém máte
@@ -40,6 +39,7 @@ zaregistrujeme sa do github, aby sme mali svoju vlastnu krabičku, kde si budeme
 vyplnte údaje a klik Create an account, kedže nechcete platiť 7dugatov mesačne a mať sukromne krabičky a repositáre tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vás...
 verifikujte teda potvrdte si účet, na email vam prišlo info
 prejde na vytvorenie vášho prvého repa alias krabičky čiže poďme najprv na githube na váš profil
+![alt text](images/8.png)</br>
 ![alt text](images/9.png)
 kliknime na tlačidlo aby sme vytvorili našu prvu mega super duper krabičku
 ![alt text](images/10.png)
