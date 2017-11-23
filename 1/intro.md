@@ -33,7 +33,43 @@ stiahnite a odzipujte tieto doplnky [doplnky](extensions.zip) do otvoreného fol
 takto
 ![alt text](images/9.png)</br>
 
+#### nastavenia editora</br>
+ako si otvorit nastavenia v editore
+![alt text](images/10.png)</br>
 
+kam si skopirovat nastavenia
+![alt text](images/11.png)</br>
+```
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "atomKeymap.promptV3Features": true,
+    "workbench.colorTheme": "Atom One Dark",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "window.zoomLevel": -1,
+    "html.format.wrapLineLength": 60,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.matchBrackets": false,
+    "highlight-matching-tag.enabled": true,
+    "highlight-matching-tag.highlightSelfClosing": true,
+    "highlight-matching-tag.leftStyle": {
+        "borderWidth": "0",
+        "borderStyle": "solid",
+        "borderColor": "transparent",
+        "borderRadius": "0"
+    },
+    "highlight-matching-tag.rightStyle": {
+        "borderWidth": "0",
+        "borderStyle": "solid",
+        "borderColor": "transparent",
+        "borderRadius": "0"
+    },
+    "highlight-matching-tag.style": {
+        "textDecoration": "underline"
+    }
+}
+```
 #### inštalacia gitKraken</br>
 <https://www.gitkraken.com/></br>
 
@@ -42,19 +78,19 @@ zaregistrujeme sa do github, aby sme mali svoju vlastnu krabičku, kde si budeme
 vyplnte údaje a klik Create an account, kedže nechcete platiť 7dugatov mesačne a mať sukromne krabičky a repositáre tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vás...
 verifikujte teda potvrdte si účet, na email vam prišlo info
 prejde na vytvorenie vášho prvého repa alias krabičky čiže poďme najprv na githube na váš profil
-![alt text](images/9.png)</br>
-![alt text](images/10.png)</br>
-kliknime na tlačidlo aby sme vytvorili našu prvu mega super duper krabičku
-![alt text](images/11.png)</br>
-vyplníme info o krabičke
 ![alt text](images/12.png)</br>
-skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
 ![alt text](images/13.png)</br>
-otvorme si nainštalovaný gitkraken a poďme si vyklonovať teda skopirovať a nalinkovať náš repo alias krabičku, najprv klinime na ikonku sem
+kliknime na tlačidlo aby sme vytvorili našu prvu mega super duper krabičku
 ![alt text](images/14.png)</br>
-potom vyberme clone
+vyplníme info o krabičke
 ![alt text](images/15.png)</br>
-vyberme si kde chceme mať krabičku v našom počítači a zadajme našu skopírovanu url adresu krabičky z githubu
+skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
 ![alt text](images/16.png)</br>
-nejako takto
+otvorme si nainštalovaný gitkraken a poďme si vyklonovať teda skopirovať a nalinkovať náš repo alias krabičku, najprv klinime na ikonku sem
 ![alt text](images/17.png)</br>
+potom vyberme clone
+![alt text](images/18.png)</br>
+vyberme si kde chceme mať krabičku v našom počítači a zadajme našu skopírovanu url adresu krabičky z githubu
+![alt text](images/19.png)</br>
+nejako takto
+![alt text](images/20.png)</br>
