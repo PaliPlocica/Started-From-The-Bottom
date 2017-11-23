@@ -19,6 +19,19 @@ inštalácia prebieha nasledovne</br>
 ![alt text](images/7.png)</br>
 ![alt text](images/8.png)</br>
 
+#### inštalácia doplnkov do editora</br>
+otvorte si folder a vlozte do vnútra toto na základe toho aký operačný systém máte
+
+Windows ```%USERPROFILE%\.vscode\extensions```
+Mac ```~/.vscode/extensions```
+Linux ```~/.vscode/extensions```
+
+otvori sa vam miesto kam si skopírujete tieto doplnky pre vscode
+
+
+
+<keybindings.md)>
+
 #### inštalacia gitKraken</br>
 <https://www.gitkraken.com/></br>
 
