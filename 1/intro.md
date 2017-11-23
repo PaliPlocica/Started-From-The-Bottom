@@ -25,11 +25,14 @@ Windows ```%USERPROFILE%\.vscode\extensions```
 Mac ```~/.vscode/extensions```
 Linux ```~/.vscode/extensions```
 
-otvori sa vam miesto kam si skopírujete tieto doplnky pre vscode
+takto
+![alt text](images/8.png)</br>
 
+stiahnite a odzipujte tieto doplnky [doplnky](extensions.zip) do otvoreného foldra ktori ste otvorili pomocou url adresy kde sa ukladaju doplnky
 
+takto
+![alt text](images/9.png)</br>
 
-<keybindings.md)>
 
 #### inštalacia gitKraken</br>
 <https://www.gitkraken.com/></br>
@@ -39,19 +42,19 @@ zaregistrujeme sa do github, aby sme mali svoju vlastnu krabičku, kde si budeme
 vyplnte údaje a klik Create an account, kedže nechcete platiť 7dugatov mesačne a mať sukromne krabičky a repositáre tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vás...
 verifikujte teda potvrdte si účet, na email vam prišlo info
 prejde na vytvorenie vášho prvého repa alias krabičky čiže poďme najprv na githube na váš profil
-![alt text](images/8.png)</br>
-![alt text](images/9.png)
+![alt text](images/9.png)</br>
+![alt text](images/10.png)</br>
 kliknime na tlačidlo aby sme vytvorili našu prvu mega super duper krabičku
-![alt text](images/10.png)
+![alt text](images/11.png)</br>
 vyplníme info o krabičke
-![alt text](images/11.png)
+![alt text](images/12.png)</br>
 skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
-![alt text](images/12.png)
+![alt text](images/13.png)</br>
 otvorme si nainštalovaný gitkraken a poďme si vyklonovať teda skopirovať a nalinkovať náš repo alias krabičku, najprv klinime na ikonku sem
-![alt text](images/13.png)
+![alt text](images/14.png)</br>
 potom vyberme clone
-![alt text](images/14.png)
+![alt text](images/15.png)</br>
 vyberme si kde chceme mať krabičku v našom počítači a zadajme našu skopírovanu url adresu krabičky z githubu
-![alt text](images/15.png)
+![alt text](images/16.png)</br>
 nejako takto
-![alt text](images/16.png)
+![alt text](images/17.png)</br>
