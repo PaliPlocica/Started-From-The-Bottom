@@ -3,7 +3,6 @@
 ## Modul 8: text-transform, text-shaddow, text-decoration, background: linear-gradient, box-shadow a box-shadow s inset
 
 ### 8. hodina
-ôsma hodina
 
 #### zaujímavé linky
 - [zakladne info o text tranform](https://css-tricks.com/almanac/properties/t/text-transform)</br>

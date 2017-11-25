@@ -1,6 +1,6 @@
 [&#129188; späť](../README.md)</br>
 
-## Modul 2: Štruktúra webstránky a info o skratkach pre sublimetext, info o html tagoch a atributoch
+## Modul 2: Štruktúra webstránky, info o html tagoch a atributoch
 
 ### 2. hodina
 ([druha hodina](lesson)):</br>

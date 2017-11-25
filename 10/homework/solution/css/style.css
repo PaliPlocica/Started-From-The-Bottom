@@ -1,0 +1,80 @@
+.wrap {
+  background: #5C5C5C;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.title-center {
+  text-align: center;
+}
+
+.example_1 {
+  position: absolute;
+  background-color: #D8F5FF;
+  width: 200px;
+  height: 200px;
+  left: 20px;
+  top: 20px;
+}
+
+.example_2 {
+  position: fixed;
+  background-color: #C1FFDB;
+  width: 200px;
+  height: 200px;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
+
+.example_3 {
+  position: relative;
+  background-color: #FFD7C2;
+  width: 600px;
+  height: 400px;
+  top: 20px;
+  left: 20px;
+}
+
+.example_4 {
+  position: absolute;
+  background-color: #FFC7E4;
+  width: 200px;
+  height: 200px;
+  bottom: 10px;
+  right: 20px;
+}
+
+.link,
+.title-main {
+  position: relative;
+  color: black;
+  background-color: yellow;
+  border: 1px solid black;
+  font-size: 50px;
+  padding-left: 40px;
+}
+
+.link {
+  margin-left: 40px;
+  padding-left: 0;
+}
+
+.link:after,
+.title-main:after {
+  position: absolute;
+  font-size: 30px;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.link:after {
+  content: '1';
+  left: -35px;
+}
+
+.title-main:after {
+  content: '2';
+}
