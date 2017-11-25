@@ -101,6 +101,7 @@ pdf s klavesovimy skratkami pre Linux
 <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf>
 
 nainštalujte si gitBash <https://git-scm.com/downloads/> ktorí pomôže editoru spracovať vaše zmeny v balíčku
+tiež si môžte stiahnuť nainštalovať node.js aby ste mohli spúšťať npm príkazy v terminály <https://nodejs.org/en/download>
 
 #### registracia na github verzionovač vášho kódu a vytvorenie repositara alias krabičky</br>
 zaregistrujeme sa do githubu, aby sme mali svoju vlastnu krabičku, kde si budeš odkladať svoju prácu čo si majstroval/a na hodine v priebehu learn2code a tiež aby si sa mohol/a chváliť že si kvely/a a firmy sa o teba mohli pobiť <https://github.com/join></br>

@@ -3,66 +3,35 @@
 ## Modul 10: webpack ako si ho stiahnuť, používať a upraviť...
 
 ### 10. hodina
-([desiata hodina](lesson)):</br>
 
 #### zaujímavé linky
-- [zakladne info o position](https://www.w3schools.com/css/css_positioning.asp)</br>
+- [info o webpacku a jeho možnostiach](https://webpack.js.org/concepts)</br>
 
-#### ikonky a generátor
-- [icomoon generátor ikoniek](https://icomoon.io)</br>
+#### webpack baliček ako si ho stiahnuť
+cez gitKraken si vyclonujete balíček do svojho počítača takto
+túto linku si skopírujete a otvoríte gitKraken
+```
+  https://github.com/frantallukas10/webpack-simple-page.git
+```
+![alt text](images/1.png)</br>
+po vyklonovani si tento balíček otvoríme vo Visual Studio Code editore cez file, open folder a vyhľadam si kde som si vyklonoval baliček
+![alt text](images/2.png)</br>
+![alt text](images/3.png)</br>
+ked to mam otvorené teraz sa naučíme ako webpack balíček spúšťať ale ak ste si ešte nenainštalovali node.js tak si to musíme stiahnuť a nainštalovať, to či ho máte nainštalovaný viete zístiť, tak že do terminálu napíšte node -v a ono by vam malo vypísať v a nejaké číslo vtedy tento krok môžete preskočiť inak tu je linka na stiahnutie node.js <https://nodejs.org/en/download/></br> 
+potom si musime otvoriť terminál vo Visual Studio Code cez skratku ctrl+shift+Y mali by sme vidiet toto
+![alt text](images/4.png)</br>
+potom sa prekliknem do terminálu v ktorom viem spúšťať príkazy, ktoré som si  zadefinoval v package.json file
 
-
-#### Homework/Domáca úloha</br>
-vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru, ktoru si stiahneš [zakladna kostra webky](../default.zip) nezabudni to cele odzipovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... 
-- 1.časť na základe tohto obrázka sa pokúste vytvorit html kostru a nastylovat jednotlivé krabičky podľa [tohto obrázka](homework/homework.png)
-
-[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú túto domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
-
-- 2.časť ak máte hotovu tu prvú časť pokračujte v index.html a pod to cele čo máte v body si vytvorte linku s antributom class s nazvom link a do vnutra pridajte nejaky text a vytvotre si hlavny nadpis do neho pridajte atribut class s nazvom title-main
-```
-<a href="#" class="link">linkaaaaaaa</a>
-<h1 class="title-main">nadpissssssssssss</h1>
-```
-- prejdite do filu style.css a seleknite si naraz link a title-main cez ciarku a kedze chceme aby tieto dve texty boli rodicia a povedali svojim ikonkam aky priestor maju zaberat tak im pridame position relative, farbu textu ciernu, farbu pozadia žltú, rmaček 1px solid čierna, veľkosť písma 50px a odtlačime to z lava s tím že zaberaten element priestor 50px
-```
-.link,
-.title-main {
-  position: relative;
-  color: black;
-  background-color: yellow;
-  border: 1px solid black;
-  font-size: 50px;
-  padding-left: 40px;
-}
-```
-- kedze niekedy chceme aby sa neklikalo na cele pozadie ikonky ktoru si onedlho vytvorime tak pre linku vynulujeme ten padding z lava a pridame margin nech nezabera linka ten priestor z lava
-```
-.link {
-  margin-left: 40px;
-  padding-left: 0;
-}
-```
-- teraz pouzijeme pseudo selektory pre linku aj pre nadpis cez ktore vytvorime nase ikonky najprv im povieme nech plavaju nad svojimi rodičmi cize position absolute nejaku velkosť písma a pozíciu z hora 50% čiže 50% výšky svojho rodiča nejaku poziciu z ľava a cez transform odpočítame 50% výšky ikonky teda font-size od výšky nášho rodiča a z index definuje prioritu umiestnenia na stránke či je nad alebo pod niečim...
-```
-.link:after,
-.title-main:after {
-  position: absolute;
-  font-size: 30px;
-  top: 50%;
-  left: 5px;
-  transform: translateY(-50%);
-  z-index: 1;
-}
-```
-- kedže neviem či by ste ešte zvládly vygenerovať si ikonky a všetko zopakovať to čo na hodine tak namiesto vygenerovaných ikoniek si vieme vložiť vlastný znak cez content ciže si selektneme linku a cez pseudo selektor vložime content napr znak 1 pred text kedže linka ma použítý margin a tak musíme odpočítať ten margin z ľava aby sme to umiestnili vedľa textu ja som si vložil číslo 1 vedľa linky a vedľa nadpisu číslo 2
-```
-.link:after {
-  content: '1';
-  left: -35px;
-}
-
-.title-main:after {
-  content: '2';
-}
-```
-[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú túto domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
+pred spustením balíčka si musíme naištalovať balíčky s ktorími pracuje a ktoré mam zadefinované v package.json file, čiže do terminálu napíšem npm install a dám enter
+![alt text](images/5.png)</br>
+ak uz máte nainštalované balíčky čiže vidíte folder node_modules a v termináli niečo takéto
+![alt text](images/6.png)</br>
+môžete préjsť na spustenie balíčka, ak chcem spustiť balíček treba napísať do terminálu príkaz npm run dev a dať enter
+![alt text](images/7.png)</br>
+ak máte správne všetko v balíčku tak na konci by vam malo vybehnuť toto
+![alt text](images/8.png)</br>
+ak ho chcete zastaviť stačí stlačiť ctrl+c pre windows os a pre mac os je to Cmd+Return
+vyskočí vam hláška či ste si istý napíšte y že myslíte yes a dajte enter
+![alt text](images/9.png)</br>
+![alt text](images/10.png)</br>
+tada a sme zastavili baliček
