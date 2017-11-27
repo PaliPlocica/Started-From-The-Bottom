@@ -10,7 +10,6 @@
 - [generátor všetkých formátov, ktoré potrebujete pre rôzne podpory prehliadačov](https://transfonter.org)</br>
 
 #### Ako si nalinkovať ikonky do webpacku</br>
-<video src="11.mp4" width="640" height="360" controls preload></video>
-
+[video](11.mp4)<br>
 
 [tu je riešenie](lesson)<br>
