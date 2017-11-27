@@ -11,6 +11,6 @@
 
 #### Ako si nalinkovať ikonky do webpacku</br>
 ![IMAGE ALT TEXT HERE](https://www.youtube-nocookie.com/embed/WxLGFBfKoM0)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WxLGFBfKoM0E/0.jpg)](https://www.youtube-nocookie.com/embed/WxLGFBfKoM0)
 
 [tu je riešenie](lesson)<br>
