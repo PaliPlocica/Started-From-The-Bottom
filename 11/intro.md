@@ -10,7 +10,7 @@
 - [generátor všetkých formátov, ktoré potrebujete pre rôzne podpory prehliadačov](https://transfonter.org)</br>
 
 #### Ako si nalinkovať ikonky do webpacku</br>
-[![IMAGE ALT TEXT HERE]](https://www.youtube.com/watch?v=WxLGFBfKoM0)
+![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=WxLGFBfKoM0)
 
 
 [tu je riešenie](lesson)<br>
