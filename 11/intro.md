@@ -10,12 +10,8 @@
 - [generátor všetkých formátov, ktoré potrebujete pre rôzne podpory prehliadačov](https://transfonter.org)</br>
 
 #### Ako si nalinkovať ikonky do webpacku</br>
-prejdem na icomoon <https://icomoon.io> kliknem hore v pravo na icomoon app, vymažem si tie ikonky,
-
-ktoré vidím na začiatku a pridám si tam tie svoje
-- 
-```
-
-```
+<video width="640" height="360" controls>
+  <source src="11.mp4" type="video/mp4">
+</video>
 
 [tu je riešenie](lesson)<br>

@@ -6,4 +6,6 @@
 
 #### Homework/ domáca úloha
 pokúste sa vytvoriť vo webpack balíčku celu learn2code stránku
+<https://www.learn2code.sk>
+
 ([tu je riešenie](lesson)</br>

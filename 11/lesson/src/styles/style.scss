@@ -1,0 +1,15 @@
+.list {
+  &-li {
+    position: relative;
+    padding-left: 35px;
+    font-size: 30px;
+
+    &:after {
+      top: 50%;
+      transform: translateY(-50%);
+      left: 5px;
+      font-size: 30px;
+      color: red;
+    }
+  }
+}
