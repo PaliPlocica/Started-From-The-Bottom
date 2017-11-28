@@ -8,4 +8,5 @@
 pokúste sa vytvoriť vo webpack balíčku celu learn2code stránku
 <https://www.learn2code.sk>
 
+uploadnem vam webku az po zaslani tej vašej
 <!-- ([tu je riešenie](lesson)</br> -->
