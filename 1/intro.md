@@ -7,7 +7,7 @@
 #### inštalácia Visual Studio Code</br>
 linka kde si stiahnete editor Visual Studio Code <https://code.visualstudio.com/Download></br>
 
-stiahnite si inštaláciu podľa vášho operačného systému, spustite to, možno sa vás spýta do you want to allow this app to make changes to zour device? date yes ak nie nevadí, záleži od vášho operačného systému...</br> 
+stiahnite si inštaláciu podľa vášho operačného systému, spustite to</br> 
 inštalácia prebieha nasledovne</br> 
 ![alt text](images/1.png)</br>
 ![alt text](images/1.png)</br>
