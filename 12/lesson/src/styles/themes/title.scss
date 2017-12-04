@@ -1,0 +1,24 @@
+.title {
+  &-heading {
+    font-weight: 600;
+
+    font-size: 49px;
+    &-mark {
+      color: $sinbad;
+    }
+  }
+
+  &-subheading {
+    font-weight: 500;
+    font-size: 24px;
+  }
+
+  &-content {
+    font-size: 28px;
+
+    &-mark {
+      color: $blue-lagoon;      
+      font-weight: 500;
+    }
+  }
+}

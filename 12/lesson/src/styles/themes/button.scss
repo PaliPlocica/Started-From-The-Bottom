@@ -1,0 +1,47 @@
+  .btn {
+    cursor: pointer;
+    display: inline-block;
+    user-select: none;
+    position: relative;
+    text-align: left;
+    background-color: transparent;
+    vertical-align: middle;
+    border: 0;
+    margin: 0;
+    padding: 10px 40px;
+    span {
+      position: relative;
+    }
+    &-primary,
+    &-secondary {
+      color: $white;
+      font-weight: 600;
+      border: 1px solid $eastern-blue;
+      &:hover {
+        border-width: 1px;
+        background-color: $bondi-blue;
+      }
+    }
+    &-primary {
+      font-weight: bold;
+      background-color: $eastern-blue;
+      font-size: 18px;
+    }
+    &-secondary {
+      color: $eastern-blue;
+      border: 1px solid $eastern-blue;
+      font-weight: 400;
+      font-size: 14px;
+      &:hover {
+        color: $white;
+        background-color: $eastern-blue;
+      }
+    }
+    &-login {
+      font-weight: 600;
+      border-color: $white;
+      &:hover {
+        background-color: $bondi-blue;
+      }
+    }
+  }
