@@ -10,3 +10,4 @@ pokúste sa vytvoriť vo webpack balíčku celu learn2code stránku
 
 uploadnem vam webku az po zaslani tej vašej
 [tu je riešenie](lesson/src)</br>
+[tu je riešenie zip verzia](lesson/src.zip)</br>
