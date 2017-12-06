@@ -23,4 +23,3 @@
 - [10. hodina](10/intro.md) &#10004;
 - [11. hodina](11/intro.md) &#10004;
 - [12. hodina](12/intro.md) &#10004;
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR6dXvTLyVt3Ms1DaYUMr37VhLunoPVlL4TGAyZ9lwOLjXfpz0mF5yb2UAZI21xJcd4vGYuq9RgU0S9/pubhtml?widget=true&amp;headers=false"></iframe>
