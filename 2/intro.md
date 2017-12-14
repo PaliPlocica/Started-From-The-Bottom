@@ -5,7 +5,7 @@
 ### 2. hodina
 ([druha hodina](lesson)):</br>
 
-#### Štruktúra webstránky a info o skratkach pre sublimetext:</br>
+#### Štruktúra webstránky a info o skratkach:</br>
 - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)</br>
 - [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)</br>
 - [vsetky html tagy po kope](http://overapi.com/html)</br>
