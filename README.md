@@ -6,11 +6,12 @@
 [Handbook html css](html-css-handbook.pdf)<br>
 [Handbook js jquery](jquery-handbook.pdf)<br>
 
+<!-- 
 [základ na kopírovanie po 8 hodinu rar](default.rar)<br>
 [základ na kopírovanie po 8 hodinu zip](default.zip)<br>
 
 [CSS almanac](https://css-tricks.com/almanac/)<br>
-
+-->
 - [1. hodina](1/intro.md) &#10004;
 <!-- 
 - [2. hodina](2/intro.md) &#10004;
