@@ -12,7 +12,8 @@
 [CSS almanac](https://css-tricks.com/almanac/)<br>
 
 - [1. hodina](1/intro.md) &#10004;
-[comment]: <> (- [2. hodina](2/intro.md) &#10004;
+<!-- 
+- [2. hodina](2/intro.md) &#10004;
 - [3. hodina](3/intro.md) &#10004;
 - [4. hodina](4/intro.md) &#10004;
 - [5. hodina](5/intro.md) &#10004;
@@ -22,4 +23,5 @@
 - [9. hodina](9/intro.md) &#10004;
 - [10. hodina](10/intro.md) &#10004;
 - [11. hodina](11/intro.md) &#10004;
-- [12. hodina](12/intro.md) &#10004;)
+- [12. hodina](12/intro.md) &#10004;
+-->
