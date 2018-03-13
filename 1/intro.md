@@ -19,55 +19,8 @@ inštalácia prebieha nasledovne</br>
 ![alt text](images/7.png)</br>
 
 #### inštalácia doplnkov do editora</br>
-otvorte si folder a vlozte do vnútra toto na základe toho aký operačný systém máte
+stiahnite si tento [folder](.vscode.zip) s nazvom .vscode odzipujte ho a otvorte vo Visual Studio Code
 
-Windows ```%USERPROFILE%\.vscode\extensions```
-Mac ```~/.vscode/extensions```
-Linux ```~/.vscode/extensions```
-
-takto
-![alt text](images/8.png)</br>
-
-stiahnite a odzipujte tieto doplnky [doplnky](extensions.zip) do otvoreného foldra ktori ste otvorili pomocou url adresy kde sa ukladaju doplnky
-
-takto
-![alt text](images/9.png)</br>
-
-#### nastavenia editora</br>
-ako si otvorit nastavenia v editore</br>
-![alt text](images/10.png)</br>
-
-kam si skopirovat nastavenia</br>
-![alt text](images/11.png)</br>
-```
-  "workbench.startupEditor": "newUntitledFile",
-  "atomKeymap.promptV3Features": true,
-  "workbench.colorTheme": "Atom One Dark",
-  "explorer.confirmDelete": false,
-  "git.confirmSync": false,
-  "window.zoomLevel": -1,
-  "html.format.wrapLineLength": 60,
-  "files.autoSave": "onFocusChange",
-  "editor.tabSize": 2,
-  "editor.matchBrackets": false,
-  "highlight-matching-tag.enabled": true,
-  "highlight-matching-tag.highlightSelfClosing": true,
-  "highlight-matching-tag.leftStyle": {
-      "borderWidth": "0",
-      "borderStyle": "solid",
-      "borderColor": "transparent",
-      "borderRadius": "0"
-  },
-  "highlight-matching-tag.rightStyle": {
-      "borderWidth": "0",
-      "borderStyle": "solid",
-      "borderColor": "transparent",
-      "borderRadius": "0"
-  },
-  "highlight-matching-tag.style": {
-      "textDecoration": "underline"
-  }
-```
 #### nastavenia klavesových skratiek v editore</br>
 ako si otvorit klavesove nastavenia skratiek v editore</br>
 ![alt text](images/12.png)</br>
@@ -116,6 +69,7 @@ kliknime na konci na tlačidlo create repository aby sme vytvorili našu prvu me
 skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
 ![alt text](images/18.png)</br>
 
+<!--
 #### inštalacia gitKraken</br>
 <https://www.gitkraken.com/></br>
 po nainštalovaní spustím gitkraken aby sme vedeli preniest naše krabičky z githubu a iného prostredia do našého lokálneho prostredia potrebujeme kliknut na toto
@@ -131,3 +85,4 @@ potom sa nám v gitkrakene zobrazi hint Successfully cloned repo... klikneme na 
 ![alt text](images/23.png)</br>
 a už mame našu krabičku v počítači nejako takto by ste mali mať gitkraken
 ![alt text](images/24.png)</br>
+-->
