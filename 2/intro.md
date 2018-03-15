@@ -14,3 +14,8 @@
 
 Tag môže obsahovať ľubovoľný počet atribútov. Atribúty bližšie špecifikujú vlastnosti
 tagu. Atribúty sa uvádzajú v počiatočnom tagu, formou zápisu atribút="hodnota"
+
+#### Homework/Domáca úloha</br>
+vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
+Nezabudnite si písať poznámky čo ste nepochopili alebo nevedeli.
+[domaca uloha](homework/homework.png)<br>
