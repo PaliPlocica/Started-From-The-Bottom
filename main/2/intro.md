@@ -15,7 +15,7 @@
 Tag môže obsahovať ľubovoľný počet atribútov. Atribúty bližšie špecifikujú vlastnosti
 tagu. Atribúty sa uvádzajú v počiatočnom tagu, formou zápisu atribút="hodnota"
 
-na hodine sme si inštalovali Sourcetree a gitbash a registoravali sa na githube a vytvorili svoje vlastné krabičky a vyclonovali vlastne prostredia a pushli niečo nas5 do krabičky
+na hodine sme si inštalovali Sourcetree, Node.js a gitbash a registoravali sa na githube a vytvorili svoje vlastné krabičky a vyclonovali vlastne prostredia a pushli niečo nas5 do krabičky
 
 #### Homework/Domáca úloha</br>
 vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
