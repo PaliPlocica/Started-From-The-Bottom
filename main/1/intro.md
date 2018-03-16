@@ -38,7 +38,7 @@ inštalácia prebieha nasledovne</br>
 ![alt text](images/7.png)</br>
 
 #### inštalácia doplnkov do editora</br>
-stiahnite si tento [zazipovany folder](project.zip) s nazvom project.zip odzipujte ho a otvorte vo Visual Studio Code
+stiahnite si tento [zazipovany folder](vscode extensions.zip) alebo [zararovany folder](vscode extensions.rar) s nazvom project.zip odzipujte ho a otvorte vo Visual Studio Code
 ![alt text](images/8.png)</br>
 ![alt text](images/9.png)</br>
 
