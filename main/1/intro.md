@@ -38,7 +38,7 @@ inštalácia prebieha nasledovne</br>
 ![alt text](images/7.png)</br>
 
 #### inštalácia doplnkov do editora</br>
-stiahnite si tento [zazipovany folder](vscode extensions.zip) alebo [zararovany folder](vscode extensions.rar) s nazvom project.zip odzipujte ho a otvorte vo Visual Studio Code
+stiahnite si tento [zazipovany folder](vscode extensions.zip) alebo [zararovany folder](vscode extensions.rar) odzipujte alebo odrarujte ho a otvorte vo Visual Studio Code, potom nasledujte kroky na obrazkoch
 ![alt text](images/8.png)</br>
 ![alt text](images/9.png)</br>
 
@@ -62,8 +62,9 @@ toto skopirujem
     "when": "editorFocus"
   }
 ```
-takto 
 ![alt text](images/12.png)</br>
+takto by to malo vyzerať
+![alt text](images/13.png)</br>
 
 #### Info o skratkách pre editor Visual Studio Code</br>
 [info o skratkách](keybindings.md)</br>
@@ -82,11 +83,11 @@ zaregistrujeme sa do githubu, aby sme mali svoju vlastnu krabičku, kde si bude�
 vyplnte udaje a click Create an account, kedže nechcete platiť 7dugatov mesacne a mat sukromne repositare alias krabičky tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vas...
 verifikujte teda potvrdte si účet. Na email vam prišlo info...</br>
 Ďalej prejdime na vytvorenie vášho prvého repa alias krabičky, najprv na githube sa preklikneme na váš profil
-![alt text](images/13.png)</br>
-vyplníme info o krabičke
 ![alt text](images/14.png)</br>
-kliknime na konci na tlačidlo create repository aby sme vytvorili našu prvu mega super duper krabičku
+vyplníme info o krabičke
 ![alt text](images/15.png)</br>
-skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
+kliknime na konci na tlačidlo create repository aby sme vytvorili našu prvu mega super duper krabičku
 ![alt text](images/16.png)</br>
+skopirujeme si url adresu našej vytvorenej krabičky, ktorú potrebujeme na skopirovanie do nášho lokálneho prostredia
+![alt text](images/17.png)</br>
 
