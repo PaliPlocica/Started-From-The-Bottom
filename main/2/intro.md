@@ -21,3 +21,5 @@ na hodine sme si inštalovali Sourcetree, Node.js a gitbash a registoravali sa n
 vytvorte tabulku a použite a html tag teda linky, ktoré sme tiež vytvárali na hodine podľa tohto obrázka
 Nezabudnite si písať poznámky čo ste nepochopili alebo nevedeli.
 [domaca uloha](homework/homework.png)<br>
+
+[tu je riešenie](homework/solution.html)<br>

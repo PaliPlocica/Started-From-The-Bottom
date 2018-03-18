@@ -14,8 +14,8 @@
 -->
 - [1. hodina](main/1/intro.md) &#10004;
 - [2. hodina](main/2/intro.md) &#10004;
-<!-- 
 - [3. hodina](3/intro.md) &#10004;
+<!-- 
 - [4. hodina](4/intro.md) &#10004;
 - [5. hodina](5/intro.md) &#10004;
 - [6. hodina](6/intro.md) &#10004;

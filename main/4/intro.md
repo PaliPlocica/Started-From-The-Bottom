@@ -6,8 +6,7 @@
 ([štvrtá hodina](lesson)):</br>
 
 #### info o html tagoch div a span:</br>
-- [zakladne info o div elemente](https://www.w3schools.com/tags/tag_div.asp)</br>
-- [zakladne info o span elemente](https://www.w3schools.com/tags/tag_span.asp)</br>
+- [zakladne info o svg elemente](https://www.w3schools.com/graphics/svg_intro.asp)</br>
 
 #### info o css selektoroch:</br>
 - [zakladne info o css selektoroch](https://www.w3schools.com/cssref/css_selectors.asp)</br>
