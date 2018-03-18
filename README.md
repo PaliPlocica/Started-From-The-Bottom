@@ -3,8 +3,8 @@
 ### Obsah
 #### 
 
-[Handbook html css](html-css-handbook.pdf)<br>
-[Handbook js jquery](jquery-handbook.pdf)<br>
+[Handbook html css](main/html-css-handbook.pdf)<br>
+[Handbook js jquery](main/jquery-handbook.pdf)<br>
 
 <!-- 
 [základ na kopírovanie po 8 hodinu rar](default.rar)<br>
