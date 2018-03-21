@@ -4,6 +4,7 @@
 
 ### 3. hodina
 ([tretia hodina](lesson)):</br>
+<hr>
 
 #### info o html tagoch a atributoch:</br>
 [info o iframe html tagu](https://www.w3schools.com/tags/tag_iframe.asp)<br>
@@ -11,6 +12,13 @@
 [info o select html tagu](https://www.w3schools.com/tags/tag_select.asp)<br>
 [info o form html tagoch](https://www.w3schools.com/html/html_form_elements.asp)<br>
 [info o selektoroch a atribute class](https://www.w3schools.com/cssref/sel_class.asp)<br>
+<hr>
+
+#### Homework/Domáca úloha</br>
+vytvorte kostru stránky nasledovne použite iframe html tag na vytvorenie youtube videa vo vaše stránke a všetko podľa tohto obrázka
+Nezabudnite si písať poznámky čo ste nepochopili alebo nevedeli.
+[domaca uloha](homework/homework.png)<br>
+<hr>
 
 #### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](images/1.png)
@@ -21,11 +29,3 @@
 ![alt text](images/6.png)
 ![alt text](images/7.png)
 ![alt text](images/8.png)
-
-#### Homework/Domáca úloha</br>
-vytvorte kostru stránky nasledovne použite iframe html tag na vytvorenie youtube videa vo vaše stránke,
-Nezabudnite si písať poznámky čo ste nepochopili alebo nevedeli.
-[domaca uloha](homework/homework.png)<br>
-<!--
-[tu je riešenie](homework/solution.html)<br>
--->
