@@ -17,18 +17,14 @@
 - [generator farbie na klik](https://color.hailpixel.com)</br>
 - [generator odtieňov farieb](http://www.0to255.com)</br>
 
+- [zakladne info o nejaké ssxtriky pseudo elementy](https://css-tricks.com/pseudo-element-roundup/)</br>
+- [30 zaujímavostí ktoré by sme si mohli pamätať](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)</br>
 #### info o šírkach a výškach:</br>
-- [zakladne info width](https://www.w3schools.com/cssref/pr_dim_width.asp)</br>
-- [zakladne info height](https://www.w3schools.com/cssref/pr_dim_height.asp)</br>
 - [zakladne info o funkcii calc()](https://www.w3schools.com/cssref/func_calc.asp)</br>
 - [zakladne info max-width](https://www.w3schools.com/cssref/pr_dim_max-width.asp)</br>
 - [zakladne info max-height](https://www.w3schools.com/cssref/pr_dim_max-height.asp)</br>
 - [zakladne info min-width](https://www.w3schools.com/cssref/pr_dim_min-width.asp)</br>
 - [zakladne info min-height](https://www.w3schools.com/cssref/pr_dim_min-height.asp)</br>
-
-#### info o padding a margin:</br>
-- [zakladne info padding](https://www.w3schools.com/css/css_padding.asp)</br>
-- [zakladne info margin](https://www.w3schools.com/css/css_margin.asp)</br>
 
 #### Homework/Domáca úloha</br>
 vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú ktoru ktorú stále používame a vymazujeme všetko čo je v body a v file style.css ak nemáš tu si to vieš štiahnuť nezabudni to cele odrarovať [zakladna kostra webky](../default.rar) vytvorte si do index.html body kostru stránky nasledovne:
