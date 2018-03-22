@@ -10,6 +10,43 @@
 
 #### info o css selektoroch:</br>
 - [zakladne info o css selektoroch](https://www.w3schools.com/cssref/css_selectors.asp)</br>
+- [zakladne info o css pseudo elementoch ](https://www.w3schools.com/css/css_pseudo_elements.asp)</br>
+- [zakladne info o pseudo selektory](https://css-tricks.com/almanac/)</br>
+- [zakladne info o nejaké ssxtriky pseudo elementy](https://css-tricks.com/pseudo-element-roundup/)</br>
+- [30 zaujímavostí ktoré by sme si mohli pamätať](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)</br>
+
+CSS vlastnosti:
+
+multitriedy
+hromadná deklarácia
+kontextová deklarácia
+kaskádovosť (prednastavené vlastnosti, dedičnosť, kaskáda)
+jednotky v css (vela)
+Ďalšie experimentovanie s CSS (materiál):
+
+pseudo triedy (:hover, kdekoľvek v pravidle)
+pseudo elementy (::first-letter, iba na konci v pravidle)
+vraj všetky
+tu ich je ešte viac
+finty
+dalšie selektory
+hviezdička
+priama nadradenosť (zobáčik) >
+susedstvo +
+atribút []
+pár ďalších
+
+CSS vlastnosti na dnes:
+color (:
+font-size (px alebo em)
+margin (vonkajší okraj)
+padding (vnútorný okraj)
+border (rámček)
+width (šírka)
+height (výška)
+background (farba pozadia a spol.)
+display (spôsob zobrazenia)
+float (plávanie)
 
 #### Homework/Domáca úloha</br>
 vytvor si folder s nazvom aky chces ide o domacu kludne domaca uloha cislo potom do neho si skopiruj toto [zakladna kostra webky](../default.rar) ak si nechcete vytvarať index.html a do neho skopirovať ten zaklad potom si vytvoriť css folder do neho reset.css file do neho skopirovať [css reset](https://meyerweb.com/eric/tools/css/reset/) potom vytvoriť ďalši file s nazvom style.css ktori sa ma tiez nachadzať v foldri css a potom to nalinkovať v index.html, tak tuto pasaž môžte preskošiť... takže sp5 k domacej úlohe vytvorte si do index.html kostru stránky na základe tohto obrázka [domaca uloha](homework/homework.png), keď to budete mať začíname písať css style do súboru style.css:
