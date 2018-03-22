@@ -1,9 +1,8 @@
 <!-- definujeme ye v tomto fili pouzivame html5 tagy -->
 <!doctype html>
-<!-- atribut langdefinuje v akom jazyku je vasa web stranka -->
+<!-- atribut lang definuje v akom jazyku je vasa web stranka -->
 <html lang="sk">
 <!-- v hlavicke sa linkuju kniznice, css files, js files, meta data teda informacie o vasej stranke -->
-
 <head>
 	<!-- chartset je atribut, ktory ulahcuje definovat znakovu sadu -->
 	<meta charset="utf-8">
@@ -17,6 +16,7 @@
 	<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
 	<!-- núti prehliadač vykresliť štandardy konkrétnej verzie prehliadača staci IE edge -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
 	<!-- 
 		zabezpeci vam to ze vasa web stranka bude spravne riesit responzivitu 
 		width=device-width info o tom že stránka sa zobrazuje na základe šírky vášho zariadenia
@@ -63,9 +63,22 @@
 <!-- do body pisete kostru stranky -->
 <body>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/vrVuGiKRVDU" frameborder="0" allow="autoplay; encrypted-media"
-	    allowfullscreen></iframe>
-	<button type="button" onclick="alert('Hello World!')">Click Me!</button>
-	<form action="/action_page.php">
+		allowfullscreen>
+	</iframe>
+	<button>k</button>
+	<button type="button" onclick="alert('Hasdfasdfasdfsafdasdf')">
+		Click Me!
+	</button>
+	<button type="button" onclick="alert('Hasdfasdfasdfsafdasdf')" disabled>
+		haha neklikneš na mňa
+	</button>
+	<form action="">
+		<input type="text" name="meno">
+	</form>
+
+
+
+	<form>
 		Enter your name:
 		<input name="firstname" type="text">
 		<br>
@@ -140,6 +153,10 @@
 		<input type="number" name="points" step="3"><br>
 		<input type="text" name="firstname" value="John" disabled>
 		<input type="text" name="firstname" value="John" readonly>
+		<label for="input1">ej ci pana!</label>
+		<input type="text" placeholder="šššš" id="input1">
+		<label for="input2">ci pana!</label>
+		<input type="text" placeholder="aaaa" id="input2">
 	</form>
 	<!-- inlinové vkladanie štýlov -->
 	<div style="width: 200px; height: 200px; background-color: black"></div>
