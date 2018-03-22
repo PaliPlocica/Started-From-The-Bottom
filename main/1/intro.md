@@ -7,6 +7,7 @@
 #### Homework/Domáca úloha</br>
 vytvorte vo vašom folderi, ktorí ste si vytvorili na hodine nový folder s nazvom domaca1 alebo si to pomenujte tak aby ste vedeli ze ide o vasu prvú domácu úlohu a do neho si vytvorte file index.html v ktorom sa pokúste napisať text a obaliť ho html tagmi tak aby ste docielili rovnaky výsledok v prehliadači ako je na tomto obrázku [domaca uloha](homework/homework.png)<br>
 nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nevedeli urobiť...<br>
+<hr>
 
 #### blokové a inlinové HTML tágy bez pouzitia atributov, čo je to element</br>
 - [info o blokových elementoch, zaberajú celú šírku obrazovky](https://www.w3schools.com/html/html_blocks.asp)</br>
@@ -22,6 +23,7 @@ nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nev
 - [zakladne info tabuľkách](https://www.w3schools.com/html/html_tables.asp)</br>
 - [zakladne info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)</br>
 - [vsetky html tagy po kope](http://overapi.com/html)</br>
+<hr>
 
 #### inštalácia Visual Studio Code</br>
 linka kde si stiahnete editor Visual Studio Code <https://code.visualstudio.com/Download></br>
@@ -36,11 +38,13 @@ inštalácia prebieha nasledovne</br>
 ![alt text](images/5.png)</br>
 ![alt text](images/6.png)</br>
 ![alt text](images/7.png)</br>
+<hr>
 
 #### inštalácia doplnkov do editora</br>
 stiahnite si tento [zazipovany folder](vscode extensions.zip) alebo [zararovany folder](vscode extensions.rar) odzipujte alebo odrarujte ho a otvorte vo Visual Studio Code, potom nasledujte kroky na obrazkoch
 ![alt text](images/8.png)</br>
 ![alt text](images/9.png)</br>
+<hr>
 
 #### nastavenia klavesových skratiek v editore</br>
 ako si otvorit klavesove nastavenia skratiek v editore</br>
@@ -65,6 +69,7 @@ toto skopirujem
 ![alt text](images/12.png)</br>
 takto by to malo vyzerať
 ![alt text](images/13.png)</br>
+<hr>
 
 #### Info o skratkách pre editor Visual Studio Code</br>
 [info o skratkách](keybindings.md)</br>
@@ -77,6 +82,7 @@ pdf s klavesovimy skratkami pre Linux
 
 nainštalujte si gitBash <https://git-scm.com/downloads/> ktorí pomôže editoru spracovať vaše zmeny v balíčku
 tiež si môžte stiahnuť nainštalovať node.js aby ste mohli spúšťať npm príkazy v terminály <https://nodejs.org/en/download>
+<hr>
 
 #### registracia na github verzionovač vášho kódu a vytvorenie repositara alias krabičky</br>
 zaregistrujeme sa do githubu, aby sme mali svoju vlastnu krabičku, kde si budeš odkladať svoju prácu čo si majstroval/a na hodine v priebehu learn2code a tiež aby si sa mohol/a chváliť že si kvely/a a firmy sa o teba mohli pobiť <https://github.com/join></br>

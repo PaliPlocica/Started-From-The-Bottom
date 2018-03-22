@@ -1,4 +1,3 @@
-<!-- definujeme ye v tomto fili pouzivame html5 tagy -->
 <!doctype html>
 <!-- atribut lang definuje v akom jazyku je vasa web stranka -->
 <html lang="sk">
@@ -16,7 +15,6 @@
 	<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
 	<!-- núti prehliadač vykresliť štandardy konkrétnej verzie prehliadača staci IE edge -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	
 	<!-- 
 		zabezpeci vam to ze vasa web stranka bude spravne riesit responzivitu 
 		width=device-width info o tom že stránka sa zobrazuje na základe šírky vášho zariadenia
@@ -33,23 +31,14 @@
 	<!-- pridate obrazok do prehliadaca vedla nazvu vasej stranky-->
 	<link rel="icon" href="./images/icon.png" type="image/png" sizes="16x16">
 	<!-- http://meyerweb.com/eric/tools/css/reset/ zabezpecime ze css bude rovnake na kazdom prehliadaci -->
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/reset.css"> -->
 	<!-- 
 		rel atribut definuje o aky file ide, stylesheet sa da prelozit ako zoznam kaskadovych stilov a 
 		cele je to obalene tagom link ktory hovori ze ide o linku teda linkujem css file do HTMLka 
 	-->
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/style.css"> -->
 	<!-- do htlm tagu style mozete napisat svoj style ak potrebujete nieco skor zobrazit pred tym ked sa nacita cela vasa stranka -->
 	<style>
-		.city {
-			background-color: tomato;
-			color: white;
-			padding: 10px;
-		} 
-
-		.main {
-			text-align: center;
-		}
 	</style>
 	<!-- zabezpecuje to ze HTML5 tagy budu fungovat pre IE9 a nizsie prehliadace -->
 	<!--[if lt IE 9]>
@@ -65,19 +54,15 @@
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/vrVuGiKRVDU" frameborder="0" allow="autoplay; encrypted-media"
 		allowfullscreen>
 	</iframe>
-	<button>k</button>
-	<button type="button" onclick="alert('Hasdfasdfasdfsafdasdf')">
-		Click Me!
+	<br>
+	<button type="button" onclick="alert('popup v prehliadači s textom')">
+		som button html tag s atributom onclick a vo vnutri obsahuje hodnotu s funkciou alert a ta obsahuje nejakz text, ktorý sa vypíše po kliknutí
 	</button>
-	<button type="button" onclick="alert('Hasdfasdfasdfsafdasdf')" disabled>
-		haha neklikneš na mňa
+	<br>
+	<button type="button" disabled>
+		som button na ktorí nevieš kliknúť
 	</button>
-	<form action="">
-		<input type="text" name="meno">
-	</form>
-
-
-
+	<br>
 	<form>
 		Enter your name:
 		<input name="firstname" type="text">
@@ -89,80 +74,17 @@
 			<option value="audi">Audi</option>
 		</select>
 		<br>
-		<select name="cars" size="4" multiple>
-			<option value="volvo">Volvo</option>
-			<option value="saab">Saab</option>
-			<option value="fiat">Fiat</option>
-			<option value="audi">Audi</option>
-		</select>
-		<br>
 		<textarea name="message" rows="10" cols="30">
-			The cat was playing in the garden.
+			som nejaká textarea s veeeela textom podobne ako input len viac riadkovy
 		</textarea>
 		<br>
-		<input type="submit">
-	</form>
-	<br>
-	<form>
-		0
-		<input type="range" id="a" name="a" value="50"> 100 +
-		<input type="number" id="b" name="b" value="50"> =
-		<output name="x" for="a b"></output>
+		<label for="input1">som label keď na mňa klikneš focusnem input podobnou</label>
 		<br>
+		<input type="text" placeholder="som prvý input" id="input1">
 		<br>
-		<input type="submit">
-	</form>
-	<form>
-		<input type="radio" name="gender" value="male" checked> Male
+		<label for="input2">som label keď na mňa klikneš focusnem input podobnou</label>
 		<br>
-		<input type="radio" name="gender" value="female"> Female
-		<br>
-		<input type="radio" name="gender" value="other"> Other
+		<input type="text" placeholder="som druhý input" id="input2">
 	</form>
-	<form>
-		First name:
-		<input type="text" name="firstname" value="John" size="40"><br>
-		First name:
-		<input type="text" name="firstname" maxlength="10"><br>
-		E-mail:
-		<input type="email" name="email" autocomplete="off"><br>
-		First name:
-		<input type="text" name="fname" autofocus><br>
-		<input type="image" src="img_submit.gif" alt="Submit" width="48" height="48"><br>
-		<input list="browsers"><br>
-		<datalist id="browsers">
-			<option value="Internet Explorer">
-			<option value="Firefox">
-			<option value="Chrome">
-			<option value="Opera">
-			<option value="Safari">
-		</datalist>
-		<input type="text" name="fname" placeholder="First name"><br>
-		Country code:
-		<input type="text" name="country_code" pattern="[A-Za-z]{3}" title="Three letter country code"><br>
-		Select images:
-		<input type="file" name="img" multiple><br>
-		Enter a date before 1980-01-01:
-		<input type="date" name="bday" max="1979-12-31"><br>
-		Enter a date after 2000-01-01:
-		<input type="date" name="bday" min="2000-01-02"><br>
-		Quantity (between 1 and 5):
-		<input type="number" name="quantity" min="1" max="5"><br>
-		Username:
-		<input type="text" name="usrname" required><br>
-		<input type="number" name="points" step="3"><br>
-		<input type="text" name="firstname" value="John" disabled>
-		<input type="text" name="firstname" value="John" readonly>
-		<label for="input1">ej ci pana!</label>
-		<input type="text" placeholder="šššš" id="input1">
-		<label for="input2">ci pana!</label>
-		<input type="text" placeholder="aaaa" id="input2">
-	</form>
-	<!-- inlinové vkladanie štýlov -->
-	<div style="width: 200px; height: 200px; background-color: black"></div>
-	<!-- multi class stylovanie -->
-	<h2 class="city main">London</h2>
-	<h2 class="city">Paris</h2>
-	<h2 class="city">Tokyo</h2>
 </body>
 </html>
