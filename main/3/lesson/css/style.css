@@ -13,11 +13,11 @@ body {
 
 /* nazov tagu ako selektor a do kučeravých zatvoriek píšem styles { sem picem schopnosti } */ 
 div { 
-  border: 1px solid black;  /* border vam vytvorí ramček okolo selektnutých div html tagov bude 1px hruby a čiernej farby */
+  border: 1px dotted black;  /* border vam vytvorí ramček okolo selektnutých div html tagov bude 1px hruby a čiernej farby */
 } 
 
 /* nazov tagu ako selektor */
-span { 
+p { 
   /* border vam vytvorí ramček okolo selektnutých span html tagov bude 1px hruby a modrej farby */
   border: 1px solid blue;
 } 
