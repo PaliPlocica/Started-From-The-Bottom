@@ -20,6 +20,9 @@ Nezabudnite si písať poznámky čo ste nepochopili alebo nevedeli.
 [domaca uloha](homework/homework.png)<br>
 <hr>
 
+[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu.](homework/solution.html)<br>
+
+
 #### Manual ako zmazať svoj vytvoreny repozitar</br>
 ![alt text](images/1.png)
 ![alt text](images/2.png)
