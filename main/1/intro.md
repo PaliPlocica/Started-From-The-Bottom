@@ -41,7 +41,7 @@ inštalácia prebieha nasledovne</br>
 <hr>
 
 #### inštalácia doplnkov do editora</br>
-stiahnite si tento [zazipovany folder](vscode extensions.zip) alebo [zararovany folder](vscode extensions.rar) odzipujte alebo odrarujte ho a otvorte vo Visual Studio Code, potom nasledujte kroky na obrazkoch
+stiahnite si tento [zazipovany folder](vscodeExtensions.zip) alebo [zararovany folder](vscodeExtensions.rar) odzipujte alebo odrarujte ho a otvorte vo Visual Studio Code, potom nasledujte kroky na obrazkoch
 ![alt text](images/8.png)</br>
 ![alt text](images/9.png)</br>
 <hr>
