@@ -2,6 +2,7 @@
 <!-- v akom jazyku je vasa web stranka -->
 <html lang="sk">
 <!-- v hlavicke sa linkuju kniznice, css files, js files, meta data teda informacie o datach -->
+
 <head>
 	<!-- chartset je atribut, ktory ulahcuje definovat znakovu sadu -->
 	<meta charset="utf-8">
@@ -16,7 +17,7 @@
 	<!-- 	Núti prehliadač vykresliť štandardy konkrétnej verzie staci IE edge-->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- zabezpeci vam to ze vasa web stranka bude spravne riesit responzivitu -->
-	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 	<!-- 	Týmto sa upraví pohľad na vašu webovú aplikáciu v zariadeniach iOS, pričom necháte užívateľovi škálovať obsah (na ktorý sme zvyknutí v programe Safari pomocou prstov na zväčšenie a zmenšenie) a nastaví šírku -->
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<!-- pridate obrazok do prehliadaca vedla nazvu vasej stranky-->
@@ -39,25 +40,57 @@
 	<![endif]-->
 </head>
 <!-- do body pisete kostru stranky -->
+
 <body>
-	<h1>selektni html tag h1 a daj mu background-color: red;</h1>
-
-	<div class="intro">
-	  <p>My name is Donald.</p>
-	  <p>I live in Duckburg.</p>
+	<div>
+		som text obalený div
 	</div>
-
-	<p>My best friend is Mickey.</p>
-	<hr>
-	<p>My name is Donald.</p>
-	<p class="hometown">I live in Ducksburg.</p>
-	<p>My name is Dolly.</p>
-	<p class="hometown">I also live in Ducksburg.</p>
-	<hr>
-	<h1 class="center">This heading will not be affected</h1>
-	<p class="center">This paragraph will be red and center-aligned.</p>
-	<p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p>
-	<hr>
-	<a href="#" title="super duper text" class="link">super duper text</a>
+	<ul class="list list-specialny">
+		<li>li 1</li>
+		<li>li 2</li>
+		<li>li 3</li>
+	</ul>
+	<ul class="list">
+		<li>li 1</li>
+		<li>li 2</li>
+		<li>li 3</li>
+	</ul>
+	<ul class="list">
+		<li>li 1</li>
+		<li>li 2</li>
+		<li>li 3</li>
+	</ul>
+	<ul class="list">
+		<li>li 1</li>
+		<li>li 2</li>
+		<li>li 3</li>
+	</ul>
+	<span>
+		som text obalený spanom
+	</span>
+	<p class="orange">som text v paragraphe</p>
+	<p class="orange blue">som text v paragraphe s classou</p>
+	<p class="orange">som text v paragraphe</p>
+	<a class="link" href="#" title="klikatelny text">som klikateľný text</a>
+	<div>
+		som text obaleny divom podomnou je span s textom a v nom je dva krat strong
+		<span>
+			text obalený spanom a podomnou su dva krat strong s textom
+			<strong>text obaleny strong</strong>
+			<strong>text obaleny strong</strong>
+		</span>
+		som text nachadzajuci sa medzi spanom a podomnou su tri strong elementy a obaluje ma divko
+		<strong>text obaleny strong</strong>
+		<strong>text obaleny strong</strong>
+		<strong>text obaleny strong</strong>
+	</div>
+	<ul class="pseudo-selektor">
+		<li>asdfa</li>
+		<li>asdfa</li>
+		<li>asdfa</li>
+	</ul>
+	<button disabled>neklikateľné tlačidlo</button>
+	<button>klikateľné tlačidlo</button>
 </body>
+
 </html>

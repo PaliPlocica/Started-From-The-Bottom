@@ -31,17 +31,7 @@
 
 
 #### Homework/Domáca úloha</br>
-vytvor si folder s nazvom aky chces ide o domacu kľudne domaca uloha cislo potom do neho si skopiruj toto [zakladna kostra webky](../default.rar) ak si nechcete vytvarať index.html a do neho skopirovať ten zaklad potom si vytvoriť css folder do neho reset.css file do neho skopirovať [css reset](https://meyerweb.com/eric/tools/css/reset/) potom vytvoriť ďalši file s nazvom style.css ktori sa ma tiez nachadzať vo foldri css a potom to nalinkovať v index.html, tak tuto pasaž môžte preskošiť... takže sp5 k domacej úlohe vytvorte si do index.html kostru stránky na základe tohto obrázka [domaca uloha](homework/homework.png), keď to budete mať začíname písať css style do súboru style.css:
-
-<!-- - selektnite si h1 tag a pridajte mu farbu pozadia červenu</br>
-- selektnite si h1 a div tag naraz cez ciarku a pridajte im hrubku pisma bold</br>
-- selektnite vsetky p html tagy ktore su obalene div html tagom a dajte im ramcek 1px solid zelena</br>
-- seleknite prvý p html tag, ktorí nasleduje hned po div html tagom a pridajte mu ramcek 1px solid pink</br>
-- pridajte si niekde v index.html class atribut s nazvom intro potom si v style.css selektnite tuto classu a pridajte selektnutemu elementu farbu pozadia žltá</br>
-- chodte do index.html a pridajte trom p html tagom class atribut s nazvom hometown potom chodte do style.css a seleknite všetky p html tagy ktore maju v class atribut hometown a pridajte im farbu pozadia žlta</br>
-- chodte do index.html a pridajte trom p html tagom class atribut s nazvom center potom chodte do style.css a seleknite všetky p html tagy ktore maju v class atribut center a pridajte im text-align: center; farbu textu cervena</br>
-- chodte do index.html a pridajte trom p html tagom class atribut s nazvom large potom chodte do style.css a seleknite všetky p html tagy ktore maju v class atribut large a pridajte font-size: 30px;</br>
-- vytvorte si a html tag s linkov a textom pridajte mu atribut class s nazvom link a v style.css si selektnite tu linku cez atribut class s nazvom link a pridajte mu style display: inline-block; a text-decoration: none; potom si znova seleknite link a pridajte mu pseudo selektor cez dvojbotky a hover style farba pozadia cervena a text-decoration: underline;</br>
+vytvor si folder s nazvom aky chceš ide o domacu kľudne domaca úloha číslo potom si vytvor folder css do neho si vytvor file reset.css a style.css do reset.css filu si skopiruj [css reset](https://meyerweb.com/eric/tools/css/reset/) nalinkuj si reset.css file do filu index.html filu do head html tagu cez link... potom si pod to nalinkuj style.css file, keď to budeš mať môžeš začať pracovať podľa tohto obrázka si vytvor html kostru stránky [domaca uloha](homework/homework.png), keď to budete mať začnite písať css style do súboru style.css použitie selektorov nechám na vás skúste sa vyhrať a čo najviac ich použiť ;)
 
 Nezabudnite si písať poznámky čo ste nepochopili</br>
-[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu.](homework/solution)<br> -->
+[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu.](homework/solution)<br>
