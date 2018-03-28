@@ -18,11 +18,18 @@ body, html {
 }
 
 .title-small {
+  text-align: center;
+  color: white;
   background-color: rgba(0, 0, 255, .5);
+  font-size: 12px;
+}
+
+.title-small:nth-child(2) {
+  text-align: right;
 }
 
 .color-opacity50 {
-  /*opacity: .5;*/
+  opacity: .5;
 }
 
 .holder-box {
