@@ -1,4 +1,4 @@
-[&#129188; späť](../README.md)</br>
+[&#129188; späť](../../README.md)</br>
 
 ## Modul 3: opakovanie HTML tagov, iframe parovy html tag, input, form, select, opiton html tag, vkladanie css stylov: interné, externé, inlinové, atribut class a css seletory, mazanie repozitára</br>
 

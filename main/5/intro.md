@@ -1,4 +1,4 @@
-[&#129188; späť](../README.md)</br>
+[&#129188; späť](../../README.md)</br>
 
 ## Modul 5: intro do max-width, max-height, min-width, min-height, funkcia calc(), text-align, multiclass, box-sizing: border-box
 

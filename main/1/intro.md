@@ -1,4 +1,4 @@
-[&#129188; späť](../README.md)</br>
+[&#129188; späť](../../README.md)</br>
 
 ## Modul 1: Editor Visual Studio Code, zoznámenie sa s používaním a vytvorenie prvej webovej stránky pomocou základných HTML tágov bez atribútov (blokové a inlinové html tágy bez atributov)
 

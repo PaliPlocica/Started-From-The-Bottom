@@ -1,4 +1,4 @@
-[&#129188; späť](../README.md)</br>
+[&#129188; späť](../../README.md)</br>
 
 ## Modul 2: html s attributmy, id selector, a, img html tagy
 

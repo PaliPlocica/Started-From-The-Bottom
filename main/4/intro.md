@@ -1,4 +1,4 @@
-[&#129188; späť](../README.md)</br>
+[&#129188; späť](../../README.md)</br>
 
 ## Modul 4: Vytvorenie reset.css a style.css do foldra css nalinkovanie do index.html, ako sa linkuje css cez html tagy a atributy" class a id, najpouživanejšie css selektory, vysvetlenie si ako sa správa div a span v prehliadači a aké majú schopnosti, pseudo selektory basic, css vlastnosti.
 
