@@ -31,7 +31,7 @@
 
 
 #### Homework/Domáca úloha</br>
-vytvor si folder s nazvom aky chceš ide o domacu kľudne domaca úloha číslo potom si vytvor folder css do neho si vytvor file reset.css a style.css do reset.css filu si skopiruj [css reset](https://meyerweb.com/eric/tools/css/reset/) nalinkuj si reset.css file do filu index.html filu do head html tagu cez link... potom si pod to nalinkuj style.css file, keď to budeš mať môžeš začať pracovať podľa tohto obrázka si vytvor html kostru stránky [domaca uloha](homework/homework.png), keď to budete mať začnite písať css style do súboru style.css použitie selektorov nechám na vás skúste sa vyhrať a čo najviac ich použiť ;)
+vytvor si folder s nazvom aky chceš ide o domacu kľudne domaca úloha číslo potom si vytvor folder css do neho si vytvor file reset.css a style.css do reset.css filu si skopiruj [css reset](https://meyerweb.com/eric/tools/css/reset/) nalinkuj si reset.css file do filu index.html filu do head html tagu cez link... potom si pod to nalinkuj style.css file, keď to budeš mať môžeš začať pracovať podľa tohto obrázka si vytvor html kostru stránky [domaca uloha](homework/homework.png), keď to budete mať začnite písať css style do súboru style.css použitie selektorov nechám na vás
 
 Nezabudnite si písať poznámky čo ste nepochopili</br>
 [tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu.](homework/solution)<br>

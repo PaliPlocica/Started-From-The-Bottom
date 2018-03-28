@@ -9,10 +9,22 @@
 - [generator nahodneho textu](http://www.blindtextgenerator.com/lorem-ipsum)</br>
 
 #### linky o css styloch:</br>
+#### intro do css colors HEX a RGB a RGBA:</br>
+- [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)</br>
+- [zakladne info o RGB](https://www.w3schools.com/colors/colors_rgb.asp)</br>
+- [zakladne info o HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp)</br>
+
 - [zakladne info o zarovnávanie textu](https://css-tricks.com/almanac/properties/t/text-align)</br>
 - [zakladne info o zarovnávanie textu](https://www.w3schools.com/cssref/pr_text_text-align.asp)</br>
 - [zakladne info o dipaly](https://css-tricks.com/almanac/properties/d/display)</br>
 - [zakladne info o font-size](https://www.w3schools.com/cssref/pr_font_font-size.asp)</br>
+
+#### zaujímavé linky o farbách
+- [farba roku 2017](https://www.pantone.com/color-of-the-year-2017)</br>
+- [color wheel adobe](https://color.adobe.com/create/color-wheel)</br>
+- [nieco o tom farebnom kolese v adobe](https://www.w3schools.com/colors/colors_wheels.asp)</br>
+- [generator farbie na klik](https://color.hailpixel.com)</br>
+- [generator odtieňov farieb](http://www.0to255.com)</br>
 
 #### Homework/Domáca úloha</br>
 vytvor si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú ktoru ktorú stále používame a vymazujeme všetko čo je v body a v file style.css ak nemáš tu si to vieš štiahnuť nezabudni to cele odrarovať [zakladna kostra webky](../default.rar) vytvorte si do index.html body kostru stránky nasledovne:
