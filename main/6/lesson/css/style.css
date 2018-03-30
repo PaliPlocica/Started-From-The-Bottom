@@ -1,17 +1,19 @@
-body, html {
+body,
+html {
   height: 100%;
 }
 
-.title-center {
-  text-align: center;
-}
-
 /*defaultne*/
-/*.title-left {
+
+/*.text-left {
   text-align: left;
 }*/
 
-.title-right {
+.text-center {
+  text-align: center;
+}
+
+.text-right {
   text-align: right;
 }
 
@@ -19,18 +21,104 @@ body, html {
   text-align: justify;
 }
 
-.box-holder {
-  display: table;
+/*defaultne*/
+
+/*.holder-box-left {
+  text-align: left;
+}*/
+
+.holder-box-center {
+  text-align: center;
+}
+
+.holder-box-right {
+  text-align: right;
+}
+
+.box {
+  display: inline-block;
+  background-color: black;
+  width: 100px;
   height: 100px;
+}
+
+.list-table {
+  display: table;
   width: 100%;
+  border: 3px solid black;
+  border-width: 3px 0;
 }
 
-.box-holder-text {
+.list-table-li {
   display: table-cell;
-  vertical-align: middle;
+  text-align: center;
+  border-left: 3px solid black;
 }
 
-.text-wrapper {
-  word-wrap: break-word;
-  word-break: break-word;
+.list-table-li:first-child {
+  border-left: 0;
+  background-color: red;
+}
+
+.box-table-tr {
+  display: table;
+  table-layout: fixed;
+  width: 100px;
+  border: 1px solid red;
+}
+
+.box-table-td {
+  display: table-cell;
+}
+
+.box-table .box-table-tr:nth-child(2) .box-table-td {
+  display: table-caption;
+}
+
+.table {
+  table-layout: fixed;
+  width: 80px;
+}
+
+.table-td {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.overflow-hidden {
+  border: 3px solid black;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+}
+
+.overflow-hidden div {
+  background-color: red;
+  color: red;
+  padding-left: 30px;
+}
+
+.box-flex {
+  display: flex;
+}
+
+.box-flex-li {
+  flex: 1;
+}
+
+.box-flex-li:nth-child(1) {
+  background-color: red;
+  padding: 20px;
+}
+
+.box-flex-li:nth-child(2) {
+  background-color: green;
+
+  padding: 40px;
+}
+
+.box-flex-li:nth-child(3) {
+  background-color: blue;
+  padding: 60px;
 }
