@@ -20,3 +20,64 @@ body {
 	text-align: justify;
 	font-size: 16px;
 }
+
+.holder-list {
+	background-color: black;
+}
+
+.list-table {
+	width: 100%;
+}
+
+.list-table p{
+  color: white;
+  border: 1px solid white;
+}
+
+.list-flex {
+  display: flex;
+}
+
+.list-flex-start {
+  align-items: flex-start;
+}
+
+.list-flex-center {
+  align-items: center;
+}
+
+.list-flex-end {
+  align-items: flex-end;
+}
+
+.list-flex-li {
+  flex: 1;
+}
+
+.title-heading-medium {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  border: 3px solid yellow;
+}
+
+.list-box p {
+  background-color: white;
+  padding: 5px;
+}
+
+.box-red {
+  background-color: red;
+  padding: 10px;
+}
+
+.box-blue {
+  background-color: blue;
+  padding: 20px;
+}
+
+.box-green {
+  background-color: green;
+  padding: 30px;
+}

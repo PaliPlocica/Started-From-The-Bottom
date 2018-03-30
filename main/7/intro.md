@@ -10,9 +10,18 @@
 - [zakladne info o CSS Layout float and clear](https://www.w3schools.com/css/css_float.asp)</br>
 - [zakladne info o float left, right a clear both](https://css-tricks.com/almanac/properties/f/float)</br>
 
-- [zakladne info o display flexu1](http://jonibologna.com/flexbox-cheatsheet)
-- [zakladne info o display flexu2](https://css-tricks.com/snippets/css/a-guide-to-flexbox)</br>
-- [zakladne info o display flexu3](https://www.w3schools.com/css/css3_flexbox.asp)</br>
+#### zaujímavé linky o farbách
+- [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)</br>
+- [zakladne info o RGB](https://www.w3schools.com/colors/colors_rgb.asp)</br>
+- [zakladne info o HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp)</br>
+
+#### intro do css colors HEX a RGB a RGBA:</br>
+- [farba roku 2017](https://www.pantone.com/color-of-the-year-2017)</br>
+- [color wheel adobe](https://color.adobe.com/create/color-wheel)</br>
+- [nieco o tom farebnom kolese v adobe](https://www.w3schools.com/colors/colors_wheels.asp)</br>
+- [generator farbie na klik](https://color.hailpixel.com)</br>
+- [generator odtieňov farieb](http://www.0to255.com)</br>
+
 
 #### Homework/Domáca úloha</br>
 vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru ktoru si stiahneš [zakladna kostra webky](../default.rar) nezabudni to cele odrarovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... vytvorte si do index.html body kostru stránky nasledovne:
