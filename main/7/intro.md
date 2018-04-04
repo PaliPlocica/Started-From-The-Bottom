@@ -36,5 +36,7 @@ tu su domáce úlohy
 [domaca uloha2](homework2/homework.png),
 [domaca uloha3](homework3/homework.png)
 
-[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
+[tu je riešenie1](homework1/solution)<br>
+[tu je riešenie2](homework2/solution)<br>
+[tu je riešenie3](homework3/solution)<br>
 
