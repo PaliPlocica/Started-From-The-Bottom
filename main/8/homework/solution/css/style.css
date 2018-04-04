@@ -34,11 +34,6 @@
   text-decoration: underline;
 }
 
-.grad1 {
-  height: 100px;
-  background: linear-gradient(red, yellow);
-}
-
 .box-shaddow {
   width: 100px;
   height: 100px;

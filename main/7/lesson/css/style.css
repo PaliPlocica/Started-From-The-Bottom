@@ -1,147 +1,218 @@
-body {
- background-color: black;
+.colorRed {
+  color: red;
 }
 
-hr {
-  color: white;
+a {
+  /* zdedim to co ma definovane v rodicovskom elemente */
+  color: inherit;
+  /* defaultny stav */
+  color: initial;
 }
 
-.holder-content {
-  position: relative;
+a:focus {
+  font-weight: bold;
+  color: green;
 }
 
-.wrapper-content {
-  padding: 100px 200px 70px 250px;
-}
-
-.content {
-  border: 5px solid white;
-}
-
-.title-heading-big {
-  text-align: center;
-  color: white;
-  font-size: 22px;
-  padding: 20px;
-  border: 3px solid yellow;
-}
-
-.link {
-  display: block;
-  color: white;
-  font-size: 18px;
-  padding: 20px;
-}
-
-.link:hover {
+a:active {
+  color: blue;
   text-decoration: underline;
-  color: black;
-  background-color: white;
 }
 
-.list-flex {
-  display: flex;
+.outline {
+  padding: 20px;
+  margin: 20px;
 }
 
-.list-flex-start {
-  align-items: flex-start;
+.outline p {
+  /* vonkajší rámček */
+  outline: 10px solid red;
+  /* vnútroný rámček */
+  border: 10px solid green;
 }
 
-.list-flex-center {
-  align-items: center;
-}
-
-.list-flex-end {
-  align-items: flex-end;
-}
-
-.list-flex-li {
-  flex: 1;
-}
-
-.list-float-li {
-  float: left;
-  width: calc(100% / 3);
+.left,
+.right {
   padding: 20px;
 }
 
-.list-text {
-  padding: 20px 0;
-}
-
-.list-text-li {
-  padding-left: 40px;
-}
-
-.list-text .list-text-li:first-child {
-  padding-left: 0;
-}
-
-.list-text-li p {
-  color: yellow;
-  font-size: 18px;
-}
-
-.wrapper-list {
-  clear: both;
-}
-
-.title-heading-medium {
-  text-align: center;
-  color: white;
-  font-size: 18px;
-  padding: 10px;
-  border: 3px solid yellow;
-}
-
-.list-box p {
-  background-color: white;
-  padding: 5px;
-}
-
-.box-red {
+.left {
   background-color: red;
-  padding: 20px;
+  float: left;
+  width: 25%;
 }
 
-.box-blue {
+.right {
   background-color: blue;
-  padding: 40px;
+  float: right;
+  width: 75%;
 }
 
-.box-green {
-  background-color: green;
-  padding: 60px;
+.footer {
+  background-color: gray;
 }
 
-.title-hint {
+.rodic {
+  position: relative;
+  /* overflow: hidden; */
+  background-color: gold;
+  width: 200px;
+  height: 200px;
+}
+
+.dieta1 {
   position: absolute;
-  color: white;
-  font-size: 35px;
-  opacity: .7;
-}
-
-.title-hint.top,
-.title-hint.bottom {
+  background-color: deepskyblue;
+  width: 100px;
+  height: 100px;
   top: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.title-hint.right,
-.title-hint.left {
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.title-hint.bottom {
-  top: auto;
-  bottom: 10px;
-}
-
-.title-hint.left {
-  right: auto;
   left: 10px;
 }
 
+.dieta2 {
+  position: absolute;
+  background-color: black;
+  width: 150px;
+  height: 150px;
+  top: 30px;
+  left: 30px;
+}
+
+.dieta3 {
+  position: absolute;
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  top: 60px;
+  left: 60px;
+}
+
+.dieta4 {
+  position: absolute;
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  top: 120px;
+  right: -30px;
+}
+
+.rodic div:hover {
+  z-index: 2;
+}
+
+.box-wrapper-1 {
+  position: relative;
+  background-color: deeppink;
+  margin-top: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+.box-wrapper-1 .box {
+  position: absolute;
+  background-color: darkviolet;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.box-wrapper-2 {
+  position: relative;
+  background-color: deeppink;
+  margin-top: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+.box-wrapper-2 .box {
+  position: absolute;
+  background-color: darkviolet;
+  width: 100px;
+  height: 100px;
+  top: calc(100% / 2 - 100px / 2);
+  left: calc(100% / 2 - 100px / 2);
+}
+
+.box-wrapper-3 {
+  background-color: deeppink;
+  margin-top: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+.box-wrapper-3 .box {
+  background-color: darkviolet;
+  width: 100px;
+  height: 100px;
+ transform: translate(50%, 50%)
+}
+
+.box-wrapper-4 {
+  background-color: deeppink;
+  margin-top: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+.box-wrapper-4 .box {
+  background-color: darkviolet;
+  width: 100px;
+  height: 100px;
+  transform: rotate(45deg);
+}
+
+.ikonka {
+  position: relative;
+  padding-left: 30px;
+  font-size: 20px;
+}
+
+.ikonka:after {
+  position: absolute;
+  content: 'A';
+  color: red;
+  font-size: 10px;
+  left: 5px;
+  top: 0;
+  transform: translateY(50%)
+}
+
+.lietam {
+  background-color: black;
+  color: white;
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  padding: 30px;
+}
+
+.lietam a {
+  color: inherit;
+}
+
+.shadow {
+  display: inline-block;
+  margin: 30px;
+  padding: 30px;
+  text-shadow: 2px 2px 8px #ff0000;
+  box-shadow: 2px 2px 8px #ff0000;
+}
+
+.nic {
+  /* visibility: hidden; */
+  /* opacity: 0; */
+  font-size: 100px;
+  display: none;
+}
+h1 {
+  letter-spacing: 3px;
+}
+
+h2 {
+  letter-spacing: 2px;
+}
+
+h3 {
+  letter-spacing: -1px;
+}
