@@ -32,9 +32,9 @@
 pre každú domácu vytvor si folder s nazvom aky chceš ide o domacu kľudne domaca-uloha-číslo potom si vytvor folder css do neho si vytvor file reset.css a style.css a core.css, do reset.css filu si skopiruj [css reset](https://meyerweb.com/eric/tools/css/reset), do core.css si skopiruj to čo si mal na hodine, nalinkuj si reset.css file do filu index.html filu do head html tagu cez link... potom pod to core.css file a nakoniec si pod to nalinkuj style.css file, keď to budeš mať môžeš začať pracovať podľa tohto obrázka si vytvor html kostru stránky, keď to budete mať začnite písať css style do súboru style.css
 
 tu su domáce úlohy
-[domaca uloha](homework1/homework.png)
-[domaca uloha](homework2/homework.png)
-[domaca uloha](homework3/homework.png)
+[domaca uloha1](homework1/homework.png),
+[domaca uloha2](homework2/homework.png),
+[domaca uloha3](homework3/homework.png)
 
 [tu je riešenie, ktoré si pozrite až keď budete mať dokončenú domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
 
