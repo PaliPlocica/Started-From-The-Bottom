@@ -1,48 +1,29 @@
-.uppercase {
-  text-transform: uppercase;
+
+.main-container {
+  position: relative;
 }
 
-.lowercase {
-  text-transform: lowercase;
+.navigation {
+  position: fixed;
+  background-color: black;
+  max-height: 80px;
+  top: 0;
+  left: 0;
+  right: 9px;
 }
 
-.capitalize {
-  text-transform: capitalize;
+.navigation-list {
+  display: table;
+  padding: 30px;
 }
 
-.shaddow-first {
-  text-shadow: 2px 2px red;
+.navigation-list-li {
+  display: table-cell;
+  padding: 10px;
+  margin: 10px;
 }
 
-.shaddow-second {
-  text-shadow: -2px -2px red;
-}
-
-.shaddow-third {
-  text-shadow: 2px 2px 5px blue;
-}
-
-.text-overline {
-  text-decoration: overline;
-}
-
-.text-line-through {
-  text-decoration: line-through;
-}
-
-.text-underline {
-  text-decoration: underline;
-}
-
-.box-shaddow {
-  width: 100px;
-  height: 100px;
-}
-
-.box-shaddow-first {
-  box-shadow: 10px 10px 5px 0px red;
-}
-
-.box-shaddow-second {
-  box-shadow: inset 10px 10px 5px 0px green;
+.main-content {
+  padding-top: 80px;
+  height: 2000px;
 }

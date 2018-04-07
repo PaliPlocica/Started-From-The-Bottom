@@ -9,7 +9,5 @@
 - [ďalšie miesto kde môžete hľadať ikonky a stiahnuť to čo chcete](http://fontello.com)</br>
 - [generátor všetkých formátov, ktoré potrebujete pre rôzne podpory prehliadačov](https://transfonter.org)</br>
 
-#### Ako si nalinkovať ikonky do webpacku</br>
-<https://www.youtube-nocookie.com/embed/WxLGFBfKoM0><br>
 
 [tu je riešenie](lesson)<br>

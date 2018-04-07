@@ -5,16 +5,6 @@
 ### 9. hodina
 ([deviata hodina](lesson)):</br>
 
-#### ikonky a generátor
-- [icomoon generátor ikoniek](https://icomoon.io)</br>
-- [ikonky font awesome](http://fontawesome.io/icons)</br>
-- [ikonky pictos](http://pictos.cc/)</br>
-- [ikonky fontello](http://fontello.com/)</br>
-
-- [vkladanie ikoniek do HTML](https://dev.w3.org/html5/html-author/charref)</br>
-- [vkladanie ikoniek do HTML a do Javascriptu](https://unicode-table.com/en)</br>
-
-- [znaky ako text ktore neodporucam vkladat do html](https://www.copypastecharacter.com/symbols)</br>
 
 #### Homework/Domáca úloha</br>
 vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru, ktoru si stiahneš [zakladna kostra webky](../default.zip) nezabudni to cele odzipovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... 
