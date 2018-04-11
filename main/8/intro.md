@@ -10,7 +10,6 @@
 - [zakladne info o scss selectors](https://css-tricks.com/snippets/sass/caching-current-selector-sass/)</br>
 - [zakladne info o scss zosvetlovania a stmavovanie farieb](https://robots.thoughtbot.com/controlling-color-with-sass-color-functions)</br>
 
-
 #### zaujímavé linky o farbách
 - [zakladne info o css farbách](https://www.w3schools.com/css/css3_colors.asp)</br>
 - [zakladne info o RGB](https://www.w3schools.com/colors/colors_rgb.asp)</br>
@@ -53,5 +52,5 @@ Použitie</br>
 ![alt text](images/13.png)</br>
 
 
-<!-- #### Homework/Domáca úloha</br>
-skúste si vygenerovať ikonky a vložiť do stránky podľa návodu -->
+#### Homework/Domáca úloha</br>
+skúste si vygenerovať ikonky a vložiť do stránky podľa návodu

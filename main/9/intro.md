@@ -1,62 +1,219 @@
-[&#129188; späť](../README.md)</br>
+[&#129188; späť](../../README.md)</br>
 
-## Modul 9: position relative, absolute, fixed, transform
+## Modul 9: Sass: variables, nesting, operators, @import, @extend, @mixin, @function spolu s @return, @each
 
 ### 9. hodina
-([deviata hodina](lesson)):</br>
 
+#### zaujímavé linky o sass
+- [super stránka na otestovanie sa v sasse, kde hned na pravej strane mate vygenerované css](https://www.sassmeister.com/)</br>
+- [kopec info o sasse čo všetko sa da robiť v sasse](http://sass-lang.com/documentation/Sass/Script/Functions.html)</br>
+
+### Variables v Sass
+definuje sa cey znak $ za znakom sa definuje názov parametra a potom dvojbodka bez medzier!!! potom za dvojbodkov nasleduje to čo chcete vložiť do parametra... môžte voliť hodnoty ako napr. farbu, číslo text.</br>
+```css
+$btn-color: #000;
+$btn-width: 16px;
+$btn-fonts: 'open-sans'
+```
+použitie parametrov nasledovne</br>
+```css
+button {
+    color: $btn-color;
+    width: $btn-width;
+    font-family: $btn-fonts;
+}
+```
+
+### Nesting v Sass
+všimnite si že rodič ul element zoznam ma classu `list` a li elementy jeho deti majú classu `list-li` a následne a elementy nachádzajúce sa v li elementoch maju classu `list-li-a`</br>
+```html
+<ul class="list">
+  <li class="list-li">
+    <a href="#" class="list-li-a">klikatelny text</a>
+  </li>
+  <li class="list-li">
+    <a href="#" class="list-li-a">klikatelny text</a>
+  </li>
+  <li class="list-li">
+    <a href="#" class="list-li-a">klikatelny text</a>
+  </li>
+</ul>
+```
+v sasse môžete robiť zanorenia a kopírovať si classu zhora nadol takto:</br>
+```css
+.list {
+  border: 1px solid red;
+
+  &-li {
+    padding: 10px;
+
+    &-a {
+      color: blue;
+    }
+  }
+}
+```
+to isté sa dá robiť aj s elementami takto:</br>
+```css
+ul {
+  border: 1px solid red;
+
+  li {
+    padding: 10px;
+
+    a {
+      color: blue;
+    }
+  }
+}
+```
+Nestovať viete aj pseudoselektory:</br>
+```css
+ul {
+  li {
+    a {
+      position: relative;
+      text-decoration: none;
+      color: black;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:after {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      
+      &:before {
+        position: absolute;
+        content: '';
+        width: 30px;
+        height: 30px;
+        top: 0;
+        left: 0;
+      }
+    }
+
+    &:first-child {
+      a {
+        color: red;
+      }
+    }
+  }
+}
+```
+### operators Sass
+```
+p {
+  width: 10px / 8px;
+  width: 10px * 8px;
+  width: 10px + 8px;
+  width: 10px - 8px;
+}
+```
+
+### @import Sass
+predstavte si ze toto je váš file s názvom param.scss</br>
+```css
+$color-primary: #000;
+$color-secondary: #ff0000;
+```
+ak chcete tieto parametre pouziť naprv v druhom file s názvom btn.scss, stačí použiť funkciu @import</br>
+```css
+@import './param.scss';
+
+.btn-primary {
+  color: $color-primary;
+}
+
+.btn-secondary {
+  color: $color-secondary;
+}
+```
+## @extend Sass
+slúži na kopírovanie štýlov pomocou class, ktorá tie štýli obsahuje napr.</br>
+```css
+.classKtoraObsahujeStyleKtoryChcemSkopirovat {
+  color: red;
+  background-color: blue;
+  padding: 10px;
+}
+
+.classKtoraChceMatStyleKtoreMaTaHorna {
+  @extend .classKtoraObsahujeStyleKtoryChcemSkopirovat;
+  margin: 10px;
+  font-size: 12px;
+}
+```
+### @mixin Sass
+@mixin funkcia sass slúži na pridanie štýlov ktoré chcem upraviť a pridať do class napr. táto funkcia s názvom font-size očakáva parameter $size, ktorá bude použítá na výpočet em hodnoty a to predelním 16 a následne pridaná k veľkosti písma...</br>
+```css
+@mixin font-size1($size) {
+    font-size: ($size / 16) + em;
+}
+```
+funkcia nemá ohraničenie pri pridávani svojích parameterov, v tejto funkcii mame defaultne nastavený druhý parameter a to že $context ak nie je definovaný vo volanej funkcii priradí sa tam číslo 16...</br>
+```css
+@mixin font-size2($size, $context: '16') {
+    font-size: ($size / 16) + em;
+}
+
+```
+použitie funkcie @mixin</br>
+```css
+h1 {
+    @include font-size1(16)
+}
+h2 {
+    @include font-size2(16)
+}
+h3 {
+    @include font-size2(16, 2)
+}
+```
+## @function a @return Sass
+podobne ako sme to robili v `@mixin` funkcii vieme to vytvoriť nasledovne, použitím `@function` po definovaní nasleduje názov funkcie v našom prípade je to `em` a vo vnútri zátovriek () definujeme parametre, ktoré funkcia očakáva v našom príklade `$pixels` a druhý parameter, `$context`, ktorí ma definovanú defaltnu hodnotu vloženú pomocou parametra `$browser-context`</br>
+```css
+$browser-context: 16; // Default
+@function em($pixels, $context: $browser-context) {
+    @return #{$pixels/$context}em;
+}
+```
+Použitie:</br>
+```css
+h1 {
+    font-size: em(16);
+}
+
+h2 {
+    font-size: em(16, 2);
+}
+```
+## @each funkcia trošku mágie
+definujem si parameter v ktorom mám pole farieb ktoré su priradené k textom...
+```css
+$nazvyFarieb: (
+    'red': #fd685b,
+    'green': #39ae90,
+    'yellow': #545766
+);
+```
+vytvorim si funkciu `@each` kde si definujem dva parametre: `$menoFarby`, `$jejHexCodeFarby`  ktoré su v parametre `$nazvyFarieb` potom vo vnútri funkcie si meno farby vkladám ku kláse nasledovne .btn- a za pomlčkou sa pridá jednotlivý názov farby z poľa parametra... `#{$menoFarby}` vo vnútri vygenerovanej class vložim farbu ku `color: $jejHexCodeFarby;`
+```css
+@each $menoFarby, $jejHexCodeFarby in $nazvyFarieb {
+    .btn-#{$menoFarby} {
+        color: $jejHexCodeFarby;
+        padding: 10px;
+        font: {
+            size: 12px;
+            weight: normal;
+            family: 'open-sans';
+        }
+    }
+}
+```
 
 #### Homework/Domáca úloha</br>
-vytvorte si folder s nazvom domaca-uloha-cislo potom do neho si skopiruj základnú kostru, ktoru si stiahneš [zakladna kostra webky](../default.zip) nezabudni to cele odzipovať už som tam pridal core.css file a aj nalinkoval ho do index.html v tom core.css file je zakladny css ktori nemusite písať za každým, svoje vlastné css stale budete písať do filu style.css... 
-- 1.časť na základe tohto obrázka sa pokúste vytvorit html kostru a nastylovat jednotlivé krabičky podľa [tohto obrázka](homework/homework.png)
-
-[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú túto domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
-
-- 2.časť ak máte hotovu tu prvú časť pokračujte v index.html a pod to cele čo máte v body si vytvorte linku s antributom class s nazvom link a do vnutra pridajte nejaky text a vytvotre si hlavny nadpis do neho pridajte atribut class s nazvom title-main
-```
-<a href="#" class="link">linkaaaaaaa</a>
-<h1 class="title-main">nadpissssssssssss</h1>
-```
-- prejdite do filu style.css a seleknite si naraz link a title-main cez ciarku a kedze chceme aby tieto dve texty boli rodicia a povedali svojim ikonkam aky priestor maju zaberat tak im pridame position relative, farbu textu ciernu, farbu pozadia žltú, rmaček 1px solid čierna, veľkosť písma 50px a odtlačime to z lava s tím že zaberaten element priestor 50px
-```
-.link,
-.title-main {
-  position: relative;
-  color: black;
-  background-color: yellow;
-  border: 1px solid black;
-  font-size: 50px;
-  padding-left: 40px;
-}
-```
-- kedze niekedy chceme aby sa neklikalo na cele pozadie ikonky ktoru si onedlho vytvorime tak pre linku vynulujeme ten padding z lava a pridame margin nech nezabera linka ten priestor z lava
-```
-.link {
-  margin-left: 40px;
-  padding-left: 0;
-}
-```
-- teraz pouzijeme pseudo selektory pre linku aj pre nadpis cez ktore vytvorime nase ikonky najprv im povieme nech plavaju nad svojimi rodičmi cize position absolute nejaku velkosť písma a pozíciu z hora 50% čiže 50% výšky svojho rodiča nejaku poziciu z ľava a cez transform odpočítame 50% výšky ikonky teda font-size od výšky nášho rodiča a z index definuje prioritu umiestnenia na stránke či je nad alebo pod niečim...
-```
-.link:after,
-.title-main:after {
-  position: absolute;
-  font-size: 30px;
-  top: 50%;
-  left: 5px;
-  transform: translateY(-50%);
-  z-index: 1;
-}
-```
-- kedže neviem či by ste ešte zvládly vygenerovať si ikonky a všetko zopakovať to čo na hodine tak namiesto vygenerovaných ikoniek si vieme vložiť vlastný znak cez content ciže si selektneme linku a cez pseudo selektor vložime content napr znak 1 pred text kedže linka ma použítý margin a tak musíme odpočítať ten margin z ľava aby sme to umiestnili vedľa textu ja som si vložil číslo 1 vedľa linky a vedľa nadpisu číslo 2
-```
-.link:after {
-  content: '1';
-  left: -35px;
-}
-
-.title-main:after {
-  content: '2';
-}
-```
-[tu je riešenie, ktoré si pozrite až keď budete mať dokončenú túto domácu úlohu. Nezabudnite si písať poznámky čo ste nepochopili](homework/solution)<br>
+skúste si každý príklad vyskúšať sami bez kopírovania...
