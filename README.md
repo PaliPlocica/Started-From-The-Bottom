@@ -24,5 +24,7 @@
 <!--
 - [10. hodina](10/intro.md) &#10004;
 - [11. hodina](11/intro.md) &#10004;
-- [12. hodina](12/intro.md) &#10004;
 -->
+
+
+[gatsby](gatsby.zip) &#10004;
