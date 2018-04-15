@@ -23,6 +23,7 @@ Ak by sme chceli rozdeliť fonty, vieme ich rozdeliť na tri časti a to</br>
 ![alt text](images/1.png)</br>
 ![alt text](images/2.png)</br>
 ![alt text](images/3.png)</br>
+<hr>
 
 ### Použitie webfontov a ako si ich nalinkovať do index.html a csska
 ![alt text](images/4.png)</br>
@@ -33,11 +34,13 @@ Ak by sme chceli rozdeliť fonty, vieme ich rozdeliť na tri časti a to</br>
 ![alt text](images/9.png)</br>
 ![alt text](images/10.png)</br>
 ![alt text](images/11.png)</br>
+<hr>
 
 ### Použitie webfontov a ako si ich nalinkovať do csska ak mame sass builder
 ![alt text](images/12.png)</br>
 ![alt text](images/13.png)</br>
 ![alt text](images/14.png)</br>
+<hr>
 
 ### Použitie webfontov bez linky na web ale radšej si ich stiahnem a uložim na svoj server a nalinkujem na stránku
 ![alt text](images/15.png)</br>
@@ -49,6 +52,7 @@ Ak by sme chceli rozdeliť fonty, vieme ich rozdeliť na tri časti a to</br>
 ![alt text](images/21.png)</br>
 ![alt text](images/22.png)</br>
 ![alt text](images/23.png)</br>
+<hr>
 
 ### Tu je info o tom ktorí typ fontu je podporovaný pre ktorí prehliadač [info](https://transfonter.org/formats)
 ![alt text](images/24.png)</br>
