@@ -21,8 +21,8 @@
 - [7. hodina](main/7/intro.md) &#10004;
 - [8. hodina](main/8/intro.md) &#10004;
 - [9. hodina](main/9/intro.md) &#10004;
+- [10. hodina](main/10/intro.md) &#10004;
 <!--
-- [10. hodina](10/intro.md) &#10004;
 - [11. hodina](11/intro.md) &#10004;
 -->
 
