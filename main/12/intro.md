@@ -96,5 +96,5 @@ console.log(nazorvParametraKtoriNebudeNikdyPrepisany) // výstup v prehliadači 
 
 #### Javascript linkovanie
 1. buď píšem javascript priamo v html stránke [príklad](lesson/bezLinky/pes.html)</br>
-2. alebo si oddelím javascript a uložím ho do filu napr. s názvom main.js a v html nalinkujem cestu k filu [príklad](lesson/cezLinku)</br>
+2. alebo si oddelím javascript a uložím ho do filu napr. s názvom main.js a v html nalinkujem cestu k filu [príklad](lesson/cezLinku/pes)</br>
 
