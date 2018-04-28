@@ -23,6 +23,7 @@
 - [9. hodina](main/9/intro.md) &#10004;
 - [10. hodina](main/10/intro.md) &#10004;
 - [11. hodina](main/11/intro.md) &#10004;
+- [12. hodina](main/12/intro.md) &#10004;
 
 
 [gatsby](gatsby.zip) &#10004;
