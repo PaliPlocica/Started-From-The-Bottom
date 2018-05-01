@@ -27,7 +27,7 @@ var cena = [100, 200, 300]
 ```
 3. `Funkcia` napr. ukázali sme si definovanú funkciu `console.log(parameterKtoriChcemVypisat)`, ktorá slúži na vypísovania si hodnôt do vystupnej konozoli na zistenie čo je uložené v danom parametri, vlastnú funkcia sa definuje názvom a za názvom nasleduju zátvorky `()` a za zatvorkami nasleduju kučeravé zátvorky `{}` takto</br>
 ```js
-function nazovFunkcie(/*sem píšm nazov parametra ktorí očakáva funkcia*/) {
+function nazovFunkcie(/*sem píšem nazov parametra ktorí očakáva funkcia*/) {
     return  //sem píšem to čo chcem aby sa vykonalo
 }
 nazovFunkcie()
@@ -41,7 +41,7 @@ nazovFunkcie('tento string bude vypisany v prehlidaci v konzole')
 ```
 - priklad vloženia anonýmnej funkcie do parametra definovaný ako nazovFunkcie</br>
 ```js
-var nazovFunkcie = function(/*sem píšm nazov parametra ktorí očakáva funkcia*/) {
+var nazovFunkcie = function(/*sem píšem nazov parametra ktorí očakáva funkcia*/) {
     return //sem píšem to čo chcem aby sa vykonalo
 }
 nazovFunkcie()
