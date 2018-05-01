@@ -1,8 +1,8 @@
 [&#129188; späť](../../README.md)</br>
 
-## Modul 12: Javascript normy, hodnoty, var, const, let, function() {}, console.log(), 
+## Modul 13: Javascript opakovanie minulej hodiny, operátory, dátové typy, scope, if, switch, for
 
-### 12. hodina
+### 13. hodina
 
 #### Javascript hodnoty a vkladanie do parametra
 možné hondoty ktoré vieme uložiť do parametra:</br>
