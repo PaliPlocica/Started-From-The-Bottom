@@ -1,100 +1,110 @@
 [&#129188; späť](../../README.md)</br>
 
-## Modul 13: Javascript opakovanie minulej hodiny, operátory, dátové typy, scope, if, switch, for
+## Modul 13: Javascript opakovanie minulej hodiny, operátory, dátové typy, scope, if(), switch(), for()
 
 ### 13. hodina
 
-#### Javascript hodnoty a vkladanie do parametra
-možné hondoty ktoré vieme uložiť do parametra:</br>
-1. `string` t.j. text je definovaný tak že je obalený znakom sigelquote 'bla bla text' alebo doublequote "bla bla text" alebo ak chcem viacriadkový tak tento znak \`bla bla text\`</br>
+#### Javascript operátory
+- [príklady s operátormi](https://www.w3schools.com/jsref/jsref_operators.asp)</br>
+- [aritmetické, priraďovacie operátory](https://www.w3schools.com/js/js_operators.asp)</br>
+- [porovnávacie a logické operátory](https://www.w3schools.com/js/js_comparisons.asp)</br>
 ```js
-var text1 = 'bla bla text'
-var text2 = "bla bla text"
-var text3 = `bla bla text`
+console.log('16' == 16) // true lebo neporovnáva typ t.j. string a číslo
+console.log('16' === 16) // false lebo porovnáva typ t.j. string a číslo
+// opak
+console.log('16' != 16) // true lebo neporovnáva typ t.j. string a číslo
+console.log('16' !== 16) // false lebo porovnáva typ t.j. string a číslo
 ```
-2. `Číslo` sa používa na matematické úkony napr.</br>
+
+#### Javascript dátové typy
+- [dátové typy](https://www.w3schools.com/js/js_datatypes.asp)</br>
 ```js
-var cislo1 = 10 + 10
-var cislo2 = 10 - 10
+const length = 16;                              // Number
+const lastName = "Johnson"                      // String
+const x = {firstName:"John", lastName:"Doe"}    // Object
+const cars = ["Saab", "Volvo", "BMW"]           // Array
+
 ```
-3. `Pole` sa definuje zátvorkami `[]` tu je píklad ako si vytvoriť parameter do ktorého si vložim pole stringov, takto</br>
+Pridaním čísku k stringu sa stáva z čísla string</br>
 ```js
-var auto = ["Tesla", "Volvo", "BMW"]
+const cislo16BudeString = 16 + "Volvo"
+console.log(cislo16BudeString)
+var textPriradenyTextu = "16" + "Volvo"
+console.log(textPriradenyTextu)
+var x = "Volvo" + 16 + 4 
+console.log(x) //Volvo164
 ```
-to isté viem spraviť s číslami, atď.</br>
+
+#### Javascript typeof()
 ```js
-var cena = [100, 200, 300]
+console.log(typeof(""))                     // Returns "string"
+console.log(typeof("John"))                 // Returns "string"
+console.log(typeof("John Doe"))             // Returns "string"
+console.log(typeof(undefined))              // undefined
+console.log(typeof(null))                   // object
+
+console.log(null === undefined)             // false
+console.log(null == undefined)              // true
+console.log(typeof(true))                   // Returns "boolean"
+console.log(typeof(false))                  // Returns "boolean"
+console.log(typeof({name:'John', age:34}))  // Returns "object"
+console.log(typeof([1,2,3,4]))              // Returns "object" (not "array", see note below)
+console.log(typeof(null))                   // Returns "object"
+console.log(typeof(function myFunc(){}))    // Returns "function"
 ```
-3. `Funkcia` napr. ukázali sme si definovanú funkciu `console.log(parameterKtoriChcemVypisat)`, ktorá slúži na vypísovania si hodnôt do vystupnej konozoli na zistenie čo je uložené v danom parametri, vlastnú funkcia sa definuje názvom a za názvom nasleduju zátvorky `()` a za zatvorkami nasleduju kučeravé zátvorky `{}` takto</br>
+
+#### Javascript scope
+[príklad](https://www.w3schools.com/js/js_scope.asp)</br>
+
+#### Javascript if()
+[príklad](https://www.w3schools.com/js/js_if_else.asp)</br>
 ```js
-function nazovFunkcie(/*sem píšem nazov parametra ktorí očakáva funkcia*/) {
-    return  //sem píšem to čo chcem aby sa vykonalo
+// podmienka ktora ak je splnená tj. true vykoná sa to čo je definované v {}
+if(/*podmienka*/) {
+    // sem pisem co chcem aby sa vykonalo ak je splnena podmienka v zatvorkách ()
 }
-nazovFunkcie()
-```
-- priklad funkcie definovanej s názvom a očakávaným parametrom ktorí je následne po zavolaní vypísany do konzoly prehliadača</br>
-```js
-function nazovFunkcie(ocakavanyParameter) {
-    return  console.log(ocakavanyParameter) // výstup v prehliadači v konzole bude: 'tento string bude vypisany v prehlidaci v konzole'
-}
-nazovFunkcie('tento string bude vypisany v prehlidaci v konzole')
-```
-- priklad vloženia anonýmnej funkcie do parametra definovaný ako nazovFunkcie</br>
-```js
-var nazovFunkcie = function(/*sem píšem nazov parametra ktorí očakáva funkcia*/) {
-    return //sem píšem to čo chcem aby sa vykonalo
-}
-nazovFunkcie()
-```
-- priklad vloženia anonýmnej funkcie do parametra s názvom a očakávaným parametrom ktorí je následne po zavolaní vypísany do konzoly prehliadača</br>
-```js
-var nazovFunkcie = function(ocakavanyParameter) {
-    return  console.log(ocakavanyParameter) // výstup v prehliadači v konzole bude: 'tento string bude vypisany v prehlidaci v konzole'
-}
-nazovFunkcie('tento string bude vypisany v prehlidaci v konzole')
-```
-4. `Objekt` sa definuje zátvorkami `{}` kde vo vnutri definujem zoznam paramtrov do ktorích môžeme vložiť cez znak `:` napr. string, number, object(objekt), array(pole), function(funkcie) takto</br>
-```js
-var object = {
-    type: 'tesla',
-    kus: 2,
-    farba: {
-        pekna: 'red',
-        skareda: 'black'
-    },
-    cars: ["Saab", "Volvo", "BMW"],
-    funkcia: function(ocakavanyParameter) {
-        return  console.log(ocakavanyParameter)
+// priklad
+const funkcia = function(pocetKolobeziek) {
+    if(pocetKolobeziek >= 6) {
+        console.log('zlava 30%')
+    }
+    else if(pocetKolobeziek >= 4) {
+        console.log('zlava 20%')
+    }
+    else if(pocetKolobeziek < 4) {
+        console.log('zlava 10%')
     }
 }
+funkcia(10)
 ```
 
-#### Javascript var, const, let
-1. `var` univerzálne definovanie parametra, slúži na označenie že daný text za ním je parameter</br>
+#### Javascript switch()
+[príklad](https://www.w3schools.com/js/js_switch.asp)</br>
 ```js
-var nazovParametra = 'bla bla string'
-console.log(nazovParametra) // výstup v prehliadači v konzole bude: 'bla bla string'
-```
-2. `const` slúži na označenie že daný text za ním je parameter, ktorí nebude v kóde prepísaný</br>
-```js
-const nazorvParametraKtoriNebudeNikdyPrepisany = 'bla bla text ktori nebude nikdy prepisany inym textom'
-console.log(nazorvParametraKtoriNebudeNikdyPrepisany) // výstup v prehliadači v konzole bude: 'bla bla text ktori nebude nikdy prepisany inym textom'
-```
-príklad ktorí nikdy nestane ak použijem const</br>
-```js
-const nazorvParametraKtoriNebudeNikdyPrepisany = 'bla bla text ktori nebude nikdy prepisany inym textom'
-nazorvParametraKtoriNebudeNikdyPrepisany = 'bla bla text ktorí sa nenahradí'
-console.log(nazorvParametraKtoriNebudeNikdyPrepisany) // výstup v prehliadači v konzole bude: Uncaught TypeError: Assignment to constant variable. at <anonymous>:2:42'
-```
-3. `let` slúži na označenie že tento parameter bude niekde v kóde prepísaný a to takto</br>
-```js
-let nazovParametraKtoriBudePrepisany = 'bla bla text ktorí prepíšem číslom'
-console.log(nazorvParametraKtoriNebudeNikdyPrepisany) // výstup v prehliadači v konzole bude: 'bla bla text ktorí prepíšem číslom'
-nazovParametraKtoriBudePrepisany = 10
-console.log(nazorvParametraKtoriNebudeNikdyPrepisany) // výstup v prehliadači v konzole bude: 10
+const funkcia = function(pocetKolobeziek) {
+    switch(true) {
+        case (pocetKolobeziek >= 6):
+            console.log('zlava 30%')
+            break
+        case (pocetKolobeziek >= 4):
+            console.log('zlava 20%')
+            break
+        case (pocetKolobeziek < 4):
+            console.log('zlava 10%')
+            break
+        default:
+            console.log('žiadna')
+    }
+}
+funkcia(10)
 ```
 
-#### Javascript linkovanie
-1. buď píšem javascript priamo v html stránke [príklad](lesson/bezLinky/pes.html)</br>
-2. alebo si oddelím javascript a uložím ho do filu napr. s názvom main.js a v html nalinkujem cestu k filu [príklad](lesson/cezLinku/pes)</br>
-
+#### Javascript for()
+[príklad](https://www.w3schools.com/js/js_loop_for.asp)</br>
+```js
+for(let i = 0; i < 5; i++) {
+    console.log('mam sa fajne toľko krát sa zopakujem: ' + i)
+    // toto je taký istý console log ako hore využitie es6
+    console.log(`mam sa fajne toľko krát sa zopakujem ${i}`)
+}
+```
