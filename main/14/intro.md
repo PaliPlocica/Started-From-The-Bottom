@@ -68,6 +68,7 @@ const selektHoverEfekt = document.querySelectorAll("a:hover")
 ```
 #### Javascript style objekt
 pridavanie štýlov pomocou javascriptu</br>
+- [všetky možnosti ktore sa nachadzaju v objekte style](https://www.w3schools.com/jsref/dom_obj_style.asp)
 ```js
 const selektElementPomocouClass = document.querySelectorAll(".mojaClass")[0]
 selektElementPomocouClass.style.color = 'red' // zmenim selektnutému elementu farbu textu na červenú
@@ -84,6 +85,8 @@ console.log(selektElementPomocouClass.innerHTML) // výstup bude text ktori bude
 selektElementPomocouClass.innerHTML = 'tento text nahradi aktuálny'
 console.log(selektElementPomocouClass.innerHTML) // výstup bude tento text nahradi aktuálny
 ```
+### Javascript event click
+- [event click](https://www.w3schools.com/jsref/event_onclick.asp)
 príklad ako kontrolovať udalosť, že sa kliklo na element</br>
 ```html
 <div class='btn'>tlacidlo</div>
