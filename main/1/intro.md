@@ -17,13 +17,14 @@ nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nev
 - [info o inlineových elementoch, ktoré zaberajú len toľko koľko potrebujú](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)</br>
 - [html tagy na formatovanie textu](https://www.w3schools.com/html/html_formatting.asp)</br>
 - [info ako vytvárať commenty](https://www.w3schools.com/html/html_comments.asp)</br>
-<!-- - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)</br> -->
-<!-- - [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)</br> -->
 - [citacie pomocou html tagov](https://www.w3schools.com/html/html_paragraphs.asp)</br>
-<!-- - [zakladne info tabuľkách](https://www.w3schools.com/html/html_tables.asp)</br> -->
-<!-- - [zakladne info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)</br> -->
 - [vsetky html tagy podľa kategórie](https://www.w3schools.com/tags/ref_byfunc.asp)</br>
 - [vsetky html tagy po kope](http://overapi.com/html)</br>
+<!-- - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)</br> -->
+<!-- - [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)</br> -->
+<!-- - [zakladne info tabuľkách](https://www.w3schools.com/html/html_tables.asp)</br> -->
+<!-- - [zakladne info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)</br> -->
+
 <hr>
 
 #### inštalácia Visual Studio Code</br>
