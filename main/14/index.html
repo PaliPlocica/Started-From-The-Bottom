@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .btn {
+            display: inline-block;
+            text-decoration: none;
+            text-align: center;
+            border: 2px solid #008CBA;
+            cursor: pointer;
+            background-color: white; 
+            color: black; 
+            padding: 16px 32px;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+        }
+        .btn:hover {
+            background-color: #008CBA;
+            color: white;
+        }
+        .background {
+            background-color: blue; 
+            transition: height 1s, opacity 1s; /* toto cssko zabezpecuje ako rychlo sa ma udiat zmena z aktualneho csska an prepisane cssko */
+            height: 200px; /* aktualna vyska */
+            opacity: 1; /* aktualne vyditelnost */
+        }
+        .active { /* active classa prepise aktualne cssko */
+            height: 0;
+            opacity: 0;
+        }
+ 
+    </style>
+</head>
+<body>
+    <div class="btn">
+        button
+    </div>
+    <div class="background">
+        <span class="text">
+            tento text bude schovaný
+        </span>
+    </div>
+    <script>
+        const elementButton = document.querySelectorAll('.btn')[0]
+        const elementText = document.querySelectorAll('.text')[0]
+        const elementBackground = document.querySelectorAll('.background')[0]
+        let elementTextStyle = elementText.style
+        elementTextStyle.color = 'red'
+        elementTextStyle.fontSize = '25px'
+
+        elementButton.addEventListener('click', showText)
+        
+        function showText() {
+            let textEqualDisplayNone = elementText.style.display === 'none'
+            if(textEqualDisplayNone) {
+                elementText.style.display = ' block'
+                
+            } else {
+                elementText.style.display = ' none'
+            }
+            animationAddClass()
+        }
+
+        function animationAddClass() {
+             let activeClass = elementBackground.className.includes('active')
+            if(activeClass) {
+                elementBackground.classList.remove('active')
+                
+            } else {
+                elementBackground.classList.add('active')
+            }
+        }       
+    </script>
+</body>
+</html>
