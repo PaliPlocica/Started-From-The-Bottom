@@ -6,3 +6,4 @@
 
 #### zaujímavé linky
 - [html5up](https://html5up.net)</br>
+- [triky v cssku](https://atomiks.github.io/30-seconds-of-css/t)</br>
