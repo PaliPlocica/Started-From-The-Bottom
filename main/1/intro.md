@@ -76,11 +76,11 @@ takto by to malo vyzerať
 #### Info o skratkách pre editor Visual Studio Code</br>
 [info o skratkách](keybindings.md)</br>
 pdf s klavesovimy skratkami pre Windows
-<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
+<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf></br>
 pdf s klavesovimy skratkami pre Mac
-<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf>
+<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf></br>
 pdf s klavesovimy skratkami pre Linux
-<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf>
+<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf></br>
 <!-- 
 nainštalujte si gitBash <https://git-scm.com/downloads/> ktorí pomôže editoru spracovať vaše zmeny v balíčku
 tiež si môžte stiahnuť nainštalovať node.js aby ste mohli spúšťať npm príkazy v terminály <https://nodejs.org/en/download>
