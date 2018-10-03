@@ -9,7 +9,7 @@ do foldra, ktorí ste si vytvorili na hodine s názvom napr. hodina-1 vytvorte f
 nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nevedeli urobiť...<br>
 <hr>
 
-#### blokové a inlinové HTML tágy bez pouzitia atributov, čo je to element</br>
+#### Pozor tieto linky si prejdite</br>
 - [info o elementoch](https://www.w3schools.com/html/html_elements.asp)</br>
 - [zakladne info o hlavičkových tágoch h1,h2,...,h6](https://www.w3schools.com/html/html_headings.asp)</br>
 - [zakladne info o paragraphs html tagoch pre, br, pre](https://www.w3schools.com/html/html_paragraphs.asp)</br>
