@@ -5,7 +5,8 @@
 ### 1. hodina
 
 #### Homework/Domáca úloha</br>
-do foldra, ktorí ste si vytvorili na hodine s názvom napr. hodina-1 vytvorte file s názvom index.html v ktorom sa pokúste použiť všetky html tágy, ktoré sme prebrali na hodine, ak by ste nevedeli, ktoré tak tú je file čo sme robili na hodine [domaca uloha](homework/solution.html)<br>
+do foldra, ktorí ste si vytvorili na hodine s názvom napr. hodina-1 vytvorte file s názvom index.html v ktorom sa pokúste použiť všetky html tágy, ktoré sme prebrali na hodine, ak by ste nevedeli, ktoré tak tú je file čo sme robili na hodine</br>
+[domaca uloha](homework/solution.html)<br>
 nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nevedeli urobiť...<br>
 <hr>
 
