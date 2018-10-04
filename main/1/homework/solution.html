@@ -1,58 +1,93 @@
-<!doctype html>
-<html>
+<!-- DOCTYPE nie je html tag slúži na deklarovanie pre prehliadače v ktorú verziu HTML tágov pužívame  -->
+<!-- <!DOCTYPE html> tento zápis definuje že používame HTML5 tágy -->
+<!DOCTYPE html>
+<!-- 
+	html tag povie prehliadaču že toto je HTML dokument atribút lang definuje aký jazyk používame na stránke 
+	en hodnota definuje že používame anglický jazyk 
+-->
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<!-- vždy píšeme náš HTML kód teda kostru stránky do body HTML tágu -->
 
 <body>
-	<p>My first paragraph.</p>
-	<h1>this is heading 1</h1>
-	<h2>this is heading 2</h2>
-	<h3>this is heading 3</h3>
-	<h4>this is heading 4</h4>
-	<h5>this is heading 5</h5>
-	<h6>this is heading 6</h6>
-	<ul>
-		<li>Coffee</li>
-		<li>Tea</li>
-		<li>Milk</li>
-	</ul>
-	<p>This is normal text -
-		<b>and this is bold text</b>.</p>
-	<p>He named his car
-		<i>The lightning</i>, because it was very fast.</p>
-	<p>
-		<s>My car is blue.</s>
-	</p>
-	<p>this is some text.</p>
-	<hr>
-	<p>this is some other text.</p>
-	<hr>
-	<em>Emphasized text</em>
-	<kbd>Keyboard input</kbd>
-	<pre>
-		Text in a pre element
-		is displayed in a fixed-width
-		font, and it preserves
-		both      spaces and
-		line breaks
-	</pre>
-	<p>WWF's goal is to:
-		<q>Build a future where people live in harmony with nature.</q>
-		We hope they succeed.
-	</p>
-	<samp>Sample output from a computer program</samp>
-	<strong>Strong text</strong>
-	<var>Variable</var>
-	<p>This is a <u>parragraph</u>.</p>
-	<p>This text contains <sub>subscript</sub> text.</p>
-	<p>This text contains <sup>superscript</sup> text.</p>
-	<table>
-		<tr>
-			<th>Month</th>
-			<th>Savings</th>
-		</tr>
-		<tr>
-			<td>January</td>
-			<td>$100</td>
-		</tr>
-	</table>
+	<!-- jednoriadkový komentár -->
+	<!-- 
+        viac 
+        riadkový 
+        komentár 
+    -->
+	<h1>nadpis1</h1>
+	<h2>nadpis2</h2>
+	<h3>nadpis3</h3>
+	<h4>nadpis4</h4>
+	<h5>nadpis5</h5>
+	<h6>nadpis6</h6>
+	<p>dlho dlhokansky text...</p>
+	<div>blok1 block html tag</div>
+	<div>blok2 block html tag</div>
+	<span>neblok1 inline html tag</span>
+	<span>neblok2 inline html tag</span>
+	<div>
+		<h2>podnadpis1</h2>
+		<p>dlho dlhokansky <span>text</span>...</p>
+		<p>
+			dlho dlhokansky text dlho dlhokansky text dlho
+			dlhokansky text dlho dlhokansky text dlho dlhokansky
+			text dlho dlhokansky text dlho dlhokansky text dlho
+			dlhokansky text <br> presne tu ziadkujem vďaka br html
+			dlho dlhokansky text dlho dlhokansky text dlho
+			dlhokansky text
+		</p>
+		<hr>
+		<p>
+			dlho dlhokansky text text text text text textdlho
+			dlhokansky text text <b>tento text bude tučný vďaka b
+				html tagu</b> dlho dlho text text text text text
+			dlho dlhokansky text text text text text textdlho
+			<i>tento text bude italic</i> t dlho dlhonaky text
+			dlho dlhokansky text text text text text textdlho
+			<s>text ktorí bude preškrtnutý vďaka s html tagu</s>
+			text dlho dlho dlhokansky text text text text text
+			<sup>tento text bude zarovnany nahor vďaka sup html tagu</sup>
+			dlho dlhokansky text text text text text text dlho text
+			<sub>tento text bude zarovnany dole vďaka sub html tagu</sub>
+			dlho dlhokansky text text text text text textdlho
+			<u>tento text bude podciarknutý vďaka u html tagu</u>
+			dlho dlhokansky text text text text text textdlho
+			<small>tento text bude menší vďaka small html tagu</small>
+			dlho dlhokansky text text text text text textdlho
+			<samp>tento text bude mat style vďaka samp html tagu</samp>
+			dlho dlhokansky text text text text text textdlho
+			<code>text bude podciarknutý vďaka code html tagu</code>
+			dlho dlhokansky text text text text text textdlho
+			<strong>text bude tučným a pri prečítani číta hlasnejšie
+				vďaka strong html tagu</strong> dlho dlhokansky text
+			dlho dlhokansky text text text text text textdlho
+			<em>tento text zdôrazdní text vďaka em html tagu</em>
+			dlho dlhokansky text text text text text textdlho
+			<kbd>tento text definuje vstup z klavesnice vďaka kbd
+				html tagu</kbd> dlh dlho dlhokansky text text text text
+			dlho dlhokansky text text text text text textdlho
+			<mark>text bude farebne označený mark html tagu</mark>
+			dlho dlhokansky text text text text text textdlho
+			<blockquote>text označuje blokový citáciu blockquote
+				html tagu</blockquote> dlh dlho dlhokansky text text
+			dlho dlhokansky text text text text text textdlho
+			<q>text kratká citacia vďaka q html tagu</q> dlho
+			dlhokansky text text text text text textdlho
+		</p>
+		<pre>
+            text1
+                 text2
+            text3
+        </pre>
+	</div>
 </body>
+
 </html>

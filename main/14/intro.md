@@ -1,103 +1,110 @@
 [&#129188; späť](../../README.md)</br>
 
-## Modul 13: Javascript selektovanie elementov, zoznamenie sa so style objektom, ktori obsahuje color, backgorundColor, fontSize.... a použitie metódy addEventListener(prvy parameter event, druhy parameter vytvorena funkcia co sa ma udiať), innerHTML
+## Modul 13: Javascript selektory
 
 ### 13. hodina
 
-#### Javascript selektovanie elementov
-- [JavaScript HTML DOM Elements](https://www.w3schools.com/js/js_htmldom_elements.asp)</br>
-ako sa vyťahujú dáta z objektu</br>
+#### Javascript selektory
+- [príklady s operátormi](https://www.w3schools.com/jsref/jsref_operators.asp)</br>
+- [aritmetické, priraďovacie operátory](https://www.w3schools.com/js/js_operators.asp)</br>
+- [porovnávacie a logické operátory](https://www.w3schools.com/js/js_comparisons.asp)</br>
 ```js
-const objekt = {
-    vek: 25,
-    farba: 'black'
+console.log('16' == 16) // true lebo neporovnáva typ t.j. string a číslo
+console.log('16' === 16) // false lebo porovnáva typ t.j. string a číslo
+// opak
+console.log('16' != 16) // true lebo neporovnáva typ t.j. string a číslo
+console.log('16' !== 16) // false lebo porovnáva typ t.j. string a číslo
+```
+
+#### Javascript dátové typy
+- [dátové typy](https://www.w3schools.com/js/js_datatypes.asp)</br>
+```js
+const length = 16;                              // Number
+const lastName = "Johnson"                      // String
+const x = {firstName:"John", lastName:"Doe"}    // Object
+const cars = ["Saab", "Volvo", "BMW"]           // Array
+
+```
+Pridaním čísku k stringu sa stáva z čísla string</br>
+```js
+const cislo16BudeString = 16 + "Volvo"
+console.log(cislo16BudeString)
+var textPriradenyTextu = "16" + "Volvo"
+console.log(textPriradenyTextu)
+var x = "Volvo" + 16 + 4 
+console.log(x) //Volvo164
+```
+
+#### Javascript typeof()
+```js
+console.log(typeof(""))                     // Returns "string"
+console.log(typeof("John"))                 // Returns "string"
+console.log(typeof("John Doe"))             // Returns "string"
+console.log(typeof(undefined))              // undefined
+console.log(typeof(null))                   // object
+
+console.log(null === undefined)             // false
+console.log(null == undefined)              // true
+console.log(typeof(true))                   // Returns "boolean"
+console.log(typeof(false))                  // Returns "boolean"
+console.log(typeof({name:'John', age:34}))  // Returns "object"
+console.log(typeof([1,2,3,4]))              // Returns "object" (not "array", see note below)
+console.log(typeof(null))                   // Returns "object"
+console.log(typeof(function myFunc(){}))    // Returns "function"
+```
+
+#### Javascript scope
+[príklad](https://www.w3schools.com/js/js_scope.asp)</br>
+
+#### Javascript if()
+[príklad](https://www.w3schools.com/js/js_if_else.asp)</br>
+```js
+// podmienka ktora ak je splnená tj. true vykoná sa to čo je definované v {}
+if(/*podmienka*/) {
+    // sem pisem co chcem aby sa vykonalo ak je splnena podmienka v zatvorkách ()
 }
-console.log(objekt.vek) // 25
-console.log(objekt.farba) // 'black'
-console.log(objekt.vek, objekt.farba) // 25 'black'
-```
-ako sa vyťahujú dáta z pola</br>
-```js
-const objekt = [
-    25, 'black'
-]
-console.log(objekt[0]) // 25
-console.log(objekt[1]) // 'black'
-console.log(objekt[0], objekt[1]) // 25 'black'
-```
-predstava toho ako vyťahovať parametre nejako takto vyzerá DOM pre elementy</br>
-```js
-const document = {
-    seleketnutyElement1: {
-        style: {
-            color: 'black',
-            backgroundColor: 'white',
-            fontSize: '16px'
-        },
-        innerHTML: 'bla bla text'
+// priklad
+const funkcia = function(pocetKolobeziek) {
+    if(pocetKolobeziek >= 6) {
+        console.log('zlava 30%')
     }
-    seleketnutyElement2: {
-        style: {
-            color: 'black',
-            backgroundColor: 'white',
-            fontSize: '16px'
-        },
-        innerHTML: 'bla bla text'
+    else if(pocetKolobeziek >= 4) {
+        console.log('zlava 20%')
+    }
+    else if(pocetKolobeziek < 4) {
+        console.log('zlava 10%')
     }
 }
+funkcia(10)
 ```
-selektovanie pomocou id</br>
+
+#### Javascript switch()
+[príklad](https://www.w3schools.com/js/js_switch.asp)</br>
 ```js
-const selektElementPomocouId = document.getElementById("mojeId")
+const funkcia = function(pocetKolobeziek) {
+    switch(true) {
+        case (pocetKolobeziek >= 6):
+            console.log('zlava 30%')
+            break
+        case (pocetKolobeziek >= 4):
+            console.log('zlava 20%')
+            break
+        case (pocetKolobeziek < 4):
+            console.log('zlava 10%')
+            break
+        default:
+            console.log('žiadna')
+    }
+}
+funkcia(10)
 ```
-selektovanie pomocou html tagu</br>
+
+#### Javascript for()
+[príklad](https://www.w3schools.com/js/js_loop_for.asp)</br>
 ```js
-const selektElementPomocouId = document.getElementsByTagName("p")
-```
-selektovanie pomocou class</br>
-```js
-const selektElementPomocouId = document.getElementsByClassName("nazovClassy")
-```
-selektovanie pomocou css selektorov</br>
-```js
-const selektElementPomocouId = document.querySelectorAll(".mojaClass")
-const selektElementPomocouClass = document.querySelectorAll("#mojeId")
-const selektElementPomocouTagu = document.querySelectorAll("a")
-const selektElementPomocouAtributu = document.querySelectorAll("a[class]")
-const selektHoverEfekt = document.querySelectorAll("a:hover")
-```
-#### Javascript style objekt
-pridavanie štýlov pomocou javascriptu</br>
-- [všetky možnosti ktore sa nachadzaju v objekte style](https://www.w3schools.com/jsref/dom_obj_style.asp)
-```js
-const selektElementPomocouClass = document.querySelectorAll(".mojaClass")[0]
-selektElementPomocouClass.style.color = 'red' // zmenim selektnutému elementu farbu textu na červenú
-selektElementPomocouClass.style.backgroundColor = 'red' // zmenim selektnutému elementu farbu pozadia na červenú
-selektElementPomocouClass.style.fontSize = '25px' // zmenim selektnutému elementu veľkosť písma na 25px
-```
-zmena textu pomocou javascriptu</br>
-```html
-<p class='mojaClass'>text ktori bude nahradeny</p>
-```
-```js
-const selektElementPomocouClass = document.querySelectorAll(".mojaClass")[0]
-console.log(selektElementPomocouClass.innerHTML) // výstup bude text ktori bude nahradeny
-selektElementPomocouClass.innerHTML = 'tento text nahradi aktuálny'
-console.log(selektElementPomocouClass.innerHTML) // výstup bude tento text nahradi aktuálny
-```
-### Javascript event click
-- [event click](https://www.w3schools.com/jsref/event_onclick.asp)
-príklad ako kontrolovať udalosť, že sa kliklo na element</br>
-```html
-<div class='btn'>tlacidlo</div>
-```
-ak kliknem na text tlacidlo udeje sa to ze v konzole vypise text `na element sa kliklo`</br>
-```js
-const element = document.querySelectorAll('btn')[0]
-element.addEventListener('click',coSaMaStatPoKliku)
-function coSaMaStatPoKliku() {
-    console.log('na element sa kliklo')
+for(let i = 0; i < 5; i++) {
+    console.log('mam sa fajne toľko krát sa zopakujem: ' + i)
+    // toto je taký istý console log ako hore využitie es6
+    console.log(`mam sa fajne toľko krát sa zopakujem ${i}`)
 }
 ```
-príklad ako pomocou HTML a Javascriptom vytvoriť tlačidlo, ktoré po kliknutí zmení výšku druhému elementu a zmení priehľadnosť textu</br>
-[príklad](index.html)</br>
