@@ -44,7 +44,10 @@ stiahnite si editor:<br>
 #### Doplňujúce videa Visual Studio Code<br>
 
 NASTAVENIE editora Visual Studio Code<br>
-[![NASTAVENIE editora Visual Studio Code](https://www.youtube-nocookie.com/embed/4wVF4w_53hs?rel=0/0.jpg)](https://www.youtube-nocookie.com/embed/4wVF4w_53hs?rel=0)
+<a href="https://youtu.be/4wVF4w_53hs
+" target="_blank"><img src="https://i.ytimg.com/vi_webp/4wVF4w_53hs/maxresdefault.webp" 
+alt="NASTAVENIE editora Visual Studio Code" width="240" height="180" border="10" /></a>
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4wVF4w_53hs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 Extensions nástroje<br>
