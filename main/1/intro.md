@@ -44,23 +44,22 @@ stiahnite si editor:<br>
 #### Doplňujúce videa Visual Studio Code<br>
 
 NASTAVENIE editora Visual Studio Code<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wVF4w_53hs" frameborder="0"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4wVF4w_53hs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+[![NASTAVENIE editora Visual Studio Code](http://img.youtube.com/vi/4wVF4w_53hs/0.jpg)](http://www.youtube.com/watch?v=4wVF4w_53hs "NASTAVENIE editora Visual Studio Code")<br>
 Extensions nástroje<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fed01v3yYNE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+[![Extensions nástroje](http://img.youtube.com/vi/Fed01v3yYNE/0.jpg)](http://www.youtube.com/watch?v=Fed01v3yYNE "Extensions nástroje")
+<br>
 Vyšší level:<br>
 Editácia vášho kódu pomocu editora Visual Studio Code<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rsatrlBEFFA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+[![Editácia vášho kódu pomocu editora Visual Studio Code](http://img.youtube.com/vi/rsatrlBEFFA/0.jpg)](http://www.youtube.com/watch?v=rsatrlBEFFA "Editácia vášho kódu pomocu editora Visual Studio Code")
+<br>
 Extension Intellisense doplňovač kódu Visual Studio Code<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lSPHucggmLo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Extension Intellisense doplňovač kódu Visual Studio Code<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lSPHucggmLo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+[![Extension Intellisense doplňovač kódu Visual Studio Cod](http://img.youtube.com/vi/lSPHucggmLo/0.jpg)](http://www.youtube.com/watch?v=lSPHucggmLo "Extension Intellisense doplňovač kódu Visual Studio Cod")<br>
 Debuggovanie v editore Visual Studio Code<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2oFKNL7vYV8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+[![Debuggovanie v editore Visual Studio Code](http://img.youtube.com/vi/2oFKNL7vYV8/0.jpg)](http://www.youtube.com/watch?v=2oFKNL7vYV8 "Debuggovanie v editore Visual Studio Code")
+<br>
 Git v editore Visual Studio Code<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AKNYgP0yEOY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+[![Git v editore Visual Studio Code](http://img.youtube.com/vi/AKNYgP0yEOY/0.jpg)](http://www.youtube.com/watch?v=AKNYgP0yEOY "Git v editore Visual Studio Code")
+<br>
 
 <hr>
 
