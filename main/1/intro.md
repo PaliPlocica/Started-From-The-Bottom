@@ -4,8 +4,7 @@
 
 ### 1. hodina
 
-
-#### Video ČO JE Visual Studio Code<br>
+#### ČO JE Visual Studio Code<br>
 
 [![ČO JE Visual Studio Code](http://img.youtube.com/vi/Sdg0ef2PpBw/0.jpg)](http://www.youtube.com/watch?v=Sdg0ef2PpBw "ČO JE Visual Studio Code")
 <br>

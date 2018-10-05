@@ -18,6 +18,8 @@ Nezabudnite si písať poznámky čo ste nepochopili alebo nevedeli.
 
 #### info o html tagoch a atributoch:</br>
 
+- [info o zoznamoch](https://nvie.com/posts/a-successful-git-branching-model/)</br>
+
 - [info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)</br>
 - [info tabuľkách](https://www.w3schools.com/html/html_tables.asp)</br>
 - [info o <img> HTML tagu](https://www.w3schools.com/tags/tag_img.asp)</br>
