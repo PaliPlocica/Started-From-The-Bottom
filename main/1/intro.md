@@ -12,9 +12,7 @@
 
 #### Stiahnite si editor Visual Studio Code<br>
 
-[Visual Studio Code]
-: https://code.visualstudio.com/docs/?dv=win
-<br>
+<a href="https://code.visualstudio.com/docs/?dv=win" target="_blank">Visual Studio Code</a><br>
 
 <hr>
 
