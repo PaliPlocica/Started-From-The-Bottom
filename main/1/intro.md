@@ -57,5 +57,6 @@ pdf s klavesovimy skratkami pre Linux
 #### Čo si pripraviť do budúcej hodiny:<br>
 
 stiahnite si: <br>
-Git bash - <https://git-scm.com/downloads/><br>
-node.js knižnicu - <https://nodejs.org/en/download><br>
+[Git bash](https://git-scm.com/downloads/)<br>
+[node.js knižnicu](https://nodejs.org/en/download)<br>
+[sourceTree](https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.6.10.exe?_ga=2.130873935.191283009.1538773739-2133317863.1538513447)<br>
