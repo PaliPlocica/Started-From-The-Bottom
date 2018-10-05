@@ -13,7 +13,7 @@
 #### Stiahnite si editor Visual Studio Code<br>
 
 [Visual Studio Code]
-(https://code.visualstudio.com/docs/?dv=win)
+: https://code.visualstudio.com/docs/?dv=win
 <br>
 
 <hr>
