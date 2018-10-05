@@ -13,14 +13,15 @@
 #### Stiahnite si editor Visual Studio Code<br>
 
 [Visual Studio Code]
-(https://code.visualstudio.com/docs/?dv=win){:target="_blank"}<br>
+(https://code.visualstudio.com/docs/?dv=win)
+<br>
 
 <hr>
 
 #### Homework/Domáca úloha<br>
 
 do foldra, ktorí ste si vytvorili na hodine s názvom napr. hodina-1 vytvorte file s názvom index.html v ktorom sa pokúste použiť všetky html tágy, ktoré sme prebrali na hodine, ak by ste nevedeli, ktoré tak tú je file čo sme robili na hodine<br>
-[domaca uloha](homework/solution.html){:target="_blank"}<br>
+[domaca uloha](homework/solution.html)<br>
 nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nevedeli urobiť...<br>
 
 <hr>
@@ -50,27 +51,27 @@ Git v editore Visual Studio Code<br>
 
 #### Info o skratkách pre editor Visual Studio Code<br>
 
-Prečítajte si a vyskúšajte pár skratiek, ked niektoré pochopíte a zapáčia sa vám môžte používať aj v iných pracovných prostrediach...[skratky pre počítače s operačným systémom windows](keybindings.md){:target="_blank"}<br>
-[skratky pre počítače s operačným systémom windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf){:target="_blank"}<br>
+Prečítajte si a vyskúšajte pár skratiek, ked niektoré pochopíte a zapáčia sa vám môžte používať aj v iných pracovných prostrediach...[skratky pre počítače s operačným systémom windows](keybindings.md)<br>
+[skratky pre počítače s operačným systémom windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)<br>
 [skratky pre počítače s operačným systémom Mac]
-(https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf){:target="_blank"}<br>
+(https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)<br>
 [skratky pre počítače s operačným systémom Linux]
-(https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf){:target="_blank"}<br>
+(https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)<br>
 
 <hr>
 
 #### Pozor tieto linky si preštudujte<br>
 
-- [info o elementoch](https://www.w3schools.com/html/html_elements.asp){:target="_blank"}<br>
-- [zakladne info o hlavičkových tágoch h1,h2,...,h6](https://www.w3schools.com/html/html_headings.asp){:target="_blank"}<br>
-- [zakladne info o paragraphs html tagoch pre, br, pre](https://www.w3schools.com/html/html_paragraphs.asp){:target="_blank"}<br>
-- [info o blokových elementoch, zaberajú celú šírku obrazovky](https://www.w3schools.com/html/html_blocks.asp){:target="_blank"}<br>
-- [info o inlineových elementoch, ktoré zaberajú len toľko koľko potrebujú](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements){:target="_blank"}<br>
-- [html tagy na formatovanie textu](https://www.w3schools.com/html/html_formatting.asp){:target="_blank"}<br>
-- [info ako vytvárať commenty](https://www.w3schools.com/html/html_comments.asp){:target="_blank"}<br>
-- [citacie pomocou html tagov](https://www.w3schools.com/html/html_paragraphs.asp){:target="_blank"}<br>
-- [vsetky html tagy podľa kategórie](https://www.w3schools.com/tags/ref_byfunc.asp){:target="_blank"}<br>
-- [vsetky html tagy po kope](http://overapi.com/html){:target="_blank"}<br>
+- [info o elementoch](https://www.w3schools.com/html/html_elements.asp)<br>
+- [zakladne info o hlavičkových tágoch h1,h2,...,h6](https://www.w3schools.com/html/html_headings.asp)<br>
+- [zakladne info o paragraphs html tagoch pre, br, pre](https://www.w3schools.com/html/html_paragraphs.asp)<br>
+- [info o blokových elementoch, zaberajú celú šírku obrazovky](https://www.w3schools.com/html/html_blocks.asp)<br>
+- [info o inlineových elementoch, ktoré zaberajú len toľko koľko potrebujú](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)<br>
+- [html tagy na formatovanie textu](https://www.w3schools.com/html/html_formatting.asp)<br>
+- [info ako vytvárať commenty](https://www.w3schools.com/html/html_comments.asp)<br>
+- [citacie pomocou html tagov](https://www.w3schools.com/html/html_paragraphs.asp)<br>
+- [vsetky html tagy podľa kategórie](https://www.w3schools.com/tags/ref_byfunc.asp)<br>
+- [vsetky html tagy po kope](http://overapi.com/html)<br>
 
 <hr>
 
@@ -78,8 +79,8 @@ Prečítajte si a vyskúšajte pár skratiek, ked niektoré pochopíte a zapáč
 
 stiahnite si:<br>
 [Git bash]
-(https://git-scm.com/downloads/){:target="_blank"}<br>
+(https://git-scm.com/downloads/)<br>
 [node.js knižnicu]
-(https://nodejs.org/en/download){:target="_blank"}<br>
+(https://nodejs.org/en/download)<br>
 [sourceTree]
-(https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.6.10.exe?_ga=2.130873935.191283009.1538773739-2133317863.1538513447){:target="_blank"}<br>
+(https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.6.10.exe?_ga=2.130873935.191283009.1538773739-2133317863.1538513447)<br>
