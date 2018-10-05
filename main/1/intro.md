@@ -45,8 +45,7 @@ stiahnite si editor:<br>
 
 NASTAVENIE editora Visual Studio Code<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wVF4w_53hs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wVF4w_53hs" frameborder="0"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4wVF4w_53hs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 Extensions nástroje<br>
