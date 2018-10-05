@@ -59,13 +59,3 @@ pdf s klavesovimy skratkami pre Linux
 stiahnite si: <br>
 Git bash - <https://git-scm.com/downloads/><br>
 node.js knižnicu - <https://nodejs.org/en/download><br>
-
-<hr>
-
-[info o skratkách](keybindings.md)<br>
-pdf s klavesovimy skratkami pre Windows
-<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf><br>
-pdf s klavesovimy skratkami pre Mac
-<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf><br>
-pdf s klavesovimy skratkami pre Linux
-<https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf><br>
