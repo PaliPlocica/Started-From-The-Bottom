@@ -11,39 +11,36 @@
 <br>
 
 #### Stiahnite si editor Visual Studio Code<br>
-
-[Visual Studio Code]
-: https://code.visualstudio.com/docs/?dv=win
-<br>
+<a href="https://code.visualstudio.com/docs/?dv=win" target="_blank">Visual Studio Code</a><br>
 
 <hr>
 
 #### Homework/Domáca úloha<br>
 
-do foldra, ktorí ste si vytvorili na hodine s názvom napr. hodina-1 vytvorte file s názvom index.html v ktorom sa pokúste použiť všetky html tágy, ktoré sme prebrali na hodine, ak by ste nevedeli, ktoré tak tú je file čo sme robili na hodine<br>
+Do foldra, ktorí ste si vytvorili na hodine s názvom napr. hodina-1 vytvorte file s názvom index.html v ktorom sa pokúste použiť všetky html tágy, ktoré sme prebrali na hodine, ak by ste nevedeli, ktoré tak tú je file čo sme robili na hodine<br>
 [domaca uloha](homework/solution.html)<br>
 nezabudnite používať komentáre k tomu čo ste neporozumeli alebo čo ste nevedeli urobiť...<br>
 
 <hr>
 
 
-#### Doplňujúce videa Visual Studio Code<br>
+## Doplňujúce videa Visual Studio Code<br>
 
-NASTAVENIE editora Visual Studio Code<br>
+#### NASTAVENIE editora Visual Studio Code<br>
 [![NASTAVENIE editora Visual Studio Code](http://img.youtube.com/vi/4wVF4w_53hs/0.jpg)](http://www.youtube.com/watch?v=4wVF4w_53hs "NASTAVENIE editora Visual Studio Code")<br>
-Extensions nástroje<br>
+#### Extensions nástroje<br>
 [![Extensions nástroje](http://img.youtube.com/vi/Fed01v3yYNE/0.jpg)](http://www.youtube.com/watch?v=Fed01v3yYNE "Extensions nástroje")
 <br>
-Vyšší level:<br>
-Editácia vášho kódu pomocu editora Visual Studio Code<br>
+#### Vyšší level:<br>
+#### Editácia vášho kódu pomocu editora Visual Studio Code<br>
 [![Editácia vášho kódu pomocu editora Visual Studio Code](http://img.youtube.com/vi/rsatrlBEFFA/0.jpg)](http://www.youtube.com/watch?v=rsatrlBEFFA "Editácia vášho kódu pomocu editora Visual Studio Code")
 <br>
-Extension Intellisense doplňovač kódu Visual Studio Code<br>
+#### Extension Intellisense doplňovač kódu Visual Studio Code<br>
 [![Extension Intellisense doplňovač kódu Visual Studio Cod](http://img.youtube.com/vi/lSPHucggmLo/0.jpg)](http://www.youtube.com/watch?v=lSPHucggmLo "Extension Intellisense doplňovač kódu Visual Studio Cod")<br>
-Debuggovanie v editore Visual Studio Code<br>
+#### Debuggovanie v editore Visual Studio Code<br>
 [![Debuggovanie v editore Visual Studio Code](http://img.youtube.com/vi/2oFKNL7vYV8/0.jpg)](http://www.youtube.com/watch?v=2oFKNL7vYV8 "Debuggovanie v editore Visual Studio Code")
 <br>
-Git v editore Visual Studio Code<br>
+#### Git v editore Visual Studio Code<br>
 [![Git v editore Visual Studio Code](http://img.youtube.com/vi/AKNYgP0yEOY/0.jpg)](http://www.youtube.com/watch?v=AKNYgP0yEOY "Git v editore Visual Studio Code")
 <br>
 
@@ -77,7 +74,7 @@ Prečítajte si a vyskúšajte pár skratiek, ked niektoré pochopíte a zapáč
 
 #### Čo si pripraviť do budúcej hodiny:<br>
 
-stiahnite si:<br>
+#### stiahnite si:<br>
 [Git bash]
 (https://git-scm.com/downloads/)<br>
 [node.js knižnicu]
