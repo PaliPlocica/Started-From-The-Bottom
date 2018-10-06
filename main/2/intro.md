@@ -28,7 +28,8 @@ stiahnite si tento [zazipovany folder](vscodeExtensions.zip) alebo [zararovany f
 
 <hr>
 toto skopirujem
-```
+<pre>
+<code>
   {
     "key": "ctrl+alt+l",
     "command": "HookyQR.beautify",
@@ -39,7 +40,8 @@ toto skopirujem
     "command": "blankLine.process",
     "when": "editorFocus"
   }
-```
+</code>
+</pre>
 <hr>
 
 #### registracia na github verzionovač vášho kódu a vytvorenie repositara alias krabičky<br>
