@@ -41,11 +41,11 @@ video sa pripravuje
 - [info o zoznamoch](https://nvie.com/posts/a-successful-git-branching-model/)<br>
 - [info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)<br>
 - [info tabuľkách](https://www.w3schools.com/html/html_tables.asp)<br>
-- [info o <img> HTML tagu](https://www.w3schools.com/tags/tag_img.asp)<br>
+- [info o IMG HTML tagu](https://www.w3schools.com/tags/tag_img.asp)<br>
 - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)<br>
 - [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)<br>
 - [info o atributoch](https://www.w3schools.com/html/html_attributes.asp)<br>
-- [info o <a> HTML tagu](https://www.w3schools.com/tags/tag_a.asp)<br>
+- [info o A HTML tagu](https://www.w3schools.com/tags/tag_a.asp)<br>
 
 Tag môže obsahovať ľubovoľný počet atribútov.
 Atribúty bližšie špecifikujú vlastnosti tagu.
