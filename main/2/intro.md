@@ -8,25 +8,29 @@
 Je software, ktorí sa používa na správu vášho vykopirovaného repositára z github-u alebo iného úložiska dát...
 
 #### Inštalácia SourceTree<br>
+pracuje sa na videu
+
+<hr>
 
 #### Node.js<br>
 <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank">info o node.js</a><br>
 
-#### Inštalácia node.js knižnicu<br>
+#### Inštalácia node.js knižnice<br>
+pracuje sa na videu
+<hr>
 
 #### Git bash<br>
 <a href="https://git-scm.com/about" target="_blank">info o git bash</a><br>
 <a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging" target="_blank">info o funkciach, ktoré môžme robiť vrámci git bash</a><br>
 <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">info čo sa štandardne dodržiava vo firmách</a><br>
 
-#### Inštalácia node.js knižnicu<br>
-
+<hr>
 
 #### Inštalácia doplnkov do editora<br>
 stiahnite si tento [zazipovany folder](vscodeExtensions.zip) alebo [zararovany folder](vscodeExtensions.rar) odzipujte alebo odrarujte ho a otvorte vo Visual Studio Code, potom nasledujte kroky vo videu
 
-
 <hr>
+
 toto skopirujem
 <pre>
 <code>
@@ -44,18 +48,14 @@ toto skopirujem
 </pre>
 <hr>
 
-#### registracia na github verzionovač vášho kódu a vytvorenie repositara alias krabičky<br>
+#### Vytvorenie github účtu<br>
  <https://github.com/join><br>
-vyplnte udaje a click Create an account, kedže nechcete platiť 7dugatov mesacne a mat sukromne repositare alias krabičky tak si nechajte Unlimited public repositories for free, potom continue, ten step 3 necham na vas...
-verifikujte teda potvrdte si účet. Na email vam prišlo info...<br>
-Ďalej prejdime na vytvorenie vášho prvého repa alias krabičky, najprv na githube sa preklikneme na váš profil
 
 <hr>
 
 #### info o html tagoch a atributoch:<br>
 
 - [info o zoznamoch](https://nvie.com/posts/a-successful-git-branching-model/)<br>
-
 - [info o zoznamoch](https://www.w3schools.com/html/html_lists.asp)<br>
 - [info tabuľkách](https://www.w3schools.com/html/html_tables.asp)<br>
 - [info o <img> HTML tagu](https://www.w3schools.com/tags/tag_img.asp)<br>
