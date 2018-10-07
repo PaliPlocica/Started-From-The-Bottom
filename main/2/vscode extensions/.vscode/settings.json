@@ -1,0 +1,61 @@
+{
+  // Core settings
+  "editor.rulers": [80, 160],
+  "editor.formatOnSave": true,
+  "files.autoSave": "off",
+  "files.eol": "\n",
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "search.exclude": {
+    "**/bin": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "**/template": true,
+    "**/__snapshots__/": true
+  },
+  // Packages settings
+  "eslint.autoFixOnSave": true,
+  "eslint.enable": true,
+  "flow.useNPMPackagedFlow": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "html.format.wrapLineLength": 80,
+  "highlight-matching-tag.enabled": true,
+  "highlight-matching-tag.highlightSelfClosing": true,
+  "highlight-matching-tag.leftStyle": {
+    "borderWidth": "0",
+    "borderStyle": "solid",
+    "borderColor": "transparent",
+    "borderRadius": "0"
+  },
+  "highlight-matching-tag.rightStyle": {
+    "borderWidth": "0",
+    "borderStyle": "solid",
+    "borderColor": "transparent",
+    "borderRadius": "0"
+  },
+  "highlight-matching-tag.style": {
+    "textDecoration": "underline"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "gitlens.keymap": "chorded",
+  "explorer.confirmDragAndDrop": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "gitlens.historyExplorer.enabled": true,
+  "editor.matchBrackets": false,
+  "window.zoomLevel": 0,
+  "editor.wordWrapColumn": 180,
+  "workbench.startupEditor": "newUntitledFile"
+}
