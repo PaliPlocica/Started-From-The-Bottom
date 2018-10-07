@@ -29,8 +29,6 @@ pracuje sa na videu
 #### Inštalácia doplnkov do editora<br>
 stiahnite si tento [zazipovany folder](vscodeExtensions.zip) alebo [zararovany folder](vscodeExtensions.rar) odzipujte alebo odrarujte ho a otvorte vo Visual Studio Code, potom nasledujte kroky vo videu
 
-<hr>
-
 toto skopirujem
 <pre>
 <code>
