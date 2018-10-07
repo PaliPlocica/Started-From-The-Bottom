@@ -5,7 +5,7 @@
 ### 2. hodina
 
 #### SourceTree<br>
-Je software, ktorí sa používa na správu vášho vykopirovaného repositára z github-u alebo iného úložiska dát...
+Sourcetree zjednodušuje interakciu s vašimi úložiskami Git, aby ste sa mohli sústrediť na kódovanie. Vizualizujte a spravujte svoje úložiská pomocou jednoduchého Git GUI od Sourcetree.
 
 #### Inštalácia SourceTree<br>
 pracuje sa na videu
