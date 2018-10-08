@@ -15,9 +15,9 @@ pracuje sa na videu
 #### Node.js<br>
 <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank">info o node.js</a><br>
 
-#### Inštalácia node.js knižnice<br>
-pracuje sa na videu
-<hr>
+#### Inštalácia Node.js knižnice<br>
+[![Inštalácia Node.js](https://youtu.be/qw6MkX-cucU "Inštalácia Node.js")
+<br>
 
 #### Git bash<br>
 <a href="https://git-scm.com/about" target="_blank">info o git bash</a><br>
