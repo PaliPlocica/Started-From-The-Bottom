@@ -47,7 +47,7 @@ video sa pripravuje
 #### info o html tagoch a atributoch:<br>
 - <a href="https://www.w3schools.com/html/html_lists.asp" target="_blank">info o zoznamoch</a><br>
 - <a href="https://www.w3schools.com/html/html_tables.asp" target="_blank">info o tabuľkách</a><br>
-- <a href="https://www.w3schools.com/html/tags/tag_img.asp" target="_blank">info o <code><img></code> HTML tagu</a><br>
+- <a href="https://www.w3schools.com/html/tags/tag_img.asp" target="_blank">info o <pre><img></pre> HTML tagu</a><br>
 - [info o pisani html tagoch pre vzhlad stranok1](https://www.w3schools.com/html/html_layout.asp)<br>
 - [info o pisani html tagoch pre vzhlad stranok2](https://www.developer.com/lang/understanding-the-proper-way-to-lay-out-a-page-with-html5.html)<br>
 - [info o atributoch](https://www.w3schools.com/html/html_attributes.asp)<br>
