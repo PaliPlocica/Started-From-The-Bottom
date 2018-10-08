@@ -23,16 +23,14 @@ pracuje sa na videu
 
 <hr>
 
-#### Inštalácia Git bash<br>
-<a href="https://gitforwindows.org/" target="_blank">inštalačná linka pre Git bash</a><br>
-
-[![Inštalácia Git bash](http://img.youtube.com/vi/RdMf7TV0kic/0.jpg)](http://www.youtube.com/watch?v=RdMf7TV0kic "Inštalácia Git bash")
-<br>
-
 #### Git bash<br>
 <a href="https://git-scm.com/about" target="_blank">info o git bash</a><br>
 <a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging" target="_blank">info o funkciach, ktoré môžme robiť vrámci git bash</a><br>
 <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">info čo sa štandardne dodržiava vo firmách</a><br>
+<a href="https://gitforwindows.org/" target="_blank">inštalačná linka pre Git bash</a><br>
+
+[![Inštalácia Git bash](http://img.youtube.com/vi/RdMf7TV0kic/0.jpg)](http://www.youtube.com/watch?v=RdMf7TV0kic "Inštalácia Git bash")
+<br>
 
 <hr>
 
