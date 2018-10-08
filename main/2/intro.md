@@ -12,11 +12,11 @@ pracuje sa na videu
 
 <hr>
 
-#### Node.js<br>
+#### info o Node.js<br>
 <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank">info o node.js</a><br>
 
-#### Inštalácia Node.js knižnice<br>
-[![Inštalácia Node.js](https://youtu.be/qw6MkX-cucU "Inštalácia Node.js")
+#### Inštalácia Node.js<br>
+[![Inštalácia Node.js](http://img.youtube.com/vi/qw6MkX-cucU/0.jpg)](http://www.youtube.com/watch?v=qw6MkX-cucU "Inštalácia Node.js")
 <br>
 
 #### Git bash<br>
