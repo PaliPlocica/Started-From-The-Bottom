@@ -26,7 +26,7 @@ pracuje sa na videu
 #### Inštalácia Git bash<br>
 <a href="https://gitforwindows.org/" target="_blank">inštalačná linka pre Git bash</a><br>
 
-[![Inštalácia Node.js](http://img.youtube.com/vi/qw6MkX-cucU/0.jpg)](http://www.youtube.com/watch?v=qw6MkX-cucU "Inštalácia Node.js")
+[![Inštalácia Git bash](http://img.youtube.com/vi/RdMf7TV0kic/0.jpg)](http://www.youtube.com/watch?v=RdMf7TV0kic "Inštalácia Git bash")
 <br>
 
 #### Git bash<br>
