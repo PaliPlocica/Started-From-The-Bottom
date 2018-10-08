@@ -16,6 +16,16 @@ pracuje sa na videu
 <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank">info o node.js</a><br>
 
 #### Inštalácia Node.js<br>
+<a href="https://nodejs.org/en/" target="_blank">inštalačná linka pre Node.js</a><br>
+
+[![Inštalácia Node.js](http://img.youtube.com/vi/qw6MkX-cucU/0.jpg)](http://www.youtube.com/watch?v=qw6MkX-cucU "Inštalácia Node.js")
+<br>
+
+<hr>
+
+#### Inštalácia Git bash<br>
+<a href="https://gitforwindows.org/" target="_blank">inštalačná linka pre Git bash</a><br>
+
 [![Inštalácia Node.js](http://img.youtube.com/vi/qw6MkX-cucU/0.jpg)](http://www.youtube.com/watch?v=qw6MkX-cucU "Inštalácia Node.js")
 <br>
 
