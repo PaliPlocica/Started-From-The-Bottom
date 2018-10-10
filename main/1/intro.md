@@ -74,7 +74,7 @@ Prečítajte si a vyskúšajte pár skratiek, ked niektoré pochopíte a zapáč
 
 #### Čo si pripraviť do budúcej hodiny:<br>
 
-tiahnite si:<br>
+stiahnite si:<br>
 <a href="https://git-scm.com/downloads/" target="_blank">Git bash</a><br>
 <a href="https://nodejs.org/en/download" target="_blank">node.js knižnicu</a><br>
 <a href="https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.6.10.exe?_ga=2.130873935.191283009.1538773739-2133317863.1538513447" target="_blank">sourceTree</a><br>
