@@ -7,12 +7,10 @@
 [Handbook html css](main/html-css-handbook.pdf)<br>
 [Handbook js jquery](main/jquery-handbook.pdf)<br>
 
-<!-- 
 [základ na kopírovanie po 8 hodinu rar](default.rar)<br>
 [základ na kopírovanie po 8 hodinu zip](default.zip)<br>
 
 [CSS almanac](https://css-tricks.com/almanac/)<br>
--->
 - [1. hodina](main/1/intro.md) &#10004;
 - [2. hodina](main/2/intro.md) &#10004;
 - [3. hodina](main/3/intro.md) &#10004;
