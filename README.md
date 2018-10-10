@@ -1,3 +1,4 @@
+<!-- 
 # OSNOVA 3-mesačného kurzu WEB DESIGNER
 
 ### Obsah
@@ -29,3 +30,4 @@
 
 
 [gatsby](gatsby.zip) &#10004;
+-->
